@@ -1,0 +1,1001 @@
+transaction_id,account_id,transaction_date,amount,transaction_type,merchant,location,is_fraud,high_amount_flag,time_diff,rapid_txn_flag,prev_location,location_change_flag,fraud_flag,customer_id,balance,account_status,name,age,city,account_type,join_date
+T0254,A001,2026-02-20 09:29:10,67022,Credit,Allen LLC,New Henry,1,True,,False,,False,True,C001,38773,Dormant,Anita Cooper,40,East Maria,Savings,2021-08-04
+T0029,A001,2026-03-28 17:22:12,39365,Credit,Bryant and Sons,North Jennifer,0,False,3138782.0,False,New Henry,False,False,C001,38773,Dormant,Anita Cooper,40,East Maria,Savings,2021-08-04
+T0134,A001,2026-04-17 18:57:17,70773,Debit,"Chang, Dunlap and Marshall",Daniellefort,1,True,1733705.0,False,North Jennifer,False,True,C001,38773,Dormant,Anita Cooper,40,East Maria,Savings,2021-08-04
+T0786,A001,2026-04-20 22:03:27,42099,Debit,Sherman-Thomas,Lake Jennifershire,0,False,270370.0,False,Daniellefort,False,False,C001,38773,Dormant,Anita Cooper,40,East Maria,Savings,2021-08-04
+T0546,A002,2026-03-04 17:26:07,26379,Debit,"Hansen, Young and Martin",West Sarah,0,False,,False,,False,False,C002,146245,Active,Kimberly Bailey,63,Port Lindaview,Current,2025-11-21
+T0125,A002,2026-04-08 06:11:21,44009,Debit,West-Pitts,Kathleenport,0,False,2983514.0,False,West Sarah,False,False,C002,146245,Active,Kimberly Bailey,63,Port Lindaview,Current,2025-11-21
+T0559,A003,2026-02-15 12:06:57,44415,Debit,West-Howard,Lake Kyle,0,False,,False,,False,False,C003,70948,Dormant,Tiffany Forbes,56,Heatherview,Current,2021-10-06
+T0456,A003,2026-03-06 02:28:31,98499,Debit,Deleon Group,Michaelfurt,0,True,1606894.0,False,Lake Kyle,False,True,C003,70948,Dormant,Tiffany Forbes,56,Heatherview,Current,2021-10-06
+T0024,A004,2026-01-10 23:15:05,12385,Credit,Allen LLC,Matthewburgh,0,False,,False,,False,False,C004,12333,Active,Joshua Larsen,51,Port Joel,Current,2021-10-08
+T0025,A004,2026-02-15 04:57:36,42647,Credit,"Ford, Holland and Robinson",South Jamesmouth,0,False,3044551.0,False,Matthewburgh,False,False,C004,12333,Active,Joshua Larsen,51,Port Joel,Current,2021-10-08
+T0873,A004,2026-03-20 11:46:52,74947,Credit,Thomas-Maxwell,Lake Debbiestad,0,True,2875756.0,False,South Jamesmouth,False,True,C004,12333,Active,Joshua Larsen,51,Port Joel,Current,2021-10-08
+T0329,A005,2026-01-12 05:32:37,74316,Credit,"Bullock, Diaz and Fuller",Seanmouth,0,True,,False,,False,True,C005,83386,Blocked,Christopher Cooper,53,Barkerton,Current,2023-05-10
+T0542,A005,2026-02-27 02:03:53,46363,Credit,Frederick PLC,East Cory,0,False,3961876.0,False,Seanmouth,False,False,C005,83386,Blocked,Christopher Cooper,53,Barkerton,Current,2023-05-10
+T0968,A005,2026-03-05 03:35:26,14917,Debit,Rodgers and Sons,South Donald,0,False,523893.0,False,East Cory,False,False,C005,83386,Blocked,Christopher Cooper,53,Barkerton,Current,2023-05-10
+T0995,A005,2026-03-08 13:56:53,73892,Debit,Wade Ltd,Port Robertshire,0,True,296487.0,False,South Donald,False,True,C005,83386,Blocked,Christopher Cooper,53,Barkerton,Current,2023-05-10
+T0527,A005,2026-04-09 00:17:00,56359,Credit,"Wilson, Lynch and Brown",Jasminefurt,0,True,2715607.0,False,Port Robertshire,False,True,C005,83386,Blocked,Christopher Cooper,53,Barkerton,Current,2023-05-10
+T0690,A006,2026-01-13 10:17:21,56426,Debit,Ross PLC,North Micheal,0,True,,False,,False,True,C006,56707,Blocked,Ashley Joseph,40,East Catherineton,Current,2023-09-10
+T0286,A006,2026-02-20 09:47:12,6945,Debit,Shelton-Fuller,Port Blakefort,0,False,3281391.0,False,North Micheal,False,False,C006,56707,Blocked,Ashley Joseph,40,East Catherineton,Current,2023-09-10
+T0291,A006,2026-04-11 00:45:51,96249,Credit,Humphrey and Sons,Melissachester,0,True,4287519.0,False,Port Blakefort,False,True,C006,56707,Blocked,Ashley Joseph,40,East Catherineton,Current,2023-09-10
+T0284,A007,2026-01-16 22:07:19,78876,Credit,Schwartz-Kelley,New Shelia,0,True,,False,,False,True,C007,93429,Dormant,Sarah Hall,55,North Patricia,Savings,2026-04-11
+T0940,A007,2026-02-15 06:59:45,9772,Credit,Mitchell-Rich,North Stephenburgh,0,False,2537546.0,False,New Shelia,False,False,C007,93429,Dormant,Sarah Hall,55,North Patricia,Savings,2026-04-11
+T0056,A007,2026-02-21 21:57:10,7935,Credit,"Bishop, Rush and Ross",Pattersonstad,0,False,572245.0,False,North Stephenburgh,False,False,C007,93429,Dormant,Sarah Hall,55,North Patricia,Savings,2026-04-11
+T0290,A007,2026-02-22 13:09:19,41106,Debit,Evans-Lane,North Susanport,0,False,54729.0,False,Pattersonstad,False,False,C007,93429,Dormant,Sarah Hall,55,North Patricia,Savings,2026-04-11
+T0076,A007,2026-03-03 09:34:55,18619,Credit,Lawrence Inc,North Luke,0,False,764736.0,False,North Susanport,False,False,C007,93429,Dormant,Sarah Hall,55,North Patricia,Savings,2026-04-11
+T0684,A007,2026-03-09 09:21:14,31021,Credit,"Farmer, White and Mason",Adamburgh,0,False,517579.0,False,North Luke,False,False,C007,93429,Dormant,Sarah Hall,55,North Patricia,Savings,2026-04-11
+T0436,A008,2026-01-21 12:26:46,6002,Credit,"Jacobs, Byrd and Meadows",Benjaminmouth,0,False,,False,,False,False,C008,38711,Active,Yolanda Jones,22,North David,Current,2024-03-20
+T0816,A008,2026-04-06 03:40:30,43155,Credit,"Rios, Hill and Hopkins",Davidfurt,0,False,6448424.0,False,Benjaminmouth,False,False,C008,38711,Active,Yolanda Jones,22,North David,Current,2024-03-20
+T0366,A008,2026-04-07 22:34:40,71579,Credit,Jackson-Brown,West Lisaton,0,True,154450.0,False,Davidfurt,False,True,C008,38711,Active,Yolanda Jones,22,North David,Current,2024-03-20
+T0212,A009,2026-02-07 09:18:05,69201,Debit,"Hernandez, Potts and Williams",Greenhaven,1,True,,False,,False,True,C009,113735,Blocked,Matthew Mora,55,South Amandafurt,Savings,2026-03-02
+T0398,A009,2026-02-08 20:49:37,6374,Credit,"Smith, Carter and Chapman",Jacobburgh,0,False,127892.0,False,Greenhaven,False,False,C009,113735,Blocked,Matthew Mora,55,South Amandafurt,Savings,2026-03-02
+T0780,A009,2026-04-02 08:45:41,58069,Debit,Bennett-Baldwin,Mahoneychester,0,True,4535764.0,False,Jacobburgh,False,True,C009,113735,Blocked,Matthew Mora,55,South Amandafurt,Savings,2026-03-02
+T0806,A009,2026-04-03 07:14:26,51616,Debit,Brown LLC,South Brenda,0,True,80925.0,False,Mahoneychester,False,True,C009,113735,Blocked,Matthew Mora,55,South Amandafurt,Savings,2026-03-02
+T0852,A009,2026-04-18 11:45:31,21811,Debit,"Moore, Nielsen and Lewis",Browntown,0,False,1312265.0,False,South Brenda,False,False,C009,113735,Blocked,Matthew Mora,55,South Amandafurt,Savings,2026-03-02
+T0986,A010,2026-01-05 07:44:52,73384,Credit,"Ryan, Anderson and Quinn",North Davidburgh,0,True,,False,,False,True,C010,178711,Blocked,Rebecca Rodriguez,34,South David,Current,2025-10-31
+T0237,A010,2026-01-05 15:37:34,36767,Credit,Gill-Jones,Alejandraburgh,0,False,28362.0,False,North Davidburgh,False,False,C010,178711,Blocked,Rebecca Rodriguez,34,South David,Current,2025-10-31
+T0079,A010,2026-01-22 07:52:43,75302,Credit,Massey LLC,North Jacobton,0,True,1440909.0,False,Alejandraburgh,False,True,C010,178711,Blocked,Rebecca Rodriguez,34,South David,Current,2025-10-31
+T0363,A010,2026-02-20 16:22:12,15007,Debit,Martinez-Davenport,Johnbury,0,False,2536169.0,False,North Jacobton,False,False,C010,178711,Blocked,Rebecca Rodriguez,34,South David,Current,2025-10-31
+T0973,A010,2026-03-02 07:35:56,73559,Debit,"Mcguire, Brown and Foster",Lake Sherry,1,True,832424.0,False,Johnbury,False,True,C010,178711,Blocked,Rebecca Rodriguez,34,South David,Current,2025-10-31
+T0765,A010,2026-03-20 00:07:59,54266,Credit,Haynes and Sons,Nelsonton,1,True,1528323.0,False,Lake Sherry,False,True,C010,178711,Blocked,Rebecca Rodriguez,34,South David,Current,2025-10-31
+T0299,A010,2026-03-21 14:37:29,68423,Credit,Allen-Wilkins,Lake Peterville,0,True,138570.0,False,Nelsonton,False,True,C010,178711,Blocked,Rebecca Rodriguez,34,South David,Current,2025-10-31
+T0303,A010,2026-04-13 21:18:01,58450,Credit,"Cooper, Williamson and Walker",Walkerton,0,True,2011232.0,False,Lake Peterville,False,True,C010,178711,Blocked,Rebecca Rodriguez,34,South David,Current,2025-10-31
+T0356,A011,2026-01-30 06:19:48,43580,Credit,Adkins-Boyer,Amandaside,0,False,,False,,False,False,C011,107626,Dormant,Justin Olson,47,Port Ashleytown,Current,2023-05-06
+T0619,A011,2026-03-04 09:47:02,99591,Credit,Moore-Strickland,Michaelmouth,0,True,2863634.0,False,Amandaside,False,True,C011,107626,Dormant,Justin Olson,47,Port Ashleytown,Current,2023-05-06
+T0267,A011,2026-03-21 10:57:46,81451,Debit,Riggs Ltd,East Nicholaschester,0,True,1473044.0,False,Michaelmouth,False,True,C011,107626,Dormant,Justin Olson,47,Port Ashleytown,Current,2023-05-06
+T0268,A011,2026-03-26 14:34:54,48558,Debit,"Scott, Watson and Patterson",Port Williamchester,0,False,445028.0,False,East Nicholaschester,False,False,C011,107626,Dormant,Justin Olson,47,Port Ashleytown,Current,2023-05-06
+T0335,A011,2026-04-02 15:48:53,35123,Debit,"Jones, Reynolds and Davis",Port Gregory,0,False,609239.0,False,Port Williamchester,False,False,C011,107626,Dormant,Justin Olson,47,Port Ashleytown,Current,2023-05-06
+T0381,A011,2026-04-04 18:03:42,20019,Debit,Collins LLC,Lake Adrian,0,False,180889.0,False,Port Gregory,False,False,C011,107626,Dormant,Justin Olson,47,Port Ashleytown,Current,2023-05-06
+T0651,A011,2026-04-12 16:06:54,6109,Debit,Lewis LLC,Lake Sethtown,0,False,684192.0,False,Lake Adrian,False,False,C011,107626,Dormant,Justin Olson,47,Port Ashleytown,Current,2023-05-06
+T0762,A011,2026-04-15 14:59:59,57418,Debit,"Myers, Gonzales and Mitchell",North Stephanie,0,True,255185.0,False,Lake Sethtown,False,True,C011,107626,Dormant,Justin Olson,47,Port Ashleytown,Current,2023-05-06
+T0558,A012,2026-01-07 23:08:11,72494,Debit,Evans PLC,Patrickburgh,1,True,,False,,False,True,C012,135813,Active,Christopher Carter,50,Woodardfurt,Current,2022-06-15
+T0927,A012,2026-01-19 18:33:03,9408,Credit,Walter-Mills,North Joshua,0,False,1020292.0,False,Patrickburgh,False,False,C012,135813,Active,Christopher Carter,50,Woodardfurt,Current,2022-06-15
+T0609,A012,2026-01-21 04:13:19,22951,Credit,Gonzalez-West,Port Benjaminmouth,0,False,121216.0,False,North Joshua,False,False,C012,135813,Active,Christopher Carter,50,Woodardfurt,Current,2022-06-15
+T0424,A012,2026-02-12 21:20:53,83589,Credit,"Cross, Brown and Gill",Gregfurt,0,True,1962454.0,False,Port Benjaminmouth,False,True,C012,135813,Active,Christopher Carter,50,Woodardfurt,Current,2022-06-15
+T0784,A012,2026-02-15 16:13:18,73449,Debit,"Wilkerson, Hill and Richard",Farmerville,1,True,240745.0,False,Gregfurt,False,True,C012,135813,Active,Christopher Carter,50,Woodardfurt,Current,2022-06-15
+T0866,A012,2026-03-13 15:38:28,15585,Debit,Phillips Ltd,Evanside,0,False,2244310.0,False,Farmerville,False,False,C012,135813,Active,Christopher Carter,50,Woodardfurt,Current,2022-06-15
+T0142,A012,2026-04-05 22:37:13,9473,Debit,Martinez LLC,Shawnborough,0,False,2012325.0,False,Evanside,False,False,C012,135813,Active,Christopher Carter,50,Woodardfurt,Current,2022-06-15
+T0447,A013,2026-01-07 03:26:21,99567,Credit,Reed LLC,Pratthaven,0,True,,False,,False,True,C013,1034,Active,Tina Newman,23,Port Cassandraton,Savings,2022-03-11
+T0007,A013,2026-02-22 15:15:29,82906,Debit,Mann-Miller,East Alyssa,0,True,4016948.0,False,Pratthaven,False,True,C013,1034,Active,Tina Newman,23,Port Cassandraton,Savings,2022-03-11
+T0965,A013,2026-03-19 05:38:51,39028,Credit,Larson LLC,Lake Martha,0,False,2125402.0,False,East Alyssa,False,False,C013,1034,Active,Tina Newman,23,Port Cassandraton,Savings,2022-03-11
+T0804,A013,2026-03-23 22:09:38,41432,Debit,Brewer-Cherry,West Michaelberg,0,False,405047.0,False,Lake Martha,False,False,C013,1034,Active,Tina Newman,23,Port Cassandraton,Savings,2022-03-11
+T0312,A013,2026-04-12 22:37:42,60617,Credit,Wilson LLC,Gabriellaland,0,True,1729684.0,False,West Michaelberg,False,True,C013,1034,Active,Tina Newman,23,Port Cassandraton,Savings,2022-03-11
+T0326,A014,2026-01-11 15:09:25,23992,Credit,"Yates, Willis and Jones",Theresaland,0,False,,False,,False,False,C014,136328,Dormant,Elizabeth Harvey,44,South Kylemouth,Current,2021-07-09
+T0062,A014,2026-01-18 16:59:52,97587,Credit,"Burton, Bell and White",New Edwin,0,True,611427.0,False,Theresaland,False,True,C014,136328,Dormant,Elizabeth Harvey,44,South Kylemouth,Current,2021-07-09
+T0807,A014,2026-01-28 17:09:58,44338,Credit,Harrison LLC,East Samanthaland,0,False,864606.0,False,New Edwin,False,False,C014,136328,Dormant,Elizabeth Harvey,44,South Kylemouth,Current,2021-07-09
+T0987,A014,2026-02-25 13:34:43,86557,Debit,Jones Inc,Smithport,0,True,2406285.0,False,East Samanthaland,False,True,C014,136328,Dormant,Elizabeth Harvey,44,South Kylemouth,Current,2021-07-09
+T0570,A014,2026-03-13 17:52:44,74996,Credit,"Clark, Hart and Todd",Port Nicholasberg,0,True,1397881.0,False,Smithport,False,True,C014,136328,Dormant,Elizabeth Harvey,44,South Kylemouth,Current,2021-07-09
+T0411,A014,2026-04-10 19:49:10,30770,Debit,Kemp Ltd,Porterton,0,False,2426186.0,False,Port Nicholasberg,False,False,C014,136328,Dormant,Elizabeth Harvey,44,South Kylemouth,Current,2021-07-09
+T0956,A015,2026-01-08 21:25:45,30699,Debit,"Carrillo, Ryan and Campbell",North Michellefort,0,False,,False,,False,False,C015,71166,Blocked,Matthew Jackson,26,Lake Joseph,Current,2025-09-04
+T0375,A015,2026-02-16 11:51:25,60480,Debit,Harding PLC,New Cynthiaview,0,True,3335140.0,False,North Michellefort,False,True,C015,71166,Blocked,Matthew Jackson,26,Lake Joseph,Current,2025-09-04
+T0435,A015,2026-03-01 15:43:11,67553,Credit,"Cross, Hayes and Gonzales",North Robert,0,True,1137106.0,False,New Cynthiaview,False,True,C015,71166,Blocked,Matthew Jackson,26,Lake Joseph,Current,2025-09-04
+T0613,A016,2026-01-23 13:54:13,57172,Debit,Wilson Ltd,Torreschester,0,True,,False,,False,True,C016,33835,Blocked,Christine Pacheco,58,East Grace,Savings,2025-10-04
+T0841,A016,2026-02-10 15:58:12,36291,Debit,Hill PLC,Johnmouth,0,False,1562639.0,False,Torreschester,False,False,C016,33835,Blocked,Christine Pacheco,58,East Grace,Savings,2025-10-04
+T0508,A016,2026-03-12 19:18:01,22325,Debit,Bowers-Barton,West Kathrynhaven,0,False,2603989.0,False,Johnmouth,False,False,C016,33835,Blocked,Christine Pacheco,58,East Grace,Savings,2025-10-04
+T0818,A016,2026-04-11 16:34:21,19452,Credit,Carey Inc,Thompsonside,0,False,2582180.0,False,West Kathrynhaven,False,False,C016,33835,Blocked,Christine Pacheco,58,East Grace,Savings,2025-10-04
+T0854,A016,2026-04-17 01:01:30,7395,Credit,Fisher-Smith,Chambersstad,0,False,462429.0,False,Thompsonside,False,False,C016,33835,Blocked,Christine Pacheco,58,East Grace,Savings,2025-10-04
+T0401,A017,2026-01-29 05:18:17,9212,Debit,Williams Group,New Ernestborough,0,False,,False,,False,False,C017,85883,Blocked,William Thomas,52,Williamborough,Current,2022-05-10
+T0196,A017,2026-02-28 23:49:26,21128,Credit,Scott-Kelly,Fordton,0,False,2658669.0,False,New Ernestborough,False,False,C017,85883,Blocked,William Thomas,52,Williamborough,Current,2022-05-10
+T0020,A017,2026-03-05 08:12:50,52988,Debit,Garza-Mayer,Michaelmouth,1,True,375804.0,False,Fordton,False,True,C017,85883,Blocked,William Thomas,52,Williamborough,Current,2022-05-10
+T0745,A017,2026-03-12 11:00:36,78830,Credit,Morton-Harmon,Lisafort,0,True,614866.0,False,Michaelmouth,False,True,C017,85883,Blocked,William Thomas,52,Williamborough,Current,2022-05-10
+T0731,A017,2026-03-23 05:24:51,69802,Debit,Goodwin PLC,Brennanshire,0,True,930255.0,False,Lisafort,False,True,C017,85883,Blocked,William Thomas,52,Williamborough,Current,2022-05-10
+T0536,A017,2026-03-28 10:09:20,2036,Credit,Hall and Sons,Maryview,0,False,449069.0,False,Brennanshire,False,False,C017,85883,Blocked,William Thomas,52,Williamborough,Current,2022-05-10
+T0532,A018,2026-01-06 14:11:33,95133,Credit,Ross-Villarreal,North Mario,0,True,,False,,False,True,C018,60773,Dormant,Sheena Liu,45,East Jasmineton,Savings,2025-07-07
+T0472,A018,2026-01-11 16:03:06,8377,Debit,Wilson-Johnson,South Williamton,0,False,438693.0,False,North Mario,False,False,C018,60773,Dormant,Sheena Liu,45,East Jasmineton,Savings,2025-07-07
+T0906,A018,2026-01-28 08:00:34,76459,Credit,"Miller, Hoover and Hernandez",Phillipsland,0,True,1439848.0,False,South Williamton,False,True,C018,60773,Dormant,Sheena Liu,45,East Jasmineton,Savings,2025-07-07
+T0438,A018,2026-02-19 01:06:03,86647,Debit,"Contreras, Cole and Brooks",North Josephfort,0,True,1875929.0,False,Phillipsland,False,True,C018,60773,Dormant,Sheena Liu,45,East Jasmineton,Savings,2025-07-07
+T0571,A019,2026-01-12 15:23:46,78392,Credit,"Ingram, Davis and Blackburn",North Lauren,0,True,,False,,False,True,C019,199509,Dormant,Jamie Taylor,56,Lorimouth,Current,2022-10-21
+T0650,A019,2026-02-19 14:52:57,64303,Debit,"Robles, Monroe and Chapman",Josephburgh,0,True,3281351.0,False,North Lauren,False,True,C019,199509,Dormant,Jamie Taylor,56,Lorimouth,Current,2022-10-21
+T0246,A019,2026-02-20 08:07:58,71809,Credit,"Nelson, Patterson and Scott",Port Gary,0,True,62101.0,False,Josephburgh,False,True,C019,199509,Dormant,Jamie Taylor,56,Lorimouth,Current,2022-10-21
+T0344,A019,2026-03-11 17:54:27,26275,Debit,Morgan-Cruz,Chavezmouth,0,False,1676789.0,False,Port Gary,False,False,C019,199509,Dormant,Jamie Taylor,56,Lorimouth,Current,2022-10-21
+T0431,A019,2026-03-27 11:17:01,15112,Credit,Malone-Walker,New Carrieberg,0,False,1358554.0,False,Chavezmouth,False,False,C019,199509,Dormant,Jamie Taylor,56,Lorimouth,Current,2022-10-21
+T0809,A019,2026-04-09 02:23:22,40968,Credit,"Mckinney, Burgess and Gonzalez",Jenniferland,0,False,1091181.0,False,New Carrieberg,False,False,C019,199509,Dormant,Jamie Taylor,56,Lorimouth,Current,2022-10-21
+T0415,A020,2026-01-02 21:14:03,54465,Credit,Park LLC,Michellechester,1,True,,False,,False,True,C020,149713,Dormant,Stacy Hardy,25,Nicolemouth,Savings,2022-02-27
+T0665,A020,2026-02-10 21:57:26,7608,Credit,Le and Sons,Patriciatown,0,False,3372203.0,False,Michellechester,False,False,C020,149713,Dormant,Stacy Hardy,25,Nicolemouth,Savings,2022-02-27
+T0730,A020,2026-02-17 19:29:25,66619,Credit,Ortiz-Evans,Bridgeston,0,True,595919.0,False,Patriciatown,False,True,C020,149713,Dormant,Stacy Hardy,25,Nicolemouth,Savings,2022-02-27
+T0811,A020,2026-03-14 07:52:23,97525,Credit,Davis Group,Stephenland,0,True,2118178.0,False,Bridgeston,False,True,C020,149713,Dormant,Stacy Hardy,25,Nicolemouth,Savings,2022-02-27
+T0426,A020,2026-03-18 22:45:14,34246,Credit,Williams-Taylor,North Carolyn,0,False,399171.0,False,Stephenland,False,False,C020,149713,Dormant,Stacy Hardy,25,Nicolemouth,Savings,2022-02-27
+T0367,A020,2026-03-25 14:51:29,49976,Debit,Delacruz-Harvey,Port Charleston,0,False,576375.0,False,North Carolyn,False,False,C020,149713,Dormant,Stacy Hardy,25,Nicolemouth,Savings,2022-02-27
+T0010,A021,2026-01-07 20:07:57,65725,Credit,Lester PLC,Alexanderbury,0,True,,False,,False,True,C021,89435,Dormant,Robert Cline,25,Collinsfort,Current,2026-04-05
+T0767,A021,2026-01-09 00:44:07,67468,Credit,Robinson PLC,Ivanburgh,1,True,102970.0,False,Alexanderbury,False,True,C021,89435,Dormant,Robert Cline,25,Collinsfort,Current,2026-04-05
+T0823,A021,2026-02-15 02:08:22,74216,Debit,Hayes-Campos,Porterville,0,True,3201855.0,False,Ivanburgh,False,True,C021,89435,Dormant,Robert Cline,25,Collinsfort,Current,2026-04-05
+T0497,A021,2026-03-08 14:41:58,27914,Debit,Garcia Ltd,Rileytown,0,False,1859616.0,False,Porterville,False,False,C021,89435,Dormant,Robert Cline,25,Collinsfort,Current,2026-04-05
+T0052,A021,2026-03-14 14:48:41,95226,Credit,"Torres, Reyes and Hale",Hooverfurt,1,True,518803.0,False,Rileytown,False,True,C021,89435,Dormant,Robert Cline,25,Collinsfort,Current,2026-04-05
+T0350,A021,2026-03-18 02:11:00,83467,Credit,Bush PLC,Sullivanside,0,True,300139.0,False,Hooverfurt,False,True,C021,89435,Dormant,Robert Cline,25,Collinsfort,Current,2026-04-05
+T0038,A021,2026-03-25 03:58:21,25049,Debit,Patel-Mendez,Estradaberg,0,False,611241.0,False,Sullivanside,False,False,C021,89435,Dormant,Robert Cline,25,Collinsfort,Current,2026-04-05
+T0499,A021,2026-03-31 20:59:12,69552,Credit,Lewis-Freeman,Harrisstad,0,True,579651.0,False,Estradaberg,False,True,C021,89435,Dormant,Robert Cline,25,Collinsfort,Current,2026-04-05
+T0840,A021,2026-04-04 23:40:53,5637,Debit,Horn-Kelly,Port Markshire,0,False,355301.0,False,Harrisstad,False,False,C021,89435,Dormant,Robert Cline,25,Collinsfort,Current,2026-04-05
+T0305,A021,2026-04-12 04:52:32,12136,Debit,"Anderson, West and Harrison",Davisborough,0,False,623499.0,False,Port Markshire,False,False,C021,89435,Dormant,Robert Cline,25,Collinsfort,Current,2026-04-05
+T0513,A022,2026-01-11 10:48:31,88193,Debit,Beard-Jones,Hintonbury,0,True,,False,,False,True,C022,184119,Dormant,Angela Phillips,25,Lake Tricia,Savings,2025-06-01
+T0179,A022,2026-03-04 18:13:47,33848,Debit,"Gomez, Wilson and Mills",Keithside,0,False,4519516.0,False,Hintonbury,False,False,C022,184119,Dormant,Angela Phillips,25,Lake Tricia,Savings,2025-06-01
+T0644,A022,2026-03-25 00:51:15,3488,Credit,"Watson, Sweeney and Curtis",South Lisa,0,False,1751848.0,False,Keithside,False,False,C022,184119,Dormant,Angela Phillips,25,Lake Tricia,Savings,2025-06-01
+T0057,A022,2026-03-27 02:50:39,59560,Debit,"Ray, Ramirez and Reeves",North Julia,0,True,179964.0,False,South Lisa,False,True,C022,184119,Dormant,Angela Phillips,25,Lake Tricia,Savings,2025-06-01
+T0278,A022,2026-03-31 02:38:31,20855,Debit,Wilkins PLC,Donnaport,0,False,344872.0,False,North Julia,False,False,C022,184119,Dormant,Angela Phillips,25,Lake Tricia,Savings,2025-06-01
+T0501,A023,2026-01-09 03:45:34,19763,Debit,Gardner PLC,South Nicolefort,0,False,,False,,False,False,C023,165822,Dormant,Ruth Thompson,35,Port Matthewmouth,Current,2022-12-05
+T0647,A023,2026-02-27 19:19:01,26533,Credit,Knight-Martinez,Diazchester,0,False,4289607.0,False,South Nicolefort,False,False,C023,165822,Dormant,Ruth Thompson,35,Port Matthewmouth,Current,2022-12-05
+T0741,A023,2026-02-28 22:22:53,71837,Credit,"Molina, Sims and Parrish",Lake Johnfort,0,True,97432.0,False,Diazchester,False,True,C023,165822,Dormant,Ruth Thompson,35,Port Matthewmouth,Current,2022-12-05
+T0554,A023,2026-03-19 09:06:53,1745,Credit,Scott Group,South Brian,0,False,1593840.0,False,Lake Johnfort,False,False,C023,165822,Dormant,Ruth Thompson,35,Port Matthewmouth,Current,2022-12-05
+T0223,A023,2026-03-27 09:11:01,41968,Debit,Lowe-Johnson,South Valerieburgh,0,False,691448.0,False,South Brian,False,False,C023,165822,Dormant,Ruth Thompson,35,Port Matthewmouth,Current,2022-12-05
+T0886,A023,2026-03-31 20:55:57,8296,Debit,Rivera-Jordan,New Michaelland,0,False,387896.0,False,South Valerieburgh,False,False,C023,165822,Dormant,Ruth Thompson,35,Port Matthewmouth,Current,2022-12-05
+T0086,A023,2026-04-01 11:22:35,8104,Debit,"Clark, Nguyen and Black",East John,0,False,51998.0,False,New Michaelland,False,False,C023,165822,Dormant,Ruth Thompson,35,Port Matthewmouth,Current,2022-12-05
+T0460,A023,2026-04-15 02:01:31,31196,Credit,Perez-Mcguire,Dawnshire,0,False,1175936.0,False,East John,False,False,C023,165822,Dormant,Ruth Thompson,35,Port Matthewmouth,Current,2022-12-05
+T0127,A024,2026-01-04 17:45:13,5569,Debit,Hood PLC,Jacksonfurt,0,False,,False,,False,False,C024,107925,Dormant,Alexandria Johnson,24,East Johntown,Current,2024-11-19
+T0224,A024,2026-01-05 09:36:57,51683,Credit,Rodriguez-Murray,Lake Briannaborough,1,True,57104.0,False,Jacksonfurt,False,True,C024,107925,Dormant,Alexandria Johnson,24,East Johntown,Current,2024-11-19
+T0101,A024,2026-01-16 14:23:02,3712,Debit,Clements-Santos,Barnesfurt,0,False,967565.0,False,Lake Briannaborough,False,False,C024,107925,Dormant,Alexandria Johnson,24,East Johntown,Current,2024-11-19
+T0362,A024,2026-02-26 06:46:37,50753,Debit,Mccarthy-Cruz,Summermouth,0,True,3515015.0,False,Barnesfurt,False,True,C024,107925,Dormant,Alexandria Johnson,24,East Johntown,Current,2024-11-19
+T0126,A024,2026-03-05 22:14:38,93961,Credit,"Martinez, Mcdonald and Garcia",Stewartton,1,True,660481.0,False,Summermouth,False,True,C024,107925,Dormant,Alexandria Johnson,24,East Johntown,Current,2024-11-19
+T0845,A024,2026-03-28 06:56:21,50390,Debit,Turner-Carter,West Tinatown,0,True,1932103.0,False,Stewartton,False,True,C024,107925,Dormant,Alexandria Johnson,24,East Johntown,Current,2024-11-19
+T0149,A025,2026-02-24 03:10:21,58105,Credit,Meyer Group,South Charlene,1,True,,False,,False,True,C025,7035,Blocked,Kim Durham,38,Lake Joseph,Savings,2026-02-14
+T0116,A025,2026-02-25 08:24:42,26027,Credit,Shields LLC,Alisonmouth,0,False,105261.0,False,South Charlene,False,False,C025,7035,Blocked,Kim Durham,38,Lake Joseph,Savings,2026-02-14
+T0997,A025,2026-03-01 08:12:13,91254,Credit,"Norris, Brown and Wagner",East Ericmouth,0,True,344851.0,False,Alisonmouth,False,True,C025,7035,Blocked,Kim Durham,38,Lake Joseph,Savings,2026-02-14
+T0537,A025,2026-03-03 20:41:39,5421,Credit,"Hardy, Campbell and Robinson",Parksstad,0,False,217766.0,False,East Ericmouth,False,False,C025,7035,Blocked,Kim Durham,38,Lake Joseph,Savings,2026-02-14
+T0958,A025,2026-03-16 08:04:11,36564,Credit,Porter-Rodgers,West Nancy,0,False,1077752.0,False,Parksstad,False,False,C025,7035,Blocked,Kim Durham,38,Lake Joseph,Savings,2026-02-14
+T0021,A025,2026-03-17 12:06:05,72104,Debit,Raymond Ltd,Hancockbury,1,True,100914.0,False,West Nancy,False,True,C025,7035,Blocked,Kim Durham,38,Lake Joseph,Savings,2026-02-14
+T0199,A026,2026-01-04 07:10:07,89118,Credit,Reid LLC,West Nicole,1,True,,False,,False,True,C026,132283,Blocked,Patricia Grant,26,West Gregory,Savings,2023-04-20
+T0151,A026,2026-02-18 08:02:46,17266,Credit,"Strickland, Brown and Macdonald",New Jamesville,0,False,3891159.0,False,West Nicole,False,False,C026,132283,Blocked,Patricia Grant,26,West Gregory,Savings,2023-04-20
+T0433,A026,2026-02-24 13:49:45,65010,Debit,"Crawford, Carpenter and Obrien",Calhounfort,0,True,539219.0,False,New Jamesville,False,True,C026,132283,Blocked,Patricia Grant,26,West Gregory,Savings,2023-04-20
+T0296,A026,2026-02-28 08:03:46,52383,Credit,Martin Inc,Garciachester,1,True,324841.0,False,Calhounfort,False,True,C026,132283,Blocked,Patricia Grant,26,West Gregory,Savings,2023-04-20
+T0139,A026,2026-03-03 12:18:55,91829,Debit,Jenkins-Ferguson,Davidburgh,0,True,274509.0,False,Garciachester,False,True,C026,132283,Blocked,Patricia Grant,26,West Gregory,Savings,2023-04-20
+T0280,A026,2026-03-29 06:53:18,20070,Debit,"Palmer, Ryan and Avila",Jorgebury,0,False,2226863.0,False,Davidburgh,False,False,C026,132283,Blocked,Patricia Grant,26,West Gregory,Savings,2023-04-20
+T0833,A027,2026-01-13 12:54:15,99384,Debit,Davis PLC,New Patrick,1,True,,False,,False,True,C027,105563,Blocked,Heather Henderson,47,Troyland,Savings,2022-07-05
+T0096,A027,2026-01-26 07:03:04,33384,Debit,Martinez-Faulkner,Port Ashley,0,False,1102129.0,False,New Patrick,False,False,C027,105563,Blocked,Heather Henderson,47,Troyland,Savings,2022-07-05
+T0983,A027,2026-03-23 02:49:02,2713,Credit,Morales-Adams,West Debrabury,0,False,4823158.0,False,Port Ashley,False,False,C027,105563,Blocked,Heather Henderson,47,Troyland,Savings,2022-07-05
+T0770,A027,2026-04-22 22:45:06,56249,Credit,Hunter and Sons,Port Charles,1,True,2663764.0,False,West Debrabury,False,True,C027,105563,Blocked,Heather Henderson,47,Troyland,Savings,2022-07-05
+T0174,A028,2026-02-01 16:46:26,93038,Debit,Mckenzie-Walker,Smithtown,0,True,,False,,False,True,C028,28877,Active,Michelle Olson,65,South Nicoleton,Savings,2024-07-22
+T0831,A028,2026-03-20 13:56:23,28718,Credit,Mills-Hall,Lake Patrick,0,False,4050597.0,False,Smithtown,False,False,C028,28877,Active,Michelle Olson,65,South Nicoleton,Savings,2024-07-22
+T0327,A029,2026-01-04 08:18:03,95442,Debit,Henry-Sanchez,Scottmouth,0,True,,False,,False,True,C029,184586,Blocked,Christina Carey,23,Lake Melissaport,Current,2025-09-14
+T0742,A029,2026-01-07 03:00:16,56705,Credit,"Smith, Hester and Williams",South Mariaville,0,True,240133.0,False,Scottmouth,False,True,C029,184586,Blocked,Christina Carey,23,Lake Melissaport,Current,2025-09-14
+T0343,A029,2026-02-07 19:30:46,54544,Debit,Olson-Jenkins,West Kyle,1,True,2737830.0,False,South Mariaville,False,True,C029,184586,Blocked,Christina Carey,23,Lake Melissaport,Current,2025-09-14
+T0095,A029,2026-02-11 23:44:02,31583,Credit,"Mcmahon, Williams and Ellis",Lake Michael,0,False,360796.0,False,West Kyle,False,False,C029,184586,Blocked,Christina Carey,23,Lake Melissaport,Current,2025-09-14
+T0583,A029,2026-03-13 03:19:03,89531,Debit,Thompson PLC,Jasonbury,1,True,2518501.0,False,Lake Michael,False,True,C029,184586,Blocked,Christina Carey,23,Lake Melissaport,Current,2025-09-14
+T0219,A030,2026-01-30 08:14:11,36458,Debit,Strickland-Hebert,West Taylor,0,False,,False,,False,False,C030,4999,Dormant,Jose Dennis,21,Palmerchester,Current,2025-10-30
+T0953,A030,2026-02-04 13:02:08,65375,Credit,"Henry, Crosby and Thornton",Kellyview,0,True,449277.0,False,West Taylor,False,True,C030,4999,Dormant,Jose Dennis,21,Palmerchester,Current,2025-10-30
+T0610,A030,2026-02-14 14:20:05,35806,Credit,Daniels-Vasquez,East Teresahaven,0,False,868677.0,False,Kellyview,False,False,C030,4999,Dormant,Jose Dennis,21,Palmerchester,Current,2025-10-30
+T0592,A031,2026-01-08 12:23:37,19951,Credit,Woods-Powell,Ashleyfurt,0,False,,False,,False,False,C031,102267,Active,Patty Conrad,40,Nguyentown,Savings,2024-04-12
+T0819,A031,2026-01-17 22:07:55,28049,Debit,Mercado-Richards,Hollyville,0,False,812658.0,False,Ashleyfurt,False,False,C031,102267,Active,Patty Conrad,40,Nguyentown,Savings,2024-04-12
+T0106,A031,2026-01-26 00:19:47,29332,Debit,Smith LLC,Port Melanie,0,False,699112.0,False,Hollyville,False,False,C031,102267,Active,Patty Conrad,40,Nguyentown,Savings,2024-04-12
+T0383,A031,2026-01-30 12:05:47,63943,Debit,Park-Jones,Websterfort,0,True,387960.0,False,Port Melanie,False,True,C031,102267,Active,Patty Conrad,40,Nguyentown,Savings,2024-04-12
+T0138,A031,2026-01-31 20:06:53,4083,Debit,Miller-Fuller,Susanside,0,False,115266.0,False,Websterfort,False,False,C031,102267,Active,Patty Conrad,40,Nguyentown,Savings,2024-04-12
+T0157,A031,2026-04-03 23:29:07,28938,Credit,"Barker, Blankenship and Hayes",Michellemouth,0,False,5368934.0,False,Susanside,False,False,C031,102267,Active,Patty Conrad,40,Nguyentown,Savings,2024-04-12
+T0078,A031,2026-04-21 04:32:44,14390,Debit,Carter-Vasquez,South Shellymouth,0,False,1487017.0,False,Michellemouth,False,False,C031,102267,Active,Patty Conrad,40,Nguyentown,Savings,2024-04-12
+T0099,A032,2026-01-12 17:06:48,50543,Debit,Carrillo Inc,South Daniel,1,True,,False,,False,True,C032,35871,Active,Edward Duarte,57,Dunnberg,Savings,2023-06-30
+T0377,A032,2026-04-06 06:05:39,46520,Debit,"Hughes, Thompson and Jacobs",Lake Steve,0,False,7217931.0,False,South Daniel,False,False,C032,35871,Active,Edward Duarte,57,Dunnberg,Savings,2023-06-30
+T0341,A033,2026-01-23 01:38:26,51458,Credit,Foster-Gamble,Buckmouth,0,True,,False,,False,True,C033,25176,Active,Christina Clark,63,Robertmouth,Current,2025-04-26
+T0047,A033,2026-01-28 16:07:28,77159,Credit,Brown-Moore,Danielmouth,0,True,484142.0,False,Buckmouth,False,True,C033,25176,Active,Christina Clark,63,Robertmouth,Current,2025-04-26
+T0089,A033,2026-04-20 22:25:12,57158,Credit,Montgomery-Greer,Port Timothy,0,True,7107464.0,False,Danielmouth,False,True,C033,25176,Active,Christina Clark,63,Robertmouth,Current,2025-04-26
+T0452,A034,2026-01-22 17:44:13,50430,Credit,Stevens-Lucas,Cooperchester,0,True,,False,,False,True,C034,37994,Active,Sharon Brown,35,North Aaronshire,Current,2021-11-21
+T0701,A034,2026-02-12 00:25:38,9220,Credit,"West, Mcdonald and Wilson",Cuevasmouth,0,False,1752085.0,False,Cooperchester,False,False,C034,37994,Active,Sharon Brown,35,North Aaronshire,Current,2021-11-21
+T0539,A034,2026-03-21 16:29:27,33023,Debit,Gilbert-Friedman,Millerbury,0,False,3254629.0,False,Cuevasmouth,False,False,C034,37994,Active,Sharon Brown,35,North Aaronshire,Current,2021-11-21
+T0102,A034,2026-03-26 02:04:13,39527,Credit,Perez Inc,Thompsonport,0,False,380086.0,False,Millerbury,False,False,C034,37994,Active,Sharon Brown,35,North Aaronshire,Current,2021-11-21
+T0304,A035,2026-01-12 19:24:21,42228,Credit,Lane PLC,Gilmorestad,0,False,,False,,False,False,C035,43610,Blocked,Michael Kim,28,Dustinmouth,Current,2024-03-28
+T0782,A035,2026-01-19 08:59:40,76329,Credit,Huff-Robertson,East Stacey,0,True,567319.0,False,Gilmorestad,False,True,C035,43610,Blocked,Michael Kim,28,Dustinmouth,Current,2024-03-28
+T0316,A035,2026-02-19 23:37:54,30731,Credit,Greer-West,Melissaport,0,False,2731094.0,False,East Stacey,False,False,C035,43610,Blocked,Michael Kim,28,Dustinmouth,Current,2024-03-28
+T0560,A035,2026-02-26 15:14:50,78082,Credit,Byrd LLC,Kingville,1,True,574616.0,False,Melissaport,False,True,C035,43610,Blocked,Michael Kim,28,Dustinmouth,Current,2024-03-28
+T0371,A035,2026-03-03 16:00:41,24509,Credit,"Hurley, Simmons and Brown",Davisside,0,False,434751.0,False,Kingville,False,False,C035,43610,Blocked,Michael Kim,28,Dustinmouth,Current,2024-03-28
+T0900,A035,2026-04-14 09:06:18,37463,Debit,Gallagher-Williams,South Scottland,0,False,3603937.0,False,Davisside,False,False,C035,43610,Blocked,Michael Kim,28,Dustinmouth,Current,2024-03-28
+T0899,A036,2026-01-05 22:30:14,34898,Debit,Lee Inc,New Michaelfurt,0,False,,False,,False,False,C036,129129,Blocked,Brianna Hansen,39,Perezburgh,Savings,2024-05-11
+T0518,A036,2026-01-15 02:05:16,13923,Debit,Robinson-Hines,New Kellytown,0,False,790502.0,False,New Michaelfurt,False,False,C036,129129,Blocked,Brianna Hansen,39,Perezburgh,Savings,2024-05-11
+T0054,A036,2026-02-10 00:22:06,28504,Credit,Taylor-Stokes,Lake Brittanyport,0,False,2240210.0,False,New Kellytown,False,False,C036,129129,Blocked,Brianna Hansen,39,Perezburgh,Savings,2024-05-11
+T0374,A036,2026-02-26 09:02:09,15196,Debit,Mcguire-Norton,Hendersonborough,0,False,1413603.0,False,Lake Brittanyport,False,False,C036,129129,Blocked,Brianna Hansen,39,Perezburgh,Savings,2024-05-11
+T0130,A037,2026-01-16 01:02:19,94014,Debit,Brown Ltd,Matthewburgh,0,True,,False,,False,True,C037,129042,Blocked,Shannon Lewis,64,Williamsstad,Current,2024-11-27
+T0857,A037,2026-01-28 11:28:14,3078,Credit,Adams Inc,Hallport,0,False,1074355.0,False,Matthewburgh,False,False,C037,129042,Blocked,Shannon Lewis,64,Williamsstad,Current,2024-11-27
+T0414,A037,2026-02-04 11:21:11,97090,Credit,"Peterson, Haynes and Smith",East Sarahhaven,0,True,604377.0,False,Hallport,False,True,C037,129042,Blocked,Shannon Lewis,64,Williamsstad,Current,2024-11-27
+T0926,A037,2026-02-17 01:14:39,26451,Credit,Garcia Group,Lindaborough,0,False,1086808.0,False,East Sarahhaven,False,False,C037,129042,Blocked,Shannon Lewis,64,Williamsstad,Current,2024-11-27
+T0388,A037,2026-02-25 02:14:08,22342,Debit,"Smith, Lee and Walker",Michaelfort,0,False,694769.0,False,Lindaborough,False,False,C037,129042,Blocked,Shannon Lewis,64,Williamsstad,Current,2024-11-27
+T0642,A038,2026-01-07 12:59:08,61965,Credit,"Smith, Munoz and Powers",New Rachelview,0,True,,False,,False,True,C038,50273,Dormant,Amanda Mcgrath,26,South Jeromechester,Current,2025-04-03
+T0437,A038,2026-01-28 06:52:25,66746,Credit,"Johnson, Hardy and Brady",Port Jaredburgh,0,True,1792397.0,False,New Rachelview,False,True,C038,50273,Dormant,Amanda Mcgrath,26,South Jeromechester,Current,2025-04-03
+T0380,A038,2026-01-28 18:48:06,46025,Credit,Manning-Robbins,Evansberg,0,False,42941.0,False,Port Jaredburgh,False,False,C038,50273,Dormant,Amanda Mcgrath,26,South Jeromechester,Current,2025-04-03
+T0248,A038,2026-03-15 16:54:58,90356,Credit,Lopez-Cox,New Kristina,0,True,3967612.0,False,Evansberg,False,True,C038,50273,Dormant,Amanda Mcgrath,26,South Jeromechester,Current,2025-04-03
+T0916,A039,2026-01-31 23:28:09,27599,Credit,Anderson-Smith,East Andrewfurt,0,False,,False,,False,False,C039,169779,Dormant,Bethany Fry,36,Christopherville,Current,2022-04-06
+T0627,A039,2026-02-04 02:13:05,57829,Debit,Mcbride Inc,Perezport,0,True,269096.0,False,East Andrewfurt,False,True,C039,169779,Dormant,Bethany Fry,36,Christopherville,Current,2022-04-06
+T0273,A039,2026-03-02 12:09:58,6468,Credit,Clark-Hart,Harristown,0,False,2282213.0,False,Perezport,False,False,C039,169779,Dormant,Bethany Fry,36,Christopherville,Current,2022-04-06
+T0111,A039,2026-04-09 11:17:28,53245,Debit,Brown-Hall,Millerberg,1,True,3280050.0,False,Harristown,False,True,C039,169779,Dormant,Bethany Fry,36,Christopherville,Current,2022-04-06
+T0202,A039,2026-04-12 21:04:58,50092,Credit,"Brown, Anderson and Jackson",South Rachelfurt,0,True,294450.0,False,Millerberg,False,True,C039,169779,Dormant,Bethany Fry,36,Christopherville,Current,2022-04-06
+T0795,A039,2026-04-24 04:30:45,42967,Credit,Johnson-Stout,West Kayla,0,False,977147.0,False,South Rachelfurt,False,False,C039,169779,Dormant,Bethany Fry,36,Christopherville,Current,2022-04-06
+T0563,A040,2026-03-07 20:51:40,85868,Debit,Chen PLC,Gilbertchester,1,True,,False,,False,True,C040,20757,Dormant,Michael Richardson,35,New Jacqueline,Savings,2021-12-14
+T0060,A040,2026-03-28 11:30:37,67681,Debit,Nielsen-Griffith,Anthonybury,0,True,1780737.0,False,Gilbertchester,False,True,C040,20757,Dormant,Michael Richardson,35,New Jacqueline,Savings,2021-12-14
+T0623,A040,2026-04-09 01:15:09,48319,Debit,Valenzuela-Flores,Montgomeryburgh,0,False,999872.0,False,Anthonybury,False,False,C040,20757,Dormant,Michael Richardson,35,New Jacqueline,Savings,2021-12-14
+T0766,A040,2026-04-20 01:37:04,79173,Debit,"Gonzalez, Howard and Arnold",South Kevinside,0,True,951715.0,False,Montgomeryburgh,False,True,C040,20757,Dormant,Michael Richardson,35,New Jacqueline,Savings,2021-12-14
+T0112,A041,2026-01-01 15:13:45,48399,Debit,"Crawford, Holland and Wall",Susanmouth,0,False,,False,,False,False,C041,197784,Blocked,Mrs. Cynthia Thomas,58,Conradfort,Savings,2023-06-29
+T0354,A041,2026-01-02 20:26:07,90356,Debit,Hernandez PLC,Robinsonton,1,True,105142.0,False,Susanmouth,False,True,C041,197784,Blocked,Mrs. Cynthia Thomas,58,Conradfort,Savings,2023-06-29
+T0568,A041,2026-01-26 21:58:20,69408,Debit,"Ramsey, Graham and Alvarez",West Cynthia,0,True,2079133.0,False,Robinsonton,False,True,C041,197784,Blocked,Mrs. Cynthia Thomas,58,Conradfort,Savings,2023-06-29
+T0113,A041,2026-03-06 02:50:38,11692,Debit,Duncan Inc,North Joseph,0,False,3300738.0,False,West Cynthia,False,False,C041,197784,Blocked,Mrs. Cynthia Thomas,58,Conradfort,Savings,2023-06-29
+T0529,A041,2026-03-11 16:33:56,45489,Credit,Crawford-Andrews,West Heatherside,0,False,481398.0,False,North Joseph,False,False,C041,197784,Blocked,Mrs. Cynthia Thomas,58,Conradfort,Savings,2023-06-29
+T0616,A041,2026-04-04 21:05:27,59691,Debit,Reyes Ltd,Hoffmanmouth,0,True,2089891.0,False,West Heatherside,False,True,C041,197784,Blocked,Mrs. Cynthia Thomas,58,Conradfort,Savings,2023-06-29
+T0639,A042,2026-01-03 08:43:53,83905,Credit,"Morrow, Tran and Pham",Stephanieshire,0,True,,False,,False,True,C042,115361,Active,Daniel Hawkins,56,Jacksonside,Savings,2021-07-17
+T0922,A042,2026-01-25 22:11:56,87172,Credit,Estrada and Sons,Besttown,0,True,1949283.0,False,Stephanieshire,False,True,C042,115361,Active,Daniel Hawkins,56,Jacksonside,Savings,2021-07-17
+T0009,A042,2026-03-05 05:13:47,86771,Credit,Ramirez Group,Johnview,0,True,3308511.0,False,Besttown,False,True,C042,115361,Active,Daniel Hawkins,56,Jacksonside,Savings,2021-07-17
+T0243,A042,2026-04-22 03:11:59,94150,Debit,Adams and Sons,East Louis,1,True,4139892.0,False,Johnview,False,True,C042,115361,Active,Daniel Hawkins,56,Jacksonside,Savings,2021-07-17
+T0980,A043,2026-01-04 14:08:50,40972,Credit,Carson PLC,Michealside,0,False,,False,,False,False,C043,20486,Active,Tammy Lewis,40,East Jamesfurt,Savings,2023-10-18
+T0183,A043,2026-01-08 19:24:44,95027,Debit,Cook-Garcia,Erinbury,0,True,364554.0,False,Michealside,False,True,C043,20486,Active,Tammy Lewis,40,East Jamesfurt,Savings,2023-10-18
+T0204,A043,2026-02-05 08:16:38,69009,Debit,Morgan-Rowland,South Paulachester,0,True,2379114.0,False,Erinbury,False,True,C043,20486,Active,Tammy Lewis,40,East Jamesfurt,Savings,2023-10-18
+T0321,A043,2026-03-05 08:45:43,23384,Credit,Mendez-Harris,Christianberg,0,False,2420945.0,False,South Paulachester,False,False,C043,20486,Active,Tammy Lewis,40,East Jamesfurt,Savings,2023-10-18
+T0046,A043,2026-03-05 23:15:36,6259,Debit,"Lopez, Garrett and Johnson",West Patricia,0,False,52193.0,False,Christianberg,False,False,C043,20486,Active,Tammy Lewis,40,East Jamesfurt,Savings,2023-10-18
+T0372,A044,2026-01-13 10:55:20,35581,Debit,Gates and Sons,Port Glennberg,0,False,,False,,False,False,C044,152619,Dormant,Shannon Logan,64,West Jasmine,Savings,2022-09-03
+T0176,A044,2026-02-12 00:45:31,99124,Debit,Mathis Inc,Beckerborough,0,True,2555411.0,False,Port Glennberg,False,True,C044,152619,Dormant,Shannon Logan,64,West Jasmine,Savings,2022-09-03
+T0207,A044,2026-03-13 16:52:25,39292,Credit,"Ruiz, Gutierrez and Singh",New Amyshire,0,False,2563614.0,False,Beckerborough,False,False,C044,152619,Dormant,Shannon Logan,64,West Jasmine,Savings,2022-09-03
+T0004,A044,2026-03-21 09:07:05,44121,Credit,"Escobar, Shea and Gomez",Sullivanberg,0,False,663280.0,False,New Amyshire,False,False,C044,152619,Dormant,Shannon Logan,64,West Jasmine,Savings,2022-09-03
+T0914,A045,2026-01-02 02:44:08,54835,Debit,"Bridges, Malone and Ford",Robinton,1,True,,False,,False,True,C045,181091,Active,Monica Evans,54,Lake Marystad,Current,2025-04-18
+T0572,A045,2026-02-03 07:08:40,64365,Credit,Gonzalez-Scott,East Kyle,1,True,2780672.0,False,Robinton,False,True,C045,181091,Active,Monica Evans,54,Lake Marystad,Current,2025-04-18
+T0813,A045,2026-03-02 09:31:51,12372,Debit,"Lewis, Ford and Smith",Mooreburgh,0,False,2341391.0,False,East Kyle,False,False,C045,181091,Active,Monica Evans,54,Lake Marystad,Current,2025-04-18
+T0150,A045,2026-03-11 03:51:36,24007,Debit,"Martinez, Jennings and Fletcher",Markton,0,False,757185.0,False,Mooreburgh,False,False,C045,181091,Active,Monica Evans,54,Lake Marystad,Current,2025-04-18
+T0491,A045,2026-04-09 14:01:17,60995,Debit,"Charles, Nelson and Cox",North Patriciaberg,0,True,2542181.0,False,Markton,False,True,C045,181091,Active,Monica Evans,54,Lake Marystad,Current,2025-04-18
+T0595,A045,2026-04-13 03:34:12,82621,Credit,Gonzalez-Harris,South Ryan,1,True,307975.0,False,North Patriciaberg,False,True,C045,181091,Active,Monica Evans,54,Lake Marystad,Current,2025-04-18
+T0545,A046,2026-01-12 07:18:44,69111,Credit,Clark-Waters,East Kenneth,0,True,,False,,False,True,C046,115134,Active,Christopher Singleton,62,Kennethville,Current,2021-07-28
+T0970,A046,2026-02-21 10:09:10,7084,Credit,"Roberts, Brown and Dawson",Lake Rachelview,0,False,3466226.0,False,East Kenneth,False,False,C046,115134,Active,Christopher Singleton,62,Kennethville,Current,2021-07-28
+T0607,A046,2026-03-06 00:28:14,12999,Credit,Valentine-Young,Hansonborough,0,False,1088344.0,False,Lake Rachelview,False,False,C046,115134,Active,Christopher Singleton,62,Kennethville,Current,2021-07-28
+T0221,A046,2026-04-12 10:05:16,46695,Credit,Sanchez-Wilson,Lisamouth,0,False,3231422.0,False,Hansonborough,False,False,C046,115134,Active,Christopher Singleton,62,Kennethville,Current,2021-07-28
+T0982,A047,2026-01-11 15:23:16,40884,Credit,Mcguire-Morris,Port Betty,0,False,,False,,False,False,C047,185060,Active,Jennifer Kim,46,Michelleton,Savings,2022-10-27
+T0920,A047,2026-02-04 10:49:39,99562,Credit,Hill-Lopez,Lindamouth,1,True,2057183.0,False,Port Betty,False,True,C047,185060,Active,Jennifer Kim,46,Michelleton,Savings,2022-10-27
+T0950,A047,2026-02-21 05:55:18,21848,Debit,"Johnson, Peters and Marshall",South Nicole,0,False,1451139.0,False,Lindamouth,False,False,C047,185060,Active,Jennifer Kim,46,Michelleton,Savings,2022-10-27
+T0071,A047,2026-03-18 10:05:54,63400,Debit,Snyder-Buckley,Penaport,1,True,2175036.0,False,South Nicole,False,True,C047,185060,Active,Jennifer Kim,46,Michelleton,Savings,2022-10-27
+T0346,A047,2026-03-28 09:36:17,54576,Credit,Fletcher and Sons,Lake Charlesborough,0,True,862223.0,False,Penaport,False,True,C047,185060,Active,Jennifer Kim,46,Michelleton,Savings,2022-10-27
+T0443,A047,2026-03-30 09:52:26,42969,Credit,"Hampton, Davis and Martinez",Lake Zachary,0,False,173769.0,False,Lake Charlesborough,False,False,C047,185060,Active,Jennifer Kim,46,Michelleton,Savings,2022-10-27
+T0353,A048,2026-02-27 01:09:26,62634,Credit,Mcclure-Morgan,Lake Wayne,1,True,,False,,False,True,C048,51666,Blocked,Brittany Wright,47,Patriciabury,Savings,2021-06-05
+T0931,A048,2026-03-02 12:48:22,75052,Debit,Hill-Richardson,Shorthaven,0,True,301136.0,False,Lake Wayne,False,True,C048,51666,Blocked,Brittany Wright,47,Patriciabury,Savings,2021-06-05
+T0494,A048,2026-03-12 03:02:33,47656,Credit,Reynolds LLC,Port Jennifer,0,False,828851.0,False,Shorthaven,False,False,C048,51666,Blocked,Brittany Wright,47,Patriciabury,Savings,2021-06-05
+T0408,A048,2026-03-15 03:39:14,16690,Debit,Moreno-Macias,Gabrielport,0,False,261401.0,False,Port Jennifer,False,False,C048,51666,Blocked,Brittany Wright,47,Patriciabury,Savings,2021-06-05
+T0805,A049,2026-01-24 05:32:00,90747,Credit,Cameron-Carter,Kingburgh,0,True,,False,,False,True,C049,182001,Blocked,Dylan Hendricks,21,West Kevinfurt,Current,2024-04-13
+T0580,A049,2026-01-26 23:53:05,92271,Credit,"Carr, Vargas and Rocha",Valentineport,1,True,238865.0,False,Kingburgh,False,True,C049,182001,Blocked,Dylan Hendricks,21,West Kevinfurt,Current,2024-04-13
+T0538,A049,2026-02-01 05:54:57,12382,Debit,Hudson-Campbell,Mitchellmouth,0,False,453712.0,False,Valentineport,False,False,C049,182001,Blocked,Dylan Hendricks,21,West Kevinfurt,Current,2024-04-13
+T0779,A049,2026-02-25 19:31:43,64828,Credit,"Bridges, Hayes and Zhang",Richardburgh,0,True,2122606.0,False,Mitchellmouth,False,True,C049,182001,Blocked,Dylan Hendricks,21,West Kevinfurt,Current,2024-04-13
+T0556,A049,2026-03-07 03:58:41,91468,Credit,Porter-Foster,Carlaport,0,True,808018.0,False,Richardburgh,False,True,C049,182001,Blocked,Dylan Hendricks,21,West Kevinfurt,Current,2024-04-13
+T0131,A050,2026-04-13 08:31:39,50314,Debit,Small PLC,West Chelseaview,0,True,,False,,False,True,C050,41961,Active,Gina Perry,42,South Dennis,Current,2021-10-16
+T0569,A050,2026-04-14 03:47:21,3400,Credit,Adams-Smith,Kristineton,0,False,69342.0,False,West Chelseaview,False,False,C050,41961,Active,Gina Perry,42,South Dennis,Current,2021-10-16
+T0271,A051,2026-01-11 10:09:52,58348,Credit,"Rogers, Roberts and Berger",Perryfort,0,True,,False,,False,True,C051,144656,Dormant,Tiffany Wallace,47,North Aliciaburgh,Savings,2026-01-09
+T0683,A051,2026-01-22 08:42:27,27602,Credit,"Collins, Carroll and Kidd",Tinachester,0,False,945155.0,False,Perryfort,False,False,C051,144656,Dormant,Tiffany Wallace,47,North Aliciaburgh,Savings,2026-01-09
+T0003,A051,2026-02-17 08:06:45,88164,Credit,"Howard, Wheeler and Guerrero",Lake Phillipbury,1,True,2244258.0,False,Tinachester,False,True,C051,144656,Dormant,Tiffany Wallace,47,North Aliciaburgh,Savings,2026-01-09
+T0755,A051,2026-03-20 22:38:35,63870,Credit,"Barnes, Moss and Mills",Lake Robertville,0,True,2730710.0,False,Lake Phillipbury,False,True,C051,144656,Dormant,Tiffany Wallace,47,North Aliciaburgh,Savings,2026-01-09
+T0410,A051,2026-03-27 13:13:59,15758,Credit,"Martinez, Cox and Zimmerman",Moodyfort,0,False,570924.0,False,Lake Robertville,False,False,C051,144656,Dormant,Tiffany Wallace,47,North Aliciaburgh,Savings,2026-01-09
+T0279,A052,2026-01-10 15:10:28,17753,Credit,"Hess, Phillips and Mejia",Robinbury,0,False,,False,,False,False,C052,160488,Blocked,Terry Williams,54,Keithburgh,Current,2023-03-18
+T0796,A052,2026-03-22 14:35:54,9957,Credit,"Dixon, Hoffman and Johnson",South Rhonda,0,False,6132326.0,False,Robinbury,False,False,C052,160488,Blocked,Terry Williams,54,Keithburgh,Current,2023-03-18
+T0699,A052,2026-03-30 19:00:52,7869,Credit,Stokes-Mcdaniel,Pattersonhaven,0,False,707098.0,False,South Rhonda,False,False,C052,160488,Blocked,Terry Williams,54,Keithburgh,Current,2023-03-18
+T0272,A052,2026-04-13 01:21:50,14749,Debit,"Turner, Hawkins and Hill",Jimmyton,0,False,1146058.0,False,Pattersonhaven,False,False,C052,160488,Blocked,Terry Williams,54,Keithburgh,Current,2023-03-18
+T0942,A053,2026-01-29 21:52:42,76274,Debit,Nichols-Garza,Port Amymouth,1,True,,False,,False,True,C053,82203,Blocked,Amy Howard,48,Port Christineland,Current,2022-08-23
+T0136,A053,2026-02-11 08:12:49,19462,Debit,Brown-Jones,New Joycemouth,0,False,1074007.0,False,Port Amymouth,False,False,C053,82203,Blocked,Amy Howard,48,Port Christineland,Current,2022-08-23
+T0812,A053,2026-02-24 10:58:59,87178,Debit,"Henry, Berger and Perez",Courtneyland,0,True,1133170.0,False,New Joycemouth,False,True,C053,82203,Blocked,Amy Howard,48,Port Christineland,Current,2022-08-23
+T0930,A053,2026-03-22 08:01:54,86045,Debit,Smith and Sons,Port Lisa,0,True,2235775.0,False,Courtneyland,False,True,C053,82203,Blocked,Amy Howard,48,Port Christineland,Current,2022-08-23
+T0210,A053,2026-04-21 19:29:25,28919,Credit,"Ryan, Wilson and Cooper",East Sharonhaven,0,False,2633251.0,False,Port Lisa,False,False,C053,82203,Blocked,Amy Howard,48,Port Christineland,Current,2022-08-23
+T0774,A054,2026-01-11 00:33:52,90676,Credit,"Spencer, Owens and Cox",Williamview,0,True,,False,,False,True,C054,37960,Blocked,Virginia Rice,27,Youngshire,Savings,2026-03-15
+T0585,A054,2026-01-22 21:54:20,40721,Debit,"Barajas, Dillon and Taylor",South Victoria,0,False,1027228.0,False,Williamview,False,False,C054,37960,Blocked,Virginia Rice,27,Youngshire,Savings,2026-03-15
+T0406,A054,2026-02-01 13:23:39,32036,Debit,Bradford PLC,Littleland,0,False,833359.0,False,South Victoria,False,False,C054,37960,Blocked,Virginia Rice,27,Youngshire,Savings,2026-03-15
+T0028,A054,2026-04-21 09:23:13,85801,Credit,Grant PLC,North Nathan,0,True,6811174.0,False,Littleland,False,True,C054,37960,Blocked,Virginia Rice,27,Youngshire,Savings,2026-03-15
+T0923,A055,2026-01-01 08:02:51,29618,Debit,Clayton-Reed,North Jademouth,0,False,,False,,False,False,C055,41557,Dormant,John Ramirez,34,Brettshire,Savings,2024-04-05
+T0740,A055,2026-01-16 10:25:50,44484,Debit,Morgan-Hernandez,Gentryborough,0,False,1304579.0,False,North Jademouth,False,False,C055,41557,Dormant,John Ramirez,34,Brettshire,Savings,2024-04-05
+T0133,A055,2026-01-30 08:28:02,59181,Credit,Brock and Sons,Wuhaven,1,True,1202532.0,False,Gentryborough,False,True,C055,41557,Dormant,John Ramirez,34,Brettshire,Savings,2024-04-05
+T0358,A055,2026-03-01 03:59:13,36809,Debit,"Brown, Choi and Ward",Noblemouth,0,False,2575871.0,False,Wuhaven,False,False,C055,41557,Dormant,John Ramirez,34,Brettshire,Savings,2024-04-05
+T0941,A055,2026-03-16 21:15:41,18994,Debit,"Shields, Duke and Lester",Davidview,0,False,1358188.0,False,Noblemouth,False,False,C055,41557,Dormant,John Ramirez,34,Brettshire,Savings,2024-04-05
+T0194,A055,2026-03-27 07:38:26,39471,Debit,"Skinner, Morris and Humphrey",Thomasview,0,False,901365.0,False,Davidview,False,False,C055,41557,Dormant,John Ramirez,34,Brettshire,Savings,2024-04-05
+T0733,A056,2026-02-02 00:10:47,79807,Credit,Morton Group,North Nathanfurt,0,True,,False,,False,True,C056,139993,Active,Daniel White,65,Rhondamouth,Savings,2025-07-03
+T0269,A056,2026-02-11 07:39:41,84536,Credit,Dougherty-Lee,Port Marymouth,0,True,804534.0,False,North Nathanfurt,False,True,C056,139993,Active,Daniel White,65,Rhondamouth,Savings,2025-07-03
+T0721,A056,2026-04-06 23:07:43,45999,Credit,Chambers Inc,North Andrew,0,False,4721282.0,False,Port Marymouth,False,False,C056,139993,Active,Daniel White,65,Rhondamouth,Savings,2025-07-03
+T0947,A057,2026-01-21 06:11:45,34496,Debit,"Miller, Cisneros and Ellis",East David,0,False,,False,,False,False,C057,47086,Active,Donna Mata,65,Lake Ryanshire,Savings,2025-07-17
+T0839,A057,2026-02-01 06:09:19,29691,Credit,Stephens-Park,North Jason,0,False,950254.0,False,East David,False,False,C057,47086,Active,Donna Mata,65,Lake Ryanshire,Savings,2025-07-17
+T0108,A057,2026-03-02 07:51:31,23065,Credit,Carrillo-Diaz,Port Laurachester,0,False,2511732.0,False,North Jason,False,False,C057,47086,Active,Donna Mata,65,Lake Ryanshire,Savings,2025-07-17
+T0658,A057,2026-03-20 22:12:39,33827,Debit,"Moore, Rubio and Johnson",Danielburgh,0,False,1606868.0,False,Port Laurachester,False,False,C057,47086,Active,Donna Mata,65,Lake Ryanshire,Savings,2025-07-17
+T0663,A057,2026-03-25 00:12:45,52410,Credit,Stanley Group,Torresmouth,0,True,352806.0,False,Danielburgh,False,True,C057,47086,Active,Donna Mata,65,Lake Ryanshire,Savings,2025-07-17
+T0294,A058,2026-01-13 06:14:09,35225,Debit,Mills Group,Chavezchester,0,False,,False,,False,False,C058,183594,Active,Kenneth Medina,39,South Robert,Savings,2021-11-25
+T0874,A058,2026-02-02 01:39:46,99104,Debit,Nichols-Klein,Staceyton,1,True,1711537.0,False,Chavezchester,False,True,C058,183594,Active,Kenneth Medina,39,South Robert,Savings,2021-11-25
+T0708,A058,2026-02-05 14:47:20,17075,Credit,Cole-Lee,Johnsonville,0,False,306454.0,False,Staceyton,False,False,C058,183594,Active,Kenneth Medina,39,South Robert,Savings,2021-11-25
+T0425,A058,2026-02-17 15:59:47,28181,Credit,"Martinez, Coleman and Clayton",Shawnton,0,False,1041147.0,False,Johnsonville,False,False,C058,183594,Active,Kenneth Medina,39,South Robert,Savings,2021-11-25
+T0697,A058,2026-03-16 05:44:27,74393,Debit,Lewis-Reyes,Savageland,0,True,2295880.0,False,Shawnton,False,True,C058,183594,Active,Kenneth Medina,39,South Robert,Savings,2021-11-25
+T0834,A058,2026-04-05 11:06:43,41004,Credit,"Bell, Peterson and Price",South Jackport,0,False,1747336.0,False,Savageland,False,False,C058,183594,Active,Kenneth Medina,39,South Robert,Savings,2021-11-25
+T0832,A059,2026-01-09 23:57:55,20835,Credit,Jones-Lewis,Ashleyton,0,False,,False,,False,False,C059,193349,Blocked,Angela Moore,34,East Wayne,Current,2025-05-27
+T0417,A059,2026-01-25 15:07:19,96471,Debit,"Singh, Perry and Sandoval",Conwaychester,0,True,1350564.0,False,Ashleyton,False,True,C059,193349,Blocked,Angela Moore,34,East Wayne,Current,2025-05-27
+T0477,A059,2026-01-27 09:35:49,30548,Credit,Walker PLC,East Stacy,0,False,152910.0,False,Conwaychester,False,False,C059,193349,Blocked,Angela Moore,34,East Wayne,Current,2025-05-27
+T0929,A059,2026-02-13 14:22:19,22834,Credit,Walker PLC,Lake Brianbury,0,False,1485990.0,False,East Stacy,False,False,C059,193349,Blocked,Angela Moore,34,East Wayne,Current,2025-05-27
+T0769,A059,2026-03-08 07:49:11,25622,Credit,Williams-Walton,Port Aaron,0,False,1963612.0,False,Lake Brianbury,False,False,C059,193349,Blocked,Angela Moore,34,East Wayne,Current,2025-05-27
+T0746,A059,2026-04-15 11:19:55,22787,Credit,Collins-Barber,East Josephfurt,0,False,3295844.0,False,Port Aaron,False,False,C059,193349,Blocked,Angela Moore,34,East Wayne,Current,2025-05-27
+T0421,A060,2026-01-06 23:50:15,65031,Credit,Barron-Wilson,New Bethberg,0,True,,False,,False,True,C060,159366,Active,Kevin Sutton,36,Thompsonhaven,Current,2021-05-19
+T0172,A060,2026-01-09 03:07:35,59618,Debit,Chen Group,West Danielmouth,1,True,184640.0,False,New Bethberg,False,True,C060,159366,Active,Kevin Sutton,36,Thompsonhaven,Current,2021-05-19
+T0264,A060,2026-02-08 14:48:16,99783,Credit,Carter Inc,Port Daniel,1,True,2634041.0,False,West Danielmouth,False,True,C060,159366,Active,Kevin Sutton,36,Thompsonhaven,Current,2021-05-19
+T0339,A060,2026-04-08 16:21:04,26304,Credit,"Smith, Rodriguez and Robinson",Port Pennyside,0,False,5103168.0,False,Port Daniel,False,False,C060,159366,Active,Kevin Sutton,36,Thompsonhaven,Current,2021-05-19
+T0561,A060,2026-04-19 14:15:48,85130,Credit,"Ortiz, Parrish and Sanders",Chapmanfort,0,True,942884.0,False,Port Pennyside,False,True,C060,159366,Active,Kevin Sutton,36,Thompsonhaven,Current,2021-05-19
+T0862,A060,2026-04-21 18:39:19,6755,Debit,Anderson Ltd,Edgarland,0,False,188611.0,False,Chapmanfort,False,False,C060,159366,Active,Kevin Sutton,36,Thompsonhaven,Current,2021-05-19
+T0178,A061,2026-01-27 04:54:48,60425,Credit,Campbell-Brown,West Rebeccatown,0,True,,False,,False,True,C061,194090,Blocked,Shelia Price,37,Port Alexander,Savings,2021-08-23
+T0632,A061,2026-02-10 16:02:44,31795,Credit,"Petersen, Clark and French",Port Maureenside,0,False,1249676.0,False,West Rebeccatown,False,False,C061,194090,Blocked,Shelia Price,37,Port Alexander,Savings,2021-08-23
+T0197,A061,2026-02-17 05:29:15,13358,Debit,"King, Thompson and Melendez",New Michaelhaven,0,False,566791.0,False,Port Maureenside,False,False,C061,194090,Blocked,Shelia Price,37,Port Alexander,Savings,2021-08-23
+T0885,A061,2026-02-19 07:31:23,65398,Debit,Smith Inc,West Wesley,1,True,180128.0,False,New Michaelhaven,False,True,C061,194090,Blocked,Shelia Price,37,Port Alexander,Savings,2021-08-23
+T0835,A061,2026-03-23 22:05:23,60326,Credit,Scott-Bean,Hallport,0,True,2817240.0,False,West Wesley,False,True,C061,194090,Blocked,Shelia Price,37,Port Alexander,Savings,2021-08-23
+T0036,A061,2026-04-03 23:17:34,79970,Debit,Turner-Davis,East Pamelaland,1,True,954731.0,False,Hallport,False,True,C061,194090,Blocked,Shelia Price,37,Port Alexander,Savings,2021-08-23
+T0455,A061,2026-04-09 13:14:22,35420,Debit,"Sparks, Beck and Lynch",North Kennethton,0,False,482208.0,False,East Pamelaland,False,False,C061,194090,Blocked,Shelia Price,37,Port Alexander,Savings,2021-08-23
+T0485,A061,2026-04-14 04:05:33,74864,Debit,Gonzales-Cole,Donaldchester,0,True,399071.0,False,North Kennethton,False,True,C061,194090,Blocked,Shelia Price,37,Port Alexander,Savings,2021-08-23
+T0444,A062,2026-01-06 19:12:55,72144,Credit,Morris Inc,Port Renee,0,True,,False,,False,True,C062,65502,Active,Steven Adams,56,East Carl,Savings,2025-04-16
+T0734,A062,2026-02-11 22:32:13,66581,Credit,"Simmons, Andrade and Gordon",Denisefort,0,True,3122358.0,False,Port Renee,False,True,C062,65502,Active,Steven Adams,56,East Carl,Savings,2025-04-16
+T0478,A062,2026-02-28 20:36:33,21836,Debit,Webster LLC,East Lynn,0,False,1461860.0,False,Denisefort,False,False,C062,65502,Active,Steven Adams,56,East Carl,Savings,2025-04-16
+T0981,A062,2026-04-19 18:14:14,7231,Debit,Perry LLC,Lisaport,0,False,4311461.0,False,East Lynn,False,False,C062,65502,Active,Steven Adams,56,East Carl,Savings,2025-04-16
+T0715,A063,2026-02-28 03:51:26,9489,Debit,"Potter, Kennedy and Mitchell",South Andreastad,0,False,,False,,False,False,C063,86710,Dormant,James Smith,21,Smithborough,Current,2021-05-21
+T0737,A063,2026-04-17 13:36:29,88481,Credit,"Mendoza, Ingram and Hardy",Suzannestad,0,True,4182303.0,False,South Andreastad,False,True,C063,86710,Dormant,James Smith,21,Smithborough,Current,2021-05-21
+T0162,A064,2026-01-03 15:18:39,64947,Debit,"Buck, Neal and Hensley",Johnsonhaven,0,True,,False,,False,True,C064,14915,Dormant,Shaun Mills,59,Sandrastad,Current,2025-04-01
+T0696,A064,2026-02-07 11:01:48,54230,Credit,Potter PLC,North Nicholasshire,1,True,3008589.0,False,Johnsonhaven,False,True,C064,14915,Dormant,Shaun Mills,59,Sandrastad,Current,2025-04-01
+T0459,A064,2026-03-27 19:02:05,85372,Credit,"Tapia, Fisher and Sampson",Hortonport,1,True,4176017.0,False,North Nicholasshire,False,True,C064,14915,Dormant,Shaun Mills,59,Sandrastad,Current,2025-04-01
+T0864,A064,2026-03-31 08:47:15,3840,Credit,"Downs, Rice and Stanley",North Ginaville,0,False,308710.0,False,Hortonport,False,False,C064,14915,Dormant,Shaun Mills,59,Sandrastad,Current,2025-04-01
+T0991,A064,2026-04-06 14:12:31,98961,Debit,"Phillips, Sanders and Francis",Theresahaven,1,True,537916.0,False,North Ginaville,False,True,C064,14915,Dormant,Shaun Mills,59,Sandrastad,Current,2025-04-01
+T0160,A065,2026-02-27 05:36:04,75071,Debit,"Juarez, Webb and Johnson",West Warren,1,True,,False,,False,True,C065,111986,Active,Amy Parker,51,Shawside,Savings,2021-05-13
+T0880,A065,2026-02-28 12:45:06,57455,Credit,Blake-Camacho,Morganmouth,0,True,112142.0,False,West Warren,False,True,C065,111986,Active,Amy Parker,51,Shawside,Savings,2021-05-13
+T0158,A065,2026-03-20 13:36:05,35381,Debit,Stuart Group,Port Michaelstad,0,False,1731059.0,False,Morganmouth,False,False,C065,111986,Active,Amy Parker,51,Shawside,Savings,2021-05-13
+T0964,A065,2026-03-27 07:37:20,71242,Debit,Sullivan-Stephenson,Hensleyland,0,True,583275.0,False,Port Michaelstad,False,True,C065,111986,Active,Amy Parker,51,Shawside,Savings,2021-05-13
+T0679,A065,2026-04-01 01:22:43,10842,Debit,"Moran, Mitchell and Howard",Anthonyshire,0,False,409523.0,False,Hensleyland,False,False,C065,111986,Active,Amy Parker,51,Shawside,Savings,2021-05-13
+T0718,A066,2026-02-04 21:25:15,27740,Credit,Myers-Cruz,Vincentport,0,False,,False,,False,False,C066,96735,Dormant,Erin Bennett,25,North Richard,Current,2026-03-11
+T0481,A066,2026-02-10 07:05:24,18037,Debit,"Brooks, Garza and Sanchez",Hollowayport,0,False,466809.0,False,Vincentport,False,False,C066,96735,Dormant,Erin Bennett,25,North Richard,Current,2026-03-11
+T0988,A066,2026-02-25 03:34:37,91637,Credit,Evans Group,Charlesberg,0,True,1283353.0,False,Hollowayport,False,True,C066,96735,Dormant,Erin Bennett,25,North Richard,Current,2026-03-11
+T0466,A066,2026-02-26 14:47:22,98667,Debit,Freeman-Khan,Angelaside,1,True,126765.0,False,Charlesberg,False,True,C066,96735,Dormant,Erin Bennett,25,North Richard,Current,2026-03-11
+T0156,A066,2026-03-07 18:41:19,10962,Debit,Anderson-Mendoza,Lewisport,0,False,791637.0,False,Angelaside,False,False,C066,96735,Dormant,Erin Bennett,25,North Richard,Current,2026-03-11
+T0884,A066,2026-04-15 08:29:21,59172,Debit,"Ford, Horne and Newton",West Robintown,0,True,3332882.0,False,Lewisport,False,True,C066,96735,Dormant,Erin Bennett,25,North Richard,Current,2026-03-11
+T0505,A067,2026-03-05 07:46:48,24620,Debit,Walker-Nolan,Stanleystad,0,False,,False,,False,False,C067,32913,Active,Kristina Grant,59,West Matthew,Current,2022-09-23
+T0827,A067,2026-03-17 17:29:27,61018,Debit,Frank LLC,New Juliemouth,0,True,1071759.0,False,Stanleystad,False,True,C067,32913,Active,Kristina Grant,59,West Matthew,Current,2022-09-23
+T0887,A067,2026-04-01 05:18:20,34863,Debit,Lynch-Bradley,Edwardsberg,0,False,1252133.0,False,New Juliemouth,False,False,C067,32913,Active,Kristina Grant,59,West Matthew,Current,2022-09-23
+T0803,A068,2026-02-03 12:13:43,64005,Credit,Fisher Group,Snydershire,0,True,,False,,False,True,C068,33883,Dormant,Robert Baker,37,New Amanda,Savings,2021-09-07
+T0163,A068,2026-03-06 09:26:25,57666,Debit,Snyder Inc,West Jenny,0,True,2668362.0,False,Snydershire,False,True,C068,33883,Dormant,Robert Baker,37,New Amanda,Savings,2021-09-07
+T0467,A068,2026-03-27 11:34:24,68513,Credit,Parker-Bell,Jodyview,0,True,1822079.0,False,West Jenny,False,True,C068,33883,Dormant,Robert Baker,37,New Amanda,Savings,2021-09-07
+T0050,A069,2026-01-01 00:04:04,74313,Credit,"Chavez, Miller and Li",South Donna,0,True,,False,,False,True,C069,153075,Blocked,Reginald Jacobson,27,South Kristin,Current,2021-12-21
+T0185,A069,2026-01-22 14:41:45,71036,Debit,Nguyen-Mendoza,Laurenville,1,True,1867061.0,False,South Donna,False,True,C069,153075,Blocked,Reginald Jacobson,27,South Kristin,Current,2021-12-21
+T0250,A069,2026-02-01 14:41:30,29983,Debit,"Gibson, Roberts and Lambert",Grantchester,0,False,863985.0,False,Laurenville,False,False,C069,153075,Blocked,Reginald Jacobson,27,South Kristin,Current,2021-12-21
+T0932,A069,2026-02-24 15:22:54,29308,Debit,Bennett-Little,North Julie,0,False,1989684.0,False,Grantchester,False,False,C069,153075,Blocked,Reginald Jacobson,27,South Kristin,Current,2021-12-21
+T0255,A069,2026-03-01 04:33:47,81212,Debit,Campbell-Escobar,Tyronestad,0,True,393053.0,False,North Julie,False,True,C069,153075,Blocked,Reginald Jacobson,27,South Kristin,Current,2021-12-21
+T0711,A069,2026-03-03 03:46:57,40432,Credit,Powell-Sandoval,Amyside,0,False,169990.0,False,Tyronestad,False,False,C069,153075,Blocked,Reginald Jacobson,27,South Kristin,Current,2021-12-21
+T0190,A069,2026-03-23 18:31:30,67226,Debit,Fernandez-Malone,Denisemouth,0,True,1781073.0,False,Amyside,False,True,C069,153075,Blocked,Reginald Jacobson,27,South Kristin,Current,2021-12-21
+T0349,A069,2026-04-21 20:01:51,21978,Debit,"Burton, Robinson and Owens",Amberhaven,0,False,2511021.0,False,Denisemouth,False,False,C069,153075,Blocked,Reginald Jacobson,27,South Kristin,Current,2021-12-21
+T0716,A070,2026-01-06 11:23:59,3563,Credit,Boone LLC,North Brian,0,False,,False,,False,False,C070,124501,Blocked,Jose Kennedy,54,Stephaniechester,Savings,2022-05-05
+T0031,A070,2026-01-12 17:16:10,50247,Debit,"Graham, Cabrera and Matthews",Lake Stephaniechester,0,True,539531.0,False,North Brian,False,True,C070,124501,Blocked,Jose Kennedy,54,Stephaniechester,Savings,2022-05-05
+T0351,A070,2026-02-02 01:46:41,7424,Credit,Butler LLC,South Michael,0,False,1758631.0,False,Lake Stephaniechester,False,False,C070,124501,Blocked,Jose Kennedy,54,Stephaniechester,Savings,2022-05-05
+T0919,A070,2026-02-02 16:48:13,38678,Debit,Dalton Inc,Janetmouth,0,False,54092.0,False,South Michael,False,False,C070,124501,Blocked,Jose Kennedy,54,Stephaniechester,Savings,2022-05-05
+T0875,A070,2026-02-20 14:11:18,53027,Credit,Kelly-Rodriguez,Hopkinsland,0,True,1545785.0,False,Janetmouth,False,True,C070,124501,Blocked,Jose Kennedy,54,Stephaniechester,Savings,2022-05-05
+T0888,A070,2026-04-22 03:31:17,58241,Debit,"Hernandez, Huang and Ross",South Stevenbury,0,True,5231999.0,False,Hopkinsland,False,True,C070,124501,Blocked,Jose Kennedy,54,Stephaniechester,Savings,2022-05-05
+T0382,A071,2026-02-05 13:32:12,68336,Debit,Whitehead-Hernandez,East Lisa,1,True,,False,,False,True,C071,117678,Active,Angela Brown,33,Tarabury,Current,2021-05-26
+T0773,A071,2026-03-30 06:04:12,50343,Debit,"Rowe, Jackson and Cannon",South Anthony,0,True,4552320.0,False,East Lisa,False,True,C071,117678,Active,Angela Brown,33,Tarabury,Current,2021-05-26
+T0412,A071,2026-04-21 09:33:07,12691,Credit,"Lawrence, Buck and Phillips",West Brooke,0,False,1913335.0,False,South Anthony,False,False,C071,117678,Active,Angela Brown,33,Tarabury,Current,2021-05-26
+T0641,A072,2026-01-10 01:32:33,75619,Credit,"Sanford, May and Wright",North Brendafurt,0,True,,False,,False,True,C072,117833,Active,Anthony Martinez,43,East Margaret,Current,2023-04-07
+T0938,A072,2026-01-12 00:23:34,55524,Debit,Thompson-Smith,Richardsonchester,1,True,168661.0,False,North Brendafurt,False,True,C072,117833,Active,Anthony Martinez,43,East Margaret,Current,2023-04-07
+T0066,A072,2026-01-26 00:13:18,30379,Debit,Osborne-Munoz,Port Brent,0,False,1208984.0,False,Richardsonchester,False,False,C072,117833,Active,Anthony Martinez,43,East Margaret,Current,2023-04-07
+T0504,A072,2026-02-24 09:54:30,71982,Credit,Harris and Sons,South Madisonborough,0,True,2540472.0,False,Port Brent,False,True,C072,117833,Active,Anthony Martinez,43,East Margaret,Current,2023-04-07
+T0295,A072,2026-04-04 16:07:40,70203,Debit,Campbell Ltd,New Danielleshire,0,True,3391990.0,False,South Madisonborough,False,True,C072,117833,Active,Anthony Martinez,43,East Margaret,Current,2023-04-07
+T0161,A073,2026-01-13 02:24:28,53923,Credit,Graham Inc,Lake Wendyland,0,True,,False,,False,True,C073,182067,Dormant,Nicole Rodriguez,58,East Dawntown,Savings,2022-05-15
+T0553,A073,2026-01-30 12:22:54,12378,Debit,Schmidt-Morales,Hernandezchester,0,False,1504706.0,False,Lake Wendyland,False,False,C073,182067,Dormant,Nicole Rodriguez,58,East Dawntown,Savings,2022-05-15
+T0901,A073,2026-02-14 08:16:11,87029,Credit,"King, Blake and Bond",West Jenniferbury,1,True,1281197.0,False,Hernandezchester,False,True,C073,182067,Dormant,Nicole Rodriguez,58,East Dawntown,Savings,2022-05-15
+T0073,A073,2026-04-20 22:14:55,58136,Debit,"Morrow, Morales and Pope",Wellsport,0,True,5666324.0,False,West Jenniferbury,False,True,C073,182067,Dormant,Nicole Rodriguez,58,East Dawntown,Savings,2022-05-15
+T0051,A073,2026-04-21 13:36:17,48700,Debit,Aguirre-Williams,New Dawnside,0,False,55282.0,False,Wellsport,False,False,C073,182067,Dormant,Nicole Rodriguez,58,East Dawntown,Savings,2022-05-15
+T0859,A074,2026-01-15 11:39:32,38505,Credit,Perry Group,South Ashleyton,0,False,,False,,False,False,C074,73634,Dormant,Natasha Webster,54,West Erikfurt,Savings,2023-01-31
+T0753,A074,2026-01-28 03:10:06,45657,Credit,Valenzuela Group,North Timothymouth,0,False,1092634.0,False,South Ashleyton,False,False,C074,73634,Dormant,Natasha Webster,54,West Erikfurt,Savings,2023-01-31
+T0703,A074,2026-02-14 21:27:13,95505,Debit,"Nguyen, Nichols and Petersen",Charlottebury,0,True,1534627.0,False,North Timothymouth,False,True,C074,73634,Dormant,Natasha Webster,54,West Erikfurt,Savings,2023-01-31
+T0960,A074,2026-04-13 00:49:00,58114,Debit,Blair-Greene,Lake Jennachester,0,True,4936907.0,False,Charlottebury,False,True,C074,73634,Dormant,Natasha Webster,54,West Erikfurt,Savings,2023-01-31
+T0091,A075,2026-01-22 03:27:25,25002,Debit,Martinez-Pierce,Susanchester,0,False,,False,,False,False,C075,62120,Dormant,Keith Wolfe,22,South Danielbury,Current,2022-03-14
+T0189,A075,2026-02-08 22:42:50,45132,Credit,Velasquez-Miller,Lopezchester,0,False,1538125.0,False,Susanchester,False,False,C075,62120,Dormant,Keith Wolfe,22,South Danielbury,Current,2022-03-14
+T0624,A075,2026-02-17 13:37:25,74785,Debit,Olson-Keller,New Thomas,0,True,744875.0,False,Lopezchester,False,True,C075,62120,Dormant,Keith Wolfe,22,South Danielbury,Current,2022-03-14
+T0257,A075,2026-03-18 12:45:51,13810,Credit,Torres-Marquez,Jenningsmouth,0,False,2502506.0,False,New Thomas,False,False,C075,62120,Dormant,Keith Wolfe,22,South Danielbury,Current,2022-03-14
+T0565,A076,2026-02-05 15:20:40,60562,Credit,Smith Inc,Lake Anthonyhaven,0,True,,False,,False,True,C076,33466,Active,Jon Perez,59,Randallburgh,Current,2024-05-12
+T0853,A076,2026-02-11 22:10:55,654,Debit,Graham-Lamb,Robertfurt,0,False,543015.0,False,Lake Anthonyhaven,False,False,C076,33466,Active,Jon Perez,59,Randallburgh,Current,2024-05-12
+T0576,A076,2026-03-17 06:53:12,49897,Debit,Alvarado Inc,Kristenmouth,0,False,2882537.0,False,Robertfurt,False,False,C076,33466,Active,Jon Perez,59,Randallburgh,Current,2024-05-12
+T0837,A077,2026-01-09 05:58:26,73532,Debit,Jacobs-Mueller,Chrismouth,0,True,,False,,False,True,C077,131047,Dormant,Peggy Dickson MD,37,North Stephanie,Current,2022-04-01
+T0181,A077,2026-01-11 07:06:26,14580,Credit,Johnson Inc,Meghanview,0,False,176880.0,False,Chrismouth,False,False,C077,131047,Dormant,Peggy Dickson MD,37,North Stephanie,Current,2022-04-01
+T0222,A077,2026-01-22 17:52:06,8455,Credit,Ray-Mitchell,Port Chad,0,False,989140.0,False,Meghanview,False,False,C077,131047,Dormant,Peggy Dickson MD,37,North Stephanie,Current,2022-04-01
+T0040,A077,2026-02-05 11:16:28,75676,Credit,"Harris, Matthews and Walker",Lake Jonathan,0,True,1185862.0,False,Port Chad,False,True,C077,131047,Dormant,Peggy Dickson MD,37,North Stephanie,Current,2022-04-01
+T0550,A077,2026-03-12 21:42:38,19362,Credit,"Villegas, Baker and Perry",Carolinebury,0,False,3061570.0,False,Lake Jonathan,False,False,C077,131047,Dormant,Peggy Dickson MD,37,North Stephanie,Current,2022-04-01
+T0298,A077,2026-03-29 17:46:48,12897,Credit,"Kaufman, Hall and Lewis",Gutierrezton,0,False,1454650.0,False,Carolinebury,False,False,C077,131047,Dormant,Peggy Dickson MD,37,North Stephanie,Current,2022-04-01
+T0434,A077,2026-04-02 15:05:15,19965,Credit,Kim-Holden,Carterberg,0,False,335907.0,False,Gutierrezton,False,False,C077,131047,Dormant,Peggy Dickson MD,37,North Stephanie,Current,2022-04-01
+T0912,A077,2026-04-06 05:44:07,73167,Credit,"Nelson, Duran and Saunders",South Keith,0,True,311932.0,False,Carterberg,False,True,C077,131047,Dormant,Peggy Dickson MD,37,North Stephanie,Current,2022-04-01
+T0521,A078,2026-03-08 03:45:27,5074,Credit,Brown Ltd,Lake Tiffanyport,0,False,,False,,False,False,C078,185123,Active,Jimmy Pham,58,Leestad,Savings,2025-08-05
+T0598,A078,2026-03-16 10:20:24,2617,Credit,King Ltd,Evelynmouth,0,False,714897.0,False,Lake Tiffanyport,False,False,C078,185123,Active,Jimmy Pham,58,Leestad,Savings,2025-08-05
+T0474,A078,2026-04-14 22:07:53,4540,Credit,Moore-Diaz,Robertland,0,False,2548049.0,False,Evelynmouth,False,False,C078,185123,Active,Jimmy Pham,58,Leestad,Savings,2025-08-05
+T0604,A079,2026-01-02 16:20:46,60846,Credit,Russell Ltd,West Jamesmouth,0,True,,False,,False,True,C079,171638,Dormant,Ricardo Mendoza,29,Port Melissaport,Savings,2024-08-24
+T0092,A079,2026-01-17 12:07:20,45599,Credit,"Hernandez, Davidson and Horton",Fordville,0,False,1280794.0,False,West Jamesmouth,False,False,C079,171638,Dormant,Ricardo Mendoza,29,Port Melissaport,Savings,2024-08-24
+T0462,A079,2026-03-10 11:31:16,17789,Debit,"Wilson, Castillo and Branch",Ericton,0,False,4490636.0,False,Fordville,False,False,C079,171638,Dormant,Ricardo Mendoza,29,Port Melissaport,Savings,2024-08-24
+T0783,A079,2026-04-20 18:38:10,55968,Credit,Phillips-Johnson,Stevenmouth,0,True,3568014.0,False,Ericton,False,True,C079,171638,Dormant,Ricardo Mendoza,29,Port Melissaport,Savings,2024-08-24
+T0404,A079,2026-04-23 12:28:31,71865,Debit,"Serrano, Cole and Harris",Jennifershire,1,True,237021.0,False,Stevenmouth,False,True,C079,171638,Dormant,Ricardo Mendoza,29,Port Melissaport,Savings,2024-08-24
+T0238,A080,2026-01-01 19:40:23,97412,Debit,"Doyle, Turner and Baldwin",Davenportfurt,0,True,,False,,False,True,C080,61050,Active,Taylor Downs,27,Port Zacharystad,Savings,2023-02-19
+T0638,A080,2026-01-08 18:16:37,26924,Credit,Gomez-Holder,Port Danielfurt,0,False,599774.0,False,Davenportfurt,False,False,C080,61050,Active,Taylor Downs,27,Port Zacharystad,Savings,2023-02-19
+T0407,A080,2026-01-18 05:39:26,42160,Credit,"Smith, Hall and Wilson",New Frank,0,False,818569.0,False,Port Danielfurt,False,False,C080,61050,Active,Taylor Downs,27,Port Zacharystad,Savings,2023-02-19
+T0153,A080,2026-01-26 02:14:45,20609,Debit,Vaughan and Sons,North Nicole,0,False,678919.0,False,New Frank,False,False,C080,61050,Active,Taylor Downs,27,Port Zacharystad,Savings,2023-02-19
+T0442,A080,2026-01-29 12:47:52,64778,Credit,White PLC,Davidmouth,0,True,297187.0,False,North Nicole,False,True,C080,61050,Active,Taylor Downs,27,Port Zacharystad,Savings,2023-02-19
+T0772,A080,2026-02-05 14:35:15,14618,Debit,Austin-Wolf,South Susan,0,False,611243.0,False,Davidmouth,False,False,C080,61050,Active,Taylor Downs,27,Port Zacharystad,Savings,2023-02-19
+T0265,A080,2026-02-09 18:19:53,2926,Debit,Williams-Quinn,South Megan,0,False,359078.0,False,South Susan,False,False,C080,61050,Active,Taylor Downs,27,Port Zacharystad,Savings,2023-02-19
+T0256,A080,2026-03-08 18:52:50,39262,Credit,Chase and Sons,Port Douglas,0,False,2334777.0,False,South Megan,False,False,C080,61050,Active,Taylor Downs,27,Port Zacharystad,Savings,2023-02-19
+T0430,A080,2026-03-09 05:32:20,47219,Debit,Gray LLC,West Keithmouth,0,False,38370.0,False,Port Douglas,False,False,C080,61050,Active,Taylor Downs,27,Port Zacharystad,Savings,2023-02-19
+T0167,A081,2026-01-19 23:37:31,57545,Debit,Walls Group,Timothymouth,0,True,,False,,False,True,C081,3679,Dormant,Amanda Beltran,21,South Kenneth,Current,2022-03-31
+T0331,A081,2026-01-25 02:27:04,88114,Debit,"Chavez, Hicks and Mcgee",New Cynthia,0,True,442173.0,False,Timothymouth,False,True,C081,3679,Dormant,Amanda Beltran,21,South Kenneth,Current,2022-03-31
+T0087,A081,2026-02-01 18:53:35,21296,Debit,Young Inc,Christianbury,0,False,663991.0,False,New Cynthia,False,False,C081,3679,Dormant,Amanda Beltran,21,South Kenneth,Current,2022-03-31
+T0082,A081,2026-04-24 00:44:20,33315,Credit,Richards-Burke,North Carmen,0,False,7019445.0,False,Christianbury,False,False,C081,3679,Dormant,Amanda Beltran,21,South Kenneth,Current,2022-03-31
+T0063,A082,2026-01-12 14:42:36,1717,Credit,Burgess LLC,East Patricia,0,False,,False,,False,False,C082,166146,Dormant,James Thompson,33,Traciport,Current,2023-02-25
+T0208,A082,2026-02-14 09:29:16,11609,Debit,"Dixon, Wilkinson and Willis",Jenniferborough,0,False,2832400.0,False,East Patricia,False,False,C082,166146,Dormant,James Thompson,33,Traciport,Current,2023-02-25
+T0540,A082,2026-02-20 21:18:28,29088,Debit,Benjamin-Sanchez,North Dillon,0,False,560952.0,False,Jenniferborough,False,False,C082,166146,Dormant,James Thompson,33,Traciport,Current,2023-02-25
+T0761,A083,2026-03-04 05:20:14,23204,Debit,Mercer-Snyder,Mcbridechester,0,False,,False,,False,False,C083,184714,Active,Shelby Stuart,65,West Charles,Current,2022-06-03
+T0416,A083,2026-03-09 04:10:14,50088,Debit,"Wilson, Smith and Holmes",Michaelville,0,True,427800.0,False,Mcbridechester,False,True,C083,184714,Active,Shelby Stuart,65,West Charles,Current,2022-06-03
+T0706,A083,2026-04-02 08:56:22,44322,Credit,Simpson-Hunter,Port Christopher,0,False,2090768.0,False,Michaelville,False,False,C083,184714,Active,Shelby Stuart,65,West Charles,Current,2022-06-03
+T0450,A083,2026-04-18 22:42:29,27883,Credit,Phillips-Bruce,Jessicaport,0,False,1431967.0,False,Port Christopher,False,False,C083,184714,Active,Shelby Stuart,65,West Charles,Current,2022-06-03
+T0027,A084,2026-01-14 20:03:51,3432,Debit,Reyes Group,Foxchester,0,False,,False,,False,False,C084,46093,Active,Eric Brown,57,Lake Michaelburgh,Savings,2023-04-12
+T0145,A084,2026-02-19 18:09:37,96129,Debit,Wood and Sons,South Darrell,0,True,3103546.0,False,Foxchester,False,True,C084,46093,Active,Eric Brown,57,Lake Michaelburgh,Savings,2023-04-12
+T0597,A084,2026-02-26 19:16:19,64633,Credit,Blanchard Group,Brianshire,0,True,608802.0,False,South Darrell,False,True,C084,46093,Active,Eric Brown,57,Lake Michaelburgh,Savings,2023-04-12
+T0144,A084,2026-03-29 06:51:15,47205,Credit,Carr-Jones,Kinghaven,0,False,2633696.0,False,Brianshire,False,False,C084,46093,Active,Eric Brown,57,Lake Michaelburgh,Savings,2023-04-12
+T0242,A084,2026-04-05 04:02:04,26803,Debit,Hawkins Inc,Riverafort,0,False,594649.0,False,Kinghaven,False,False,C084,46093,Active,Eric Brown,57,Lake Michaelburgh,Savings,2023-04-12
+T0118,A085,2026-01-25 12:58:11,82561,Debit,Ward-Villanueva,Whitefurt,0,True,,False,,False,True,C085,58848,Dormant,Tom Thompson,43,Brianatown,Savings,2025-08-07
+T0659,A085,2026-01-26 12:28:48,58696,Debit,"Warren, Reeves and Wright",Lake Erichaven,0,True,84637.0,False,Whitefurt,False,True,C085,58848,Dormant,Tom Thompson,43,Brianatown,Savings,2025-08-07
+T0314,A085,2026-03-11 09:47:19,31981,Credit,Thompson-Sanders,New Chadchester,0,False,3791911.0,False,Lake Erichaven,False,False,C085,58848,Dormant,Tom Thompson,43,Brianatown,Savings,2025-08-07
+T0262,A085,2026-03-20 12:54:48,64974,Debit,West-Everett,East Kellymouth,0,True,788849.0,False,New Chadchester,False,True,C085,58848,Dormant,Tom Thompson,43,Brianatown,Savings,2025-08-07
+T0966,A085,2026-03-29 10:56:04,22303,Debit,Mitchell Inc,New Roger,0,False,770476.0,False,East Kellymouth,False,False,C085,58848,Dormant,Tom Thompson,43,Brianatown,Savings,2025-08-07
+T0274,A086,2026-02-13 09:59:18,51877,Credit,Lee LLC,Shannonhaven,1,True,,False,,False,True,C086,88022,Active,Eric Nicholson,52,Martinezshire,Savings,2025-05-03
+T0226,A086,2026-02-23 03:49:14,85217,Debit,"Thomas, Cain and Bautista",New Shannonport,0,True,841796.0,False,Shannonhaven,False,True,C086,88022,Active,Eric Nicholson,52,Martinezshire,Savings,2025-05-03
+T0121,A086,2026-03-01 06:24:44,89104,Debit,"Walker, Rice and Dennis",East Rodneytown,0,True,527730.0,False,New Shannonport,False,True,C086,88022,Active,Eric Nicholson,52,Martinezshire,Savings,2025-05-03
+T0589,A086,2026-03-02 14:40:21,61741,Credit,"Hanson, Schwartz and Johnson",Edwardsmouth,0,True,116137.0,False,East Rodneytown,False,True,C086,88022,Active,Eric Nicholson,52,Martinezshire,Savings,2025-05-03
+T0001,A087,2026-02-18 00:10:20,41755,Credit,"Gardner, Zamora and Love",Lake Hannahfurt,0,False,,False,,False,False,C087,150608,Blocked,David Cross,45,West John,Savings,2022-12-29
+T0976,A087,2026-02-27 06:26:18,9972,Debit,Hines-Gonzales,Davidborough,0,False,800158.0,False,Lake Hannahfurt,False,False,C087,150608,Blocked,David Cross,45,West John,Savings,2022-12-29
+T0500,A087,2026-03-28 02:55:02,96110,Credit,"Buckley, Gonzalez and Meyer",Loriborough,1,True,2492924.0,False,Davidborough,False,True,C087,150608,Blocked,David Cross,45,West John,Savings,2022-12-29
+T0788,A088,2026-01-10 19:43:49,19146,Debit,Chavez Inc,Sherriland,0,False,,False,,False,False,C088,60278,Dormant,William Page,29,East Andrew,Current,2023-06-02
+T0629,A088,2026-01-23 15:04:51,66191,Debit,"Horton, Brewer and Carson",Rebeccamouth,0,True,1106462.0,False,Sherriland,False,True,C088,60278,Dormant,William Page,29,East Andrew,Current,2023-06-02
+T0704,A088,2026-02-14 05:00:56,59538,Credit,"Gibson, Gutierrez and Ramsey",New Amandachester,0,True,1864565.0,False,Rebeccamouth,False,True,C088,60278,Dormant,William Page,29,East Andrew,Current,2023-06-02
+T0340,A088,2026-02-28 07:37:00,91504,Credit,Mccoy-Ellis,New Heather,0,True,1218964.0,False,New Amandachester,False,True,C088,60278,Dormant,William Page,29,East Andrew,Current,2023-06-02
+T0359,A088,2026-03-08 13:08:23,63788,Credit,"Romero, Flores and Cabrera",Henryside,0,True,711083.0,False,New Heather,False,True,C088,60278,Dormant,William Page,29,East Andrew,Current,2023-06-02
+T0301,A088,2026-04-01 00:01:50,3825,Credit,"Ayers, Rodriguez and Marquez",West Cynthia,0,False,2026407.0,False,Henryside,False,False,C088,60278,Dormant,William Page,29,East Andrew,Current,2023-06-02
+T0253,A088,2026-04-02 20:55:55,99244,Debit,Blackburn Ltd,New Jose,0,True,161645.0,False,West Cynthia,False,True,C088,60278,Dormant,William Page,29,East Andrew,Current,2023-06-02
+T0484,A088,2026-04-08 18:46:28,62718,Debit,Spencer-Acosta,Hoffmantown,0,True,510633.0,False,New Jose,False,True,C088,60278,Dormant,William Page,29,East Andrew,Current,2023-06-02
+T0420,A088,2026-04-11 05:45:02,64145,Credit,Smith and Sons,Rebeccamouth,0,True,212314.0,False,Hoffmantown,False,True,C088,60278,Dormant,William Page,29,East Andrew,Current,2023-06-02
+T0154,A089,2026-01-30 12:38:55,83929,Credit,Jacobs LLC,Port Williamfort,0,True,,False,,False,True,C089,72472,Active,Adam Goodman,48,South Stevenshire,Current,2025-02-07
+T0403,A089,2026-02-10 05:01:29,12835,Credit,Walker-Miles,Lake Jared,0,False,922954.0,False,Port Williamfort,False,False,C089,72472,Active,Adam Goodman,48,South Stevenshire,Current,2025-02-07
+T0596,A089,2026-03-04 05:52:55,32303,Credit,Schneider-Clark,Petersonfort,0,False,1903886.0,False,Lake Jared,False,False,C089,72472,Active,Adam Goodman,48,South Stevenshire,Current,2025-02-07
+T0952,A089,2026-03-06 23:49:14,59252,Debit,Clay-Evans,North Paulside,1,True,237379.0,False,Petersonfort,False,True,C089,72472,Active,Adam Goodman,48,South Stevenshire,Current,2025-02-07
+T0631,A089,2026-03-13 02:54:36,3742,Credit,Kent-Mathews,Williamsland,0,False,529522.0,False,North Paulside,False,False,C089,72472,Active,Adam Goodman,48,South Stevenshire,Current,2025-02-07
+T0714,A089,2026-04-13 19:20:05,40791,Credit,Jones-Boyer,North Ashleyberg,0,False,2737529.0,False,Williamsland,False,False,C089,72472,Active,Adam Goodman,48,South Stevenshire,Current,2025-02-07
+T0939,A090,2026-01-21 20:59:15,15678,Debit,Edwards-Estes,Lynnland,0,False,,False,,False,False,C090,46009,Active,Alexandra Lin,48,Smithshire,Savings,2022-12-18
+T0525,A090,2026-01-28 13:17:50,99177,Debit,Lang Inc,Lake Amandahaven,1,True,577115.0,False,Lynnland,False,True,C090,46009,Active,Alexandra Lin,48,Smithshire,Savings,2022-12-18
+T0465,A090,2026-02-07 09:54:56,47464,Credit,Kennedy LLC,Newtontown,0,False,851826.0,False,Lake Amandahaven,False,False,C090,46009,Active,Alexandra Lin,48,Smithshire,Savings,2022-12-18
+T0292,A090,2026-02-19 19:02:09,94854,Debit,"Young, Cameron and Watson",Travisberg,0,True,1069633.0,False,Newtontown,False,True,C090,46009,Active,Alexandra Lin,48,Smithshire,Savings,2022-12-18
+T0120,A090,2026-03-21 11:40:01,28354,Credit,"Roberts, Hoover and Acosta",Port Johnny,0,False,2565472.0,False,Travisberg,False,False,C090,46009,Active,Alexandra Lin,48,Smithshire,Savings,2022-12-18
+T0628,A090,2026-03-22 10:32:15,65282,Debit,"Hinton, Johnson and Wilson",Port Catherineport,0,True,82334.0,False,Port Johnny,False,True,C090,46009,Active,Alexandra Lin,48,Smithshire,Savings,2022-12-18
+T0548,A091,2026-01-13 21:33:23,42888,Debit,"Vasquez, Payne and Leonard",East Jillchester,0,False,,False,,False,False,C091,39304,Dormant,Kiara Gaines,24,Port Dannytown,Savings,2024-04-25
+T0037,A091,2026-01-16 14:40:54,22884,Debit,"Becker, Reyes and Smith",Port Jennifer,0,False,234451.0,False,East Jillchester,False,False,C091,39304,Dormant,Kiara Gaines,24,Port Dannytown,Savings,2024-04-25
+T0656,A091,2026-02-12 01:29:26,46530,Debit,Coleman-Bell,North Kara,0,False,2285312.0,False,Port Jennifer,False,False,C091,39304,Dormant,Kiara Gaines,24,Port Dannytown,Savings,2024-04-25
+T0909,A091,2026-04-12 18:42:08,6307,Debit,Pace Group,Port Sierraland,0,False,5159562.0,False,North Kara,False,False,C091,39304,Dormant,Kiara Gaines,24,Port Dannytown,Savings,2024-04-25
+T0750,A092,2026-01-12 14:58:07,25036,Debit,Larson-Waters,East Williamstad,0,False,,False,,False,False,C092,109835,Active,Patrick Davis,45,Griffithtown,Savings,2021-08-28
+T0849,A092,2026-02-03 08:54:16,94547,Credit,"Mendoza, Adams and Taylor",East Vicki,1,True,1878969.0,False,East Williamstad,False,True,C092,109835,Active,Patrick Davis,45,Griffithtown,Savings,2021-08-28
+T0193,A092,2026-02-23 18:21:53,94392,Debit,Sellers-Beasley,Josephmouth,0,True,1762057.0,False,East Vicki,False,True,C092,109835,Active,Patrick Davis,45,Griffithtown,Savings,2021-08-28
+T0666,A092,2026-03-22 01:58:58,8883,Debit,Moore-Calhoun,West Josefurt,0,False,2273825.0,False,Josephmouth,False,False,C092,109835,Active,Patrick Davis,45,Griffithtown,Savings,2021-08-28
+T0509,A092,2026-04-11 16:14:03,54544,Credit,Lewis PLC,West Patrick,0,True,1779305.0,False,West Josefurt,False,True,C092,109835,Active,Patrick Davis,45,Griffithtown,Savings,2021-08-28
+T0320,A093,2026-01-22 15:34:24,95172,Credit,"Nixon, Lowe and Lee",Bullockstad,0,True,,False,,False,True,C093,149817,Blocked,Michael Jackson,57,South Travisstad,Current,2024-06-19
+T0479,A093,2026-01-27 13:33:34,15437,Credit,Wright PLC,North Judyton,0,False,424750.0,False,Bullockstad,False,False,C093,149817,Blocked,Michael Jackson,57,South Travisstad,Current,2024-06-19
+T0427,A093,2026-02-18 13:33:37,20599,Debit,Martinez PLC,West Vincentville,0,False,1900803.0,False,North Judyton,False,False,C093,149817,Blocked,Michael Jackson,57,South Travisstad,Current,2024-06-19
+T0547,A094,2026-01-17 11:38:03,65955,Credit,Williams-Perry,North Johnnyburgh,0,True,,False,,False,True,C094,3879,Dormant,Christine Graham,34,Whiteview,Savings,2024-11-25
+T0961,A094,2026-01-19 06:53:07,32839,Credit,Ramsey Ltd,New Charles,0,False,155704.0,False,North Johnnyburgh,False,False,C094,3879,Dormant,Christine Graham,34,Whiteview,Savings,2024-11-25
+T0670,A094,2026-02-02 02:11:15,54458,Credit,Fox-Baker,Fordport,0,True,1192688.0,False,New Charles,False,True,C094,3879,Dormant,Christine Graham,34,Whiteview,Savings,2024-11-25
+T0562,A094,2026-02-07 23:42:28,33152,Debit,"Morton, Beard and Reed",South Michaelbury,0,False,509473.0,False,Fordport,False,False,C094,3879,Dormant,Christine Graham,34,Whiteview,Savings,2024-11-25
+T0302,A094,2026-02-20 04:16:45,26914,Debit,"Lawrence, Curry and Williams",Kellyfort,0,False,1053257.0,False,South Michaelbury,False,False,C094,3879,Dormant,Christine Graham,34,Whiteview,Savings,2024-11-25
+T0517,A095,2026-01-31 08:52:04,86031,Debit,Watson Group,Lake Richard,0,True,,False,,False,True,C095,121962,Dormant,Jasmine Herrera,26,West Randyland,Savings,2026-04-22
+T0258,A095,2026-02-03 15:01:16,70938,Debit,Hughes-Jones,Port Rachel,0,True,281352.0,False,Lake Richard,False,True,C095,121962,Dormant,Jasmine Herrera,26,West Randyland,Savings,2026-04-22
+T0626,A095,2026-03-08 19:12:04,34277,Credit,"Collins, Garcia and Meyer",East Danielle,0,False,2866248.0,False,Port Rachel,False,False,C095,121962,Dormant,Jasmine Herrera,26,West Randyland,Savings,2026-04-22
+T0432,A095,2026-04-06 22:56:40,68202,Debit,Hall-Hunter,Webbborough,1,True,2519076.0,False,East Danielle,False,True,C095,121962,Dormant,Jasmine Herrera,26,West Randyland,Savings,2026-04-22
+T0883,A095,2026-04-07 05:18:01,37090,Debit,Preston-Parrish,South Aaronbury,0,False,22881.0,False,Webbborough,False,False,C095,121962,Dormant,Jasmine Herrera,26,West Randyland,Savings,2026-04-22
+T0778,A096,2026-02-07 10:02:39,57987,Credit,Henry Ltd,Hornview,0,True,,False,,False,True,C096,133237,Blocked,Samantha Curtis,36,North Danielhaven,Savings,2024-11-28
+T0378,A096,2026-02-18 02:35:54,52325,Debit,Reyes-Carter,Leeberg,0,True,923595.0,False,Hornview,False,True,C096,133237,Blocked,Samantha Curtis,36,North Danielhaven,Savings,2024-11-28
+T0251,A096,2026-03-31 04:39:52,15277,Credit,"Meyer, King and Wood",New Chris,0,False,3549838.0,False,Leeberg,False,False,C096,133237,Blocked,Samantha Curtis,36,North Danielhaven,Savings,2024-11-28
+T0993,A096,2026-04-03 01:14:52,12107,Credit,"Ramos, Wright and Crane",South Stephenstad,0,False,246900.0,False,New Chris,False,False,C096,133237,Blocked,Samantha Curtis,36,North Danielhaven,Savings,2024-11-28
+T0393,A097,2026-01-14 13:52:09,55587,Credit,Moore-Gibbs,New Joland,1,True,,False,,False,True,C097,21950,Blocked,Yolanda Johnson,60,Jessicachester,Current,2025-02-08
+T0159,A097,2026-02-06 11:21:45,20094,Credit,Martin Ltd,East Victoria,0,False,1978176.0,False,New Joland,False,False,C097,21950,Blocked,Yolanda Johnson,60,Jessicachester,Current,2025-02-08
+T0893,A097,2026-02-19 04:19:43,79646,Debit,"Schneider, Roberson and Jackson",Coxport,0,True,1097878.0,False,East Victoria,False,True,C097,21950,Blocked,Yolanda Johnson,60,Jessicachester,Current,2025-02-08
+T0186,A098,2026-03-11 14:02:21,38855,Credit,Rubio PLC,Ericafort,0,False,,False,,False,False,C098,178820,Active,Barbara Hall,55,North Charlesside,Current,2022-10-27
+T0458,A098,2026-03-28 20:45:34,15115,Debit,Lam LLC,Chaneytown,0,False,1492993.0,False,Ericafort,False,False,C098,178820,Active,Barbara Hall,55,North Charlesside,Current,2022-10-27
+T0877,A098,2026-04-07 06:54:17,47541,Debit,Wells-Farmer,West Laurenborough,0,False,814123.0,False,Chaneytown,False,False,C098,178820,Active,Barbara Hall,55,North Charlesside,Current,2022-10-27
+T0661,A098,2026-04-16 06:51:29,79660,Credit,David PLC,Adkinsbury,0,True,777432.0,False,West Laurenborough,False,True,C098,178820,Active,Barbara Hall,55,North Charlesside,Current,2022-10-27
+T0946,A098,2026-04-18 08:52:32,78863,Debit,"Hodge, Terrell and Bennett",Jonesberg,0,True,180063.0,False,Adkinsbury,False,True,C098,178820,Active,Barbara Hall,55,North Charlesside,Current,2022-10-27
+T0469,A099,2026-01-10 23:35:44,4877,Credit,Savage-Boyer,Port Karen,0,False,,False,,False,False,C099,121065,Blocked,Scott Marshall,35,Sandraville,Savings,2021-11-25
+T0791,A099,2026-01-28 17:06:57,24673,Credit,Miller-Vega,Lake Johnville,0,False,1531873.0,False,Port Karen,False,False,C099,121065,Blocked,Scott Marshall,35,Sandraville,Savings,2021-11-25
+T0586,A099,2026-02-06 04:39:53,51015,Debit,Moore-Watson,Robertview,0,True,732776.0,False,Lake Johnville,False,True,C099,121065,Blocked,Scott Marshall,35,Sandraville,Savings,2021-11-25
+T0622,A099,2026-03-25 10:42:16,91407,Debit,"Peterson, Robinson and Mueller",Adrianshire,0,True,4082543.0,False,Robertview,False,True,C099,121065,Blocked,Scott Marshall,35,Sandraville,Savings,2021-11-25
+T0879,A100,2026-01-03 16:13:54,62975,Debit,Sanchez-Fowler,Port Markborough,0,True,,False,,False,True,C100,172783,Blocked,Mark Vargas,50,South Jeffreymouth,Current,2024-09-07
+T0507,A100,2026-02-11 20:22:30,82049,Debit,Brady Inc,Sethside,0,True,3384516.0,False,Port Markborough,False,True,C100,172783,Blocked,Mark Vargas,50,South Jeffreymouth,Current,2024-09-07
+T0476,A100,2026-02-13 19:12:20,11771,Credit,Goodman-Cox,Allenside,0,False,168590.0,False,Sethside,False,False,C100,172783,Blocked,Mark Vargas,50,South Jeffreymouth,Current,2024-09-07
+T0259,A100,2026-02-22 04:02:44,73505,Debit,Smith-Martinez,West Teresa,0,True,723024.0,False,Allenside,False,True,C100,172783,Blocked,Mark Vargas,50,South Jeffreymouth,Current,2024-09-07
+T0846,A100,2026-03-12 12:36:14,61245,Debit,Wilson-Summers,Port Sheliachester,0,True,1586010.0,False,West Teresa,False,True,C100,172783,Blocked,Mark Vargas,50,South Jeffreymouth,Current,2024-09-07
+T0979,A100,2026-03-18 08:32:34,86300,Credit,Sanchez Inc,Lake Ebonyfort,0,True,503780.0,False,Port Sheliachester,False,True,C100,172783,Blocked,Mark Vargas,50,South Jeffreymouth,Current,2024-09-07
+T0229,A100,2026-03-24 11:12:34,3832,Credit,"Nguyen, Adams and Ryan",Evelynfort,0,False,528000.0,False,Lake Ebonyfort,False,False,C100,172783,Blocked,Mark Vargas,50,South Jeffreymouth,Current,2024-09-07
+T0577,A100,2026-04-09 02:30:13,14707,Credit,Reese-Diaz,East Michaelmouth,0,False,1351059.0,False,Evelynfort,False,False,C100,172783,Blocked,Mark Vargas,50,South Jeffreymouth,Current,2024-09-07
+T0894,A101,2026-01-06 13:06:30,69452,Credit,"Smith, Patterson and Mills",East Timothyshire,1,True,,False,,False,True,C101,114504,Active,William Carr,21,Port Reginaldside,Current,2024-08-05
+T0996,A101,2026-01-13 21:52:26,34699,Credit,"Stephenson, Castillo and Mullen",Holmesview,0,False,636356.0,False,East Timothyshire,False,False,C101,114504,Active,William Carr,21,Port Reginaldside,Current,2024-08-05
+T0895,A101,2026-02-17 02:53:15,10011,Debit,Hartman-Gray,Matthewville,0,False,2955649.0,False,Holmesview,False,False,C101,114504,Active,William Carr,21,Port Reginaldside,Current,2024-08-05
+T0671,A102,2026-01-08 00:48:07,87875,Credit,Acosta-Knight,Hinesville,0,True,,False,,False,True,C102,182527,Blocked,Arthur James,56,West Derek,Current,2023-09-05
+T0195,A102,2026-01-08 11:53:14,41188,Credit,"Roth, Anderson and Williams",Tonymouth,0,False,39907.0,False,Hinesville,False,False,C102,182527,Blocked,Arthur James,56,West Derek,Current,2023-09-05
+T0625,A102,2026-01-08 13:33:21,95213,Debit,Hernandez-Garcia,Phillipshaven,0,True,6007.0,False,Tonymouth,False,True,C102,182527,Blocked,Arthur James,56,West Derek,Current,2023-09-05
+T0075,A102,2026-02-23 06:52:38,71387,Debit,Duran Ltd,Martinezville,0,True,3950357.0,False,Phillipshaven,False,True,C102,182527,Blocked,Arthur James,56,West Derek,Current,2023-09-05
+T0041,A102,2026-02-27 08:30:50,58572,Credit,"Hayes, Miller and Rodriguez",Allenside,0,True,351492.0,False,Martinezville,False,True,C102,182527,Blocked,Arthur James,56,West Derek,Current,2023-09-05
+T0083,A102,2026-04-02 11:47:39,27984,Credit,Reeves PLC,Lisamouth,0,False,2949409.0,False,Allenside,False,False,C102,182527,Blocked,Arthur James,56,West Derek,Current,2023-09-05
+T0281,A102,2026-04-06 23:19:25,83220,Debit,Leon-Miller,Troystad,0,True,387106.0,False,Lisamouth,False,True,C102,182527,Blocked,Arthur James,56,West Derek,Current,2023-09-05
+T0723,A102,2026-04-19 04:37:44,65555,Debit,"Garcia, Jacobs and Brown",Lake Judith,0,True,1055899.0,False,Troystad,False,True,C102,182527,Blocked,Arthur James,56,West Derek,Current,2023-09-05
+T0668,A103,2026-03-15 10:14:41,89271,Credit,"Mack, Baldwin and Hogan",Johnview,0,True,,False,,False,True,C103,49495,Active,John Brown,62,Hectorfort,Current,2022-10-03
+T0446,A103,2026-03-18 10:18:29,51902,Debit,Vasquez Inc,Lake Deannachester,0,True,259428.0,False,Johnview,False,True,C103,49495,Active,John Brown,62,Hectorfort,Current,2022-10-03
+T0989,A103,2026-03-19 09:41:17,69463,Credit,Gill and Sons,Port Nicholeberg,0,True,84168.0,False,Lake Deannachester,False,True,C103,49495,Active,John Brown,62,Hectorfort,Current,2022-10-03
+T0978,A103,2026-04-15 14:54:42,43613,Debit,"Crane, Reynolds and Smith",North Keith,0,False,2351605.0,False,Port Nicholeberg,False,False,C103,49495,Active,John Brown,62,Hectorfort,Current,2022-10-03
+T0751,A103,2026-04-19 09:18:00,7987,Debit,"Lam, Turner and Wilkerson",Lake Alexanderfort,0,False,325398.0,False,North Keith,False,False,C103,49495,Active,John Brown,62,Hectorfort,Current,2022-10-03
+T0137,A104,2026-02-04 20:43:12,56838,Debit,Gonzalez-Walters,Mendezfurt,1,True,,False,,False,True,C104,26093,Active,Cynthia Alvarado,42,Port Michaelside,Savings,2024-04-22
+T0364,A104,2026-02-14 11:34:18,13636,Credit,Jimenez PLC,North Jennifer,0,False,831066.0,False,Mendezfurt,False,False,C104,26093,Active,Cynthia Alvarado,42,Port Michaelside,Savings,2024-04-22
+T0445,A104,2026-02-19 00:01:36,7497,Credit,"Johnson, Simpson and Baird",Margarettown,0,False,390438.0,False,North Jennifer,False,False,C104,26093,Active,Cynthia Alvarado,42,Port Michaelside,Savings,2024-04-22
+T0480,A104,2026-03-04 10:38:40,9772,Credit,Graham PLC,Port Marktown,0,False,1161424.0,False,Margarettown,False,False,C104,26093,Active,Cynthia Alvarado,42,Port Michaelside,Savings,2024-04-22
+T0915,A105,2026-01-14 12:50:06,51508,Debit,Taylor-Banks,South Danielle,0,True,,False,,False,True,C105,44411,Active,Erica Everett,40,East Alan,Savings,2021-09-26
+T0945,A105,2026-03-12 08:03:15,48779,Credit,"Russell, Stafford and Rodriguez",North Adamfurt,0,False,4907589.0,False,South Danielle,False,False,C105,44411,Active,Erica Everett,40,East Alan,Savings,2021-09-26
+T0600,A105,2026-03-19 22:08:26,29456,Debit,White-Bell,Beckymouth,0,False,655511.0,False,North Adamfurt,False,False,C105,44411,Active,Erica Everett,40,East Alan,Savings,2021-09-26
+T0449,A105,2026-03-24 16:27:48,44917,Debit,Richardson Group,Christopherberg,0,False,411562.0,False,Beckymouth,False,False,C105,44411,Active,Erica Everett,40,East Alan,Savings,2021-09-26
+T0310,A105,2026-03-30 14:29:15,84893,Debit,"Castillo, Horne and Williams",Stephenshire,1,True,511287.0,False,Christopherberg,False,True,C105,44411,Active,Erica Everett,40,East Alan,Savings,2021-09-26
+T0870,A105,2026-04-07 18:00:17,77771,Credit,"Davis, Holland and Perez",Lake Alejandra,0,True,703862.0,False,Stephenshire,False,True,C105,44411,Active,Erica Everett,40,East Alan,Savings,2021-09-26
+T0757,A105,2026-04-15 21:28:58,83328,Debit,Patel-Petersen,Diazside,0,True,703721.0,False,Lake Alejandra,False,True,C105,44411,Active,Erica Everett,40,East Alan,Savings,2021-09-26
+T0357,A105,2026-04-16 21:12:55,54021,Debit,"Mayo, Allen and Williams",Colleenland,1,True,85437.0,False,Diazside,False,True,C105,44411,Active,Erica Everett,40,East Alan,Savings,2021-09-26
+T0379,A106,2026-01-16 00:48:36,15739,Debit,Bishop-Howard,New Stacy,0,False,,False,,False,False,C106,140539,Blocked,Laura Evans,37,East Bryan,Current,2022-07-02
+T0328,A106,2026-03-03 22:34:32,64278,Debit,"Molina, Clayton and Hodges",Davidview,0,True,4052756.0,False,New Stacy,False,True,C106,140539,Blocked,Laura Evans,37,East Bryan,Current,2022-07-02
+T0049,A106,2026-04-07 00:28:55,37837,Debit,Carson-Bennett,South Andrew,0,False,2944463.0,False,Davidview,False,False,C106,140539,Blocked,Laura Evans,37,East Bryan,Current,2022-07-02
+T0468,A107,2026-01-11 15:40:35,10487,Credit,"Jones, Cole and Acosta",East Jeremy,0,False,,False,,False,False,C107,136292,Blocked,Jasmine Sanford,63,Kathleentown,Current,2023-12-16
+T0214,A107,2026-01-24 03:09:05,71016,Credit,"Day, Hoover and Blair",West Andrewfurt,0,True,1078110.0,False,East Jeremy,False,True,C107,136292,Blocked,Jasmine Sanford,63,Kathleentown,Current,2023-12-16
+T0492,A107,2026-03-04 08:59:03,74325,Debit,Wood-Garcia,New Ellenmouth,1,True,3390598.0,False,West Andrewfurt,False,True,C107,136292,Blocked,Jasmine Sanford,63,Kathleentown,Current,2023-12-16
+T0974,A107,2026-03-09 21:20:10,60877,Debit,Lee Group,Adamfort,0,True,476467.0,False,New Ellenmouth,False,True,C107,136292,Blocked,Jasmine Sanford,63,Kathleentown,Current,2023-12-16
+T0677,A107,2026-03-12 06:44:02,26209,Credit,"Roberts, Gonzalez and Cowan",Port Adamport,0,False,206632.0,False,Adamfort,False,False,C107,136292,Blocked,Jasmine Sanford,63,Kathleentown,Current,2023-12-16
+T0239,A107,2026-03-19 09:37:27,24643,Credit,"Bishop, Snyder and Davies",Danielfort,0,False,615205.0,False,Port Adamport,False,False,C107,136292,Blocked,Jasmine Sanford,63,Kathleentown,Current,2023-12-16
+T0457,A108,2026-01-02 11:09:38,57642,Credit,Jordan-Wallace,South Allisonmouth,0,True,,False,,False,True,C108,78143,Blocked,Joshua Terrell,63,Port Kathryn,Savings,2024-01-23
+T0030,A108,2026-01-28 17:16:18,62906,Debit,Smith-Butler,New Christopherstad,0,True,2268400.0,False,South Allisonmouth,False,True,C108,78143,Blocked,Joshua Terrell,63,Port Kathryn,Savings,2024-01-23
+T0270,A108,2026-02-22 09:49:08,22037,Credit,"Campbell, Mccall and Jones",West Dustin,0,False,2133170.0,False,New Christopherstad,False,False,C108,78143,Blocked,Joshua Terrell,63,Port Kathryn,Savings,2024-01-23
+T0601,A108,2026-04-06 23:22:08,18833,Credit,"Garcia, Johnson and Bush",South Brettville,0,False,3763980.0,False,West Dustin,False,False,C108,78143,Blocked,Joshua Terrell,63,Port Kathryn,Savings,2024-01-23
+T0660,A108,2026-04-08 18:24:59,72578,Credit,"Ward, Stafford and Jones",East Kimberly,0,True,154971.0,False,South Brettville,False,True,C108,78143,Blocked,Joshua Terrell,63,Port Kathryn,Savings,2024-01-23
+T0042,A108,2026-04-09 21:07:18,11371,Debit,"Perez, Stewart and Walton",Port April,0,False,96139.0,False,East Kimberly,False,False,C108,78143,Blocked,Joshua Terrell,63,Port Kathryn,Savings,2024-01-23
+T0555,A108,2026-04-22 06:32:47,29571,Debit,Adams PLC,Lanefort,0,False,1070729.0,False,Port April,False,False,C108,78143,Blocked,Joshua Terrell,63,Port Kathryn,Savings,2024-01-23
+T0590,A109,2026-01-08 02:12:37,55670,Credit,Acosta LLC,Port Kaylashire,0,True,,False,,False,True,C109,33052,Dormant,Alexander Smith,58,Lake Sean,Current,2024-06-15
+T0520,A109,2026-02-15 12:55:18,20586,Debit,Wheeler Group,Oliviamouth,0,False,3321761.0,False,Port Kaylashire,False,False,C109,33052,Dormant,Alexander Smith,58,Lake Sean,Current,2024-06-15
+T0758,A109,2026-02-18 03:11:14,64667,Credit,Powell-Johnson,Palmershire,0,True,224156.0,False,Oliviamouth,False,True,C109,33052,Dormant,Alexander Smith,58,Lake Sean,Current,2024-06-15
+T0705,A109,2026-04-02 09:05:07,32073,Debit,Cowan-Herrera,Blackfurt,0,False,3736433.0,False,Palmershire,False,False,C109,33052,Dormant,Alexander Smith,58,Lake Sean,Current,2024-06-15
+T0385,A109,2026-04-02 13:02:24,46817,Debit,Brewer PLC,New Shelleyberg,0,False,14237.0,False,Blackfurt,False,False,C109,33052,Dormant,Alexander Smith,58,Lake Sean,Current,2024-06-15
+T0566,A109,2026-04-04 10:07:25,87911,Debit,Perkins PLC,Port Jennifer,0,True,162301.0,False,New Shelleyberg,False,True,C109,33052,Dormant,Alexander Smith,58,Lake Sean,Current,2024-06-15
+T0384,A110,2026-02-17 22:40:29,11850,Credit,"Meyer, Hansen and Johnson",Port Drew,0,False,,False,,False,False,C110,167251,Blocked,Lori Peterson,63,Lake Teresa,Current,2023-01-03
+T0588,A110,2026-03-03 06:24:35,6538,Credit,"Rose, Stewart and Sanders",East Robert,0,False,1151046.0,False,Port Drew,False,False,C110,167251,Blocked,Lori Peterson,63,Lake Teresa,Current,2023-01-03
+T0493,A110,2026-03-19 00:52:56,78288,Credit,Carpenter and Sons,North Angela,1,True,1362501.0,False,East Robert,False,True,C110,167251,Blocked,Lori Peterson,63,Lake Teresa,Current,2023-01-03
+T0166,A110,2026-03-26 19:43:43,33583,Debit,Mayer Inc,Parrishshire,0,False,672647.0,False,North Angela,False,False,C110,167251,Blocked,Lori Peterson,63,Lake Teresa,Current,2023-01-03
+T0798,A110,2026-04-01 02:00:50,40864,Credit,Wang-Guerra,Port Angela,0,False,454627.0,False,Parrishshire,False,False,C110,167251,Blocked,Lori Peterson,63,Lake Teresa,Current,2023-01-03
+T0698,A111,2026-03-02 21:33:05,41135,Debit,Schultz LLC,Sheilaborough,0,False,,False,,False,False,C111,20413,Blocked,Shelly Solis,37,Amberview,Savings,2024-08-14
+T0680,A111,2026-03-25 15:32:21,93790,Debit,Lopez-Roberts,Kyleport,1,True,1965556.0,False,Sheilaborough,False,True,C111,20413,Blocked,Shelly Solis,37,Amberview,Savings,2024-08-14
+T0611,A111,2026-04-14 17:02:51,61551,Credit,"Carpenter, Hall and Smith",Vegamouth,0,True,1733430.0,False,Kyleport,False,True,C111,20413,Blocked,Shelly Solis,37,Amberview,Savings,2024-08-14
+T0531,A111,2026-04-19 01:26:35,39000,Debit,Kirby PLC,Lake Jordanville,0,False,375824.0,False,Vegamouth,False,False,C111,20413,Blocked,Shelly Solis,37,Amberview,Savings,2024-08-14
+T0110,A112,2026-01-01 10:16:26,21499,Credit,Sullivan-Carter,East Danielle,0,False,,False,,False,False,C112,73293,Blocked,Herbert Chan,46,New Josephtown,Current,2022-06-14
+T0464,A112,2026-01-05 18:55:36,79913,Debit,Jefferson PLC,Chavezport,0,True,376750.0,False,East Danielle,False,True,C112,73293,Blocked,Herbert Chan,46,New Josephtown,Current,2022-06-14
+T0674,A112,2026-01-11 20:57:40,92174,Credit,"Hall, Cisneros and Bradford",North Kristinland,0,True,525724.0,False,Chavezport,False,True,C112,73293,Blocked,Herbert Chan,46,New Josephtown,Current,2022-06-14
+T0215,A112,2026-01-14 03:53:40,10387,Debit,Wall-Duncan,Port Natashaview,0,False,197760.0,False,North Kristinland,False,False,C112,73293,Blocked,Herbert Chan,46,New Josephtown,Current,2022-06-14
+T0287,A112,2026-02-15 09:19:49,63317,Debit,"Rogers, Dominguez and Griffin",New Nancy,0,True,2784369.0,False,Port Natashaview,False,True,C112,73293,Blocked,Herbert Chan,46,New Josephtown,Current,2022-06-14
+T0865,A112,2026-03-04 09:08:10,45715,Credit,Osborne PLC,Lake Herberthaven,0,False,1468101.0,False,New Nancy,False,False,C112,73293,Blocked,Herbert Chan,46,New Josephtown,Current,2022-06-14
+T0069,A112,2026-03-21 06:20:58,47477,Debit,"Herrera, Garcia and Gutierrez",Lake James,0,False,1458768.0,False,Lake Herberthaven,False,False,C112,73293,Blocked,Herbert Chan,46,New Josephtown,Current,2022-06-14
+T0495,A113,2026-01-21 21:50:06,63360,Debit,Martin and Sons,Jeffreyburgh,0,True,,False,,False,True,C113,105021,Blocked,Kevin Coleman,62,North John,Savings,2025-02-10
+T0143,A113,2026-01-27 05:07:55,65185,Debit,"Mclaughlin, Gonzalez and Hoffman",Lake Chloeton,0,True,458269.0,False,Jeffreyburgh,False,True,C113,105021,Blocked,Kevin Coleman,62,North John,Savings,2025-02-10
+T0135,A113,2026-02-07 14:12:38,42252,Debit,Turner Inc,West Nancy,0,False,983083.0,False,Lake Chloeton,False,False,C113,105021,Blocked,Kevin Coleman,62,North John,Savings,2025-02-10
+T0315,A113,2026-03-04 13:29:41,32755,Debit,Wells Inc,Hartbury,0,False,2157423.0,False,West Nancy,False,False,C113,105021,Blocked,Kevin Coleman,62,North John,Savings,2025-02-10
+T0342,A113,2026-03-07 23:41:21,37689,Credit,Murillo LLC,South Jerry,0,False,295900.0,False,Hartbury,False,False,C113,105021,Blocked,Kevin Coleman,62,North John,Savings,2025-02-10
+T0881,A113,2026-03-27 04:26:52,77932,Debit,Ritter Group,West John,0,True,1658731.0,False,South Jerry,False,True,C113,105021,Blocked,Kevin Coleman,62,North John,Savings,2025-02-10
+T0687,A114,2026-01-07 16:05:19,51728,Debit,"Shaw, Brown and Hanson",Lambertfurt,0,True,,False,,False,True,C114,103243,Blocked,Brianna Mullins,48,Port Gregorymouth,Savings,2022-09-19
+T0022,A114,2026-01-18 12:10:48,12848,Credit,Bauer-Reed,Brownmouth,0,False,936329.0,False,Lambertfurt,False,False,C114,103243,Blocked,Brianna Mullins,48,Port Gregorymouth,Savings,2022-09-19
+T0018,A114,2026-02-03 01:48:56,95992,Debit,Woods and Sons,New Dennis,0,True,1345088.0,False,Brownmouth,False,True,C114,103243,Blocked,Brianna Mullins,48,Port Gregorymouth,Savings,2022-09-19
+T0855,A114,2026-02-09 23:25:02,98881,Credit,Watson-Martinez,Port Mark,0,True,596166.0,False,New Dennis,False,True,C114,103243,Blocked,Brianna Mullins,48,Port Gregorymouth,Savings,2022-09-19
+T0700,A114,2026-02-15 19:01:36,97647,Credit,Long-Smith,Richardborough,0,True,502594.0,False,Port Mark,False,True,C114,103243,Blocked,Brianna Mullins,48,Port Gregorymouth,Savings,2022-09-19
+T0146,A114,2026-03-02 11:17:22,982,Debit,Williams and Sons,Crystaltown,0,False,1268146.0,False,Richardborough,False,False,C114,103243,Blocked,Brianna Mullins,48,Port Gregorymouth,Savings,2022-09-19
+T0729,A114,2026-03-31 15:44:19,64750,Debit,Mcdonald-West,Port Stevenburgh,0,True,2521617.0,False,Crystaltown,False,True,C114,103243,Blocked,Brianna Mullins,48,Port Gregorymouth,Savings,2022-09-19
+T0702,A115,2026-01-04 10:05:29,20607,Debit,"Kim, Lee and Quinn",Christopherfurt,0,False,,False,,False,False,C115,70109,Dormant,Barry Wilson,54,Benjamintown,Savings,2025-01-20
+T0429,A115,2026-01-07 14:44:17,89415,Credit,Thompson and Sons,West Stephanie,1,True,275928.0,False,Christopherfurt,False,True,C115,70109,Dormant,Barry Wilson,54,Benjamintown,Savings,2025-01-20
+T0177,A115,2026-01-12 02:23:14,2266,Credit,Mendoza-Middleton,West Jessicaview,0,False,387537.0,False,West Stephanie,False,False,C115,70109,Dormant,Barry Wilson,54,Benjamintown,Savings,2025-01-20
+T0319,A115,2026-01-12 07:22:28,42782,Credit,Hayes-Wilson,North Kathleen,0,False,17954.0,False,West Jessicaview,False,False,C115,70109,Dormant,Barry Wilson,54,Benjamintown,Savings,2025-01-20
+T0688,A115,2026-02-04 09:03:13,92132,Credit,Hendrix Ltd,Ronaldburgh,0,True,1993245.0,False,North Kathleen,False,True,C115,70109,Dormant,Barry Wilson,54,Benjamintown,Savings,2025-01-20
+T0241,A115,2026-02-07 01:44:53,72814,Debit,Tanner Group,New Teresa,0,True,232900.0,False,Ronaldburgh,False,True,C115,70109,Dormant,Barry Wilson,54,Benjamintown,Savings,2025-01-20
+T0386,A115,2026-03-05 00:18:45,52250,Debit,Huynh-Grant,North Aaron,0,True,2241232.0,False,New Teresa,False,True,C115,70109,Dormant,Barry Wilson,54,Benjamintown,Savings,2025-01-20
+T0937,A116,2026-01-04 21:18:34,78479,Debit,Singleton Inc,Elizabethview,0,True,,False,,False,True,C116,129647,Dormant,Jennifer Barnes,55,Johnsonfort,Savings,2025-02-07
+T0951,A116,2026-01-14 13:10:52,27579,Debit,Young-Johnson,West Stevenview,0,False,834738.0,False,Elizabethview,False,False,C116,129647,Dormant,Jennifer Barnes,55,Johnsonfort,Savings,2025-02-07
+T0489,A116,2026-02-03 15:57:57,85255,Credit,"Evans, Ali and Hurst",Kochmouth,0,True,1738025.0,False,West Stevenview,False,True,C116,129647,Dormant,Jennifer Barnes,55,Johnsonfort,Savings,2025-02-07
+T0147,A116,2026-02-07 21:32:09,14307,Credit,"Parker, Hodge and Byrd",Grantville,0,False,365652.0,False,Kochmouth,False,False,C116,129647,Dormant,Jennifer Barnes,55,Johnsonfort,Savings,2025-02-07
+T0682,A116,2026-02-09 16:40:53,13097,Credit,Taylor-Drake,South Jeffrey,0,False,155324.0,False,Grantville,False,False,C116,129647,Dormant,Jennifer Barnes,55,Johnsonfort,Savings,2025-02-07
+T0599,A116,2026-02-23 22:15:23,75201,Debit,Schultz and Sons,Port Anita,1,True,1229670.0,False,South Jeffrey,False,True,C116,129647,Dormant,Jennifer Barnes,55,Johnsonfort,Savings,2025-02-07
+T0098,A116,2026-03-05 16:36:02,85266,Debit,Powell Inc,Donport,0,True,843639.0,False,Port Anita,False,True,C116,129647,Dormant,Jennifer Barnes,55,Johnsonfort,Savings,2025-02-07
+T0744,A116,2026-03-20 22:48:01,49187,Credit,Flores-Moore,Tinashire,0,False,1318319.0,False,Donport,False,False,C116,129647,Dormant,Jennifer Barnes,55,Johnsonfort,Savings,2025-02-07
+T0681,A117,2026-01-16 01:53:31,54527,Debit,"Smith, Gordon and Johnson",Youngburgh,0,True,,False,,False,True,C117,28010,Active,Michelle Brown,36,Brianshire,Current,2022-03-01
+T0732,A117,2026-01-16 17:14:29,41956,Credit,Contreras-Hurley,Kaitlynbury,0,False,55258.0,False,Youngburgh,False,False,C117,28010,Active,Michelle Brown,36,Brianshire,Current,2022-03-01
+T0621,A117,2026-01-31 18:39:04,80701,Credit,Walters LLC,North Daisyville,0,True,1301075.0,False,Kaitlynbury,False,True,C117,28010,Active,Michelle Brown,36,Brianshire,Current,2022-03-01
+T0712,A117,2026-02-15 11:39:53,16616,Debit,Dominguez Group,Henryfurt,0,False,1270849.0,False,North Daisyville,False,False,C117,28010,Active,Michelle Brown,36,Brianshire,Current,2022-03-01
+T0011,A117,2026-03-28 16:59:36,20478,Debit,"Campbell, Campos and Jacobs",Adamstown,0,False,3561583.0,False,Henryfurt,False,False,C117,28010,Active,Michelle Brown,36,Brianshire,Current,2022-03-01
+T0289,A117,2026-03-29 07:14:28,72532,Debit,Perez-Garcia,East John,0,True,51292.0,False,Adamstown,False,True,C117,28010,Active,Michelle Brown,36,Brianshire,Current,2022-03-01
+T0361,A118,2026-01-04 05:44:53,14275,Credit,Gates-Orr,Williamsonside,0,False,,False,,False,False,C118,59674,Dormant,Stephanie Gomez,39,North Kathy,Current,2022-10-11
+T0810,A118,2026-01-13 04:57:45,69717,Credit,Williams and Sons,Beckburgh,1,True,774772.0,False,Williamsonside,False,True,C118,59674,Dormant,Stephanie Gomez,39,North Kathy,Current,2022-10-11
+T0461,A118,2026-02-13 10:59:08,27590,Debit,"Anderson, Parker and Griffin",Sheltontown,0,False,2700083.0,False,Beckburgh,False,False,C118,59674,Dormant,Stephanie Gomez,39,North Kathy,Current,2022-10-11
+T0119,A118,2026-02-19 05:36:41,87130,Credit,Brewer-Wheeler,Colemanchester,0,True,499053.0,False,Sheltontown,False,True,C118,59674,Dormant,Stephanie Gomez,39,North Kathy,Current,2022-10-11
+T1000,A118,2026-02-27 09:41:43,14000,Credit,"Sandoval, Young and White",Frazierton,0,False,705902.0,False,Colemanchester,False,False,C118,59674,Dormant,Stephanie Gomez,39,North Kathy,Current,2022-10-11
+T0667,A119,2026-01-24 21:11:48,21751,Debit,"Smith, Anderson and Sweeney",New Marymouth,0,False,,False,,False,False,C119,128937,Active,Margaret Green,30,North Danielville,Savings,2022-11-24
+T0117,A119,2026-01-27 20:45:51,72771,Credit,Foster PLC,Lake Rebekah,1,True,257643.0,False,New Marymouth,False,True,C119,128937,Active,Margaret Green,30,North Danielville,Savings,2022-11-24
+T0012,A119,2026-02-02 10:58:09,9264,Debit,Faulkner PLC,Kimberlyville,0,False,483138.0,False,Lake Rebekah,False,False,C119,128937,Active,Margaret Green,30,North Danielville,Savings,2022-11-24
+T0252,A119,2026-03-01 01:43:32,31301,Debit,Harper-Knight,South Nina,0,False,2299523.0,False,Kimberlyville,False,False,C119,128937,Active,Margaret Green,30,North Danielville,Savings,2022-11-24
+T0085,A119,2026-03-17 15:49:25,55521,Debit,Ramirez-Hensley,Lake Cody,0,True,1433153.0,False,South Nina,False,True,C119,128937,Active,Margaret Green,30,North Danielville,Savings,2022-11-24
+T0669,A119,2026-04-07 08:01:48,1117,Debit,"Gross, Smith and Fletcher",New Robert,0,False,1786343.0,False,Lake Cody,False,False,C119,128937,Active,Margaret Green,30,North Danielville,Savings,2022-11-24
+T0543,A119,2026-04-21 11:25:11,8092,Debit,"Turner, Perry and Morales",Alexanderside,0,False,1221803.0,False,New Robert,False,False,C119,128937,Active,Margaret Green,30,North Danielville,Savings,2022-11-24
+T0064,A120,2026-01-04 11:24:59,44916,Debit,"Joseph, Hawkins and Anderson",Haleymouth,0,False,,False,,False,False,C120,25795,Active,Dr. Kelly Malone MD,32,New Savannah,Savings,2023-04-26
+T0824,A120,2026-03-06 12:36:46,5716,Credit,"Perry, Vasquez and Robinson",Lake Elizabeth,0,False,5274707.0,False,Haleymouth,False,False,C120,25795,Active,Dr. Kelly Malone MD,32,New Savannah,Savings,2023-04-26
+T0528,A120,2026-03-13 13:19:41,9638,Credit,Knight PLC,Toddburgh,0,False,607375.0,False,Lake Elizabeth,False,False,C120,25795,Active,Dr. Kelly Malone MD,32,New Savannah,Savings,2023-04-26
+T0200,A120,2026-03-25 14:38:30,85488,Debit,Marshall and Sons,Amyshire,1,True,1041529.0,False,Toddburgh,False,True,C120,25795,Active,Dr. Kelly Malone MD,32,New Savannah,Savings,2023-04-26
+T0815,A120,2026-04-21 23:09:46,63080,Credit,Lopez LLC,Summerchester,1,True,2363476.0,False,Amyshire,False,True,C120,25795,Active,Dr. Kelly Malone MD,32,New Savannah,Savings,2023-04-26
+T0498,A121,2026-01-11 07:23:00,8673,Credit,"Baker, Bell and Jenkins",South Christopher,0,False,,False,,False,False,C121,138952,Dormant,Robert Day,21,Whiteshire,Savings,2024-07-15
+T0969,A121,2026-01-26 14:31:22,50629,Debit,"Medina, Hamilton and Moore",West Josephmouth,0,True,1321702.0,False,South Christopher,False,True,C121,138952,Dormant,Robert Day,21,Whiteshire,Savings,2024-07-15
+T0423,A122,2026-01-07 18:57:37,29670,Credit,Walker-Reed,Campbelltown,0,False,,False,,False,False,C122,71311,Blocked,Gregory Hayes,56,East Brianstad,Current,2024-10-19
+T0739,A122,2026-01-20 02:58:33,54484,Debit,Little-Carr,Port Stevenbury,0,True,1065656.0,False,Campbelltown,False,True,C122,71311,Blocked,Gregory Hayes,56,East Brianstad,Current,2024-10-19
+T0013,A122,2026-01-29 20:25:56,30211,Credit,"Heath, Thompson and Daugherty",Lake Amanda,0,False,840443.0,False,Port Stevenbury,False,False,C122,71311,Blocked,Gregory Hayes,56,East Brianstad,Current,2024-10-19
+T0743,A123,2026-01-16 02:07:37,11475,Credit,"Zimmerman, Saunders and Herring",East Scott,0,False,,False,,False,False,C123,194439,Dormant,Stephen Kaufman,59,New Devinfurt,Current,2024-10-17
+T0390,A123,2026-02-04 22:15:05,20926,Credit,Yu-Cunningham,Aaronfort,0,False,1714048.0,False,East Scott,False,False,C123,194439,Dormant,Stephen Kaufman,59,New Devinfurt,Current,2024-10-17
+T0836,A123,2026-02-16 23:10:29,82119,Debit,"Phillips, Edwards and Bell",Lake Michele,0,True,1040124.0,False,Aaronfort,False,True,C123,194439,Dormant,Stephen Kaufman,59,New Devinfurt,Current,2024-10-17
+T0324,A123,2026-02-23 10:07:27,82208,Debit,"Jackson, Bridges and Williams",New Emilyview,0,True,557818.0,False,Lake Michele,False,True,C123,194439,Dormant,Stephen Kaufman,59,New Devinfurt,Current,2024-10-17
+T0175,A123,2026-03-18 00:49:02,83940,Debit,Gonzales Ltd,Sheilastad,1,True,1953695.0,False,New Emilyview,False,True,C123,194439,Dormant,Stephen Kaufman,59,New Devinfurt,Current,2024-10-17
+T0275,A123,2026-04-08 01:11:21,61837,Debit,Sutton Inc,Jonathanmouth,1,True,1815739.0,False,Sheilastad,False,True,C123,194439,Dormant,Stephen Kaufman,59,New Devinfurt,Current,2024-10-17
+T0801,A123,2026-04-14 13:20:19,92972,Debit,"Hall, Watson and Hernandez",Lake Sandra,1,True,562138.0,False,Jonathanmouth,False,True,C123,194439,Dormant,Stephen Kaufman,59,New Devinfurt,Current,2024-10-17
+T0338,A123,2026-04-19 13:05:44,16458,Credit,Lopez-Smith,New Michellebury,0,False,431125.0,False,Lake Sandra,False,False,C123,194439,Dormant,Stephen Kaufman,59,New Devinfurt,Current,2024-10-17
+T0104,A124,2026-02-05 09:10:44,88431,Debit,Turner-Galvan,Jasonhaven,1,True,,False,,False,True,C124,104735,Dormant,Karen Owen,21,Justinborough,Current,2023-01-19
+T0748,A124,2026-02-24 06:21:21,49927,Credit,"Newton, Kim and Ball",Lunaburgh,0,False,1631437.0,False,Jasonhaven,False,False,C124,104735,Dormant,Karen Owen,21,Justinborough,Current,2023-01-19
+T0984,A124,2026-03-06 19:25:13,27115,Credit,Gray-Thomas,Lake Jonathantown,0,False,911032.0,False,Lunaburgh,False,False,C124,104735,Dormant,Karen Owen,21,Justinborough,Current,2023-01-19
+T0285,A124,2026-03-17 02:25:54,22227,Credit,Harvey-Baker,Mcdonaldchester,0,False,889241.0,False,Lake Jonathantown,False,False,C124,104735,Dormant,Karen Owen,21,Justinborough,Current,2023-01-19
+T0152,A124,2026-04-16 21:30:45,43497,Debit,Jackson LLC,Port Alexaton,0,False,2660691.0,False,Mcdonaldchester,False,False,C124,104735,Dormant,Karen Owen,21,Justinborough,Current,2023-01-19
+T0034,A124,2026-04-21 03:27:14,52560,Debit,"Thomas, Davis and Hughes",Phillipsfort,1,True,366989.0,False,Port Alexaton,False,True,C124,104735,Dormant,Karen Owen,21,Justinborough,Current,2023-01-19
+T0173,A125,2026-01-05 10:01:57,61675,Credit,Williams-Alvarez,Port Karenview,1,True,,False,,False,True,C125,24957,Dormant,Daniel Ramos,41,Whiteport,Current,2023-08-29
+T0972,A125,2026-03-10 13:29:16,86480,Credit,"Gates, Hernandez and Mcintosh",Port Rachelhaven,0,True,5542039.0,False,Port Karenview,False,True,C125,24957,Dormant,Daniel Ramos,41,Whiteport,Current,2023-08-29
+T0233,A125,2026-03-13 09:35:22,35970,Debit,"Wheeler, Farmer and Stewart",West Jessicachester,0,False,245166.0,False,Port Rachelhaven,False,False,C125,24957,Dormant,Daniel Ramos,41,Whiteport,Current,2023-08-29
+T0016,A126,2026-02-06 00:26:00,11610,Credit,Price PLC,Lake Steveborough,0,False,,False,,False,False,C126,172443,Blocked,Angela Everett,30,Davismouth,Savings,2023-01-05
+T0789,A126,2026-03-16 05:03:28,83099,Credit,Barker PLC,Nathanstad,1,True,3299848.0,False,Lake Steveborough,False,True,C126,172443,Blocked,Angela Everett,30,Davismouth,Savings,2023-01-05
+T0693,A126,2026-03-22 03:10:27,87780,Debit,Price and Sons,Leeton,0,True,511619.0,False,Nathanstad,False,True,C126,172443,Blocked,Angela Everett,30,Davismouth,Savings,2023-01-05
+T0652,A126,2026-04-22 07:51:43,38940,Debit,Diaz LLC,Abigailmouth,0,False,2695276.0,False,Leeton,False,False,C126,172443,Blocked,Angela Everett,30,Davismouth,Savings,2023-01-05
+T0483,A127,2026-01-12 11:53:52,8319,Debit,Edwards Inc,Burgessburgh,0,False,,False,,False,False,C127,149177,Active,Travis Wong MD,59,North Michelestad,Current,2024-08-06
+T0332,A127,2026-01-29 22:20:28,68048,Credit,"Chen, Tucker and Torres",Lambport,1,True,1506396.0,False,Burgessburgh,False,True,C127,149177,Active,Travis Wong MD,59,North Michelestad,Current,2024-08-06
+T0871,A127,2026-02-18 07:44:26,26437,Credit,Jones and Sons,Brownshire,0,False,1675438.0,False,Lambport,False,False,C127,149177,Active,Travis Wong MD,59,North Michelestad,Current,2024-08-06
+T0720,A127,2026-03-04 21:29:48,23840,Debit,Clark LLC,Christopherhaven,0,False,1259122.0,False,Brownshire,False,False,C127,149177,Active,Travis Wong MD,59,North Michelestad,Current,2024-08-06
+T0530,A127,2026-03-11 23:14:12,51783,Debit,Clark Inc,Port Kevintown,0,True,611064.0,False,Christopherhaven,False,True,C127,149177,Active,Travis Wong MD,59,North Michelestad,Current,2024-08-06
+T0397,A127,2026-03-26 15:07:54,97822,Credit,Ford-Jimenez,Port Rachel,1,True,1266822.0,False,Port Kevintown,False,True,C127,149177,Active,Travis Wong MD,59,North Michelestad,Current,2024-08-06
+T0247,A128,2026-03-24 14:49:28,63478,Credit,Carroll-Miller,South Richard,1,True,,False,,False,True,C128,161974,Blocked,Rachel Brown,54,North Leonard,Current,2021-10-01
+T0231,A128,2026-03-31 13:03:08,62622,Credit,Meyers and Sons,West Savannah,0,True,598420.0,False,South Richard,False,True,C128,161974,Blocked,Rachel Brown,54,North Leonard,Current,2021-10-01
+T0370,A128,2026-04-01 12:31:41,73595,Credit,Nguyen PLC,Amandaland,0,True,84513.0,False,West Savannah,False,True,C128,161974,Blocked,Rachel Brown,54,North Leonard,Current,2021-10-01
+T0114,A129,2026-03-17 01:27:52,13406,Debit,"Baker, Perry and Walker",Martinton,0,False,,False,,False,False,C129,151580,Blocked,Taylor Sampson,35,Jamesfort,Current,2023-05-18
+T0910,A129,2026-03-27 00:07:09,58728,Credit,Luna LLC,East Jonathanfort,0,True,859157.0,False,Martinton,False,True,C129,151580,Blocked,Taylor Sampson,35,Jamesfort,Current,2023-05-18
+T0771,A130,2026-01-18 17:07:16,61466,Debit,"Frazier, Hart and Hernandez",Lake Antonio,0,True,,False,,False,True,C130,46798,Active,Mrs. Linda White DDS,25,South Amber,Savings,2024-07-23
+T0593,A130,2026-01-19 20:01:58,8631,Credit,"Sellers, Lester and Soto",North Michele,0,False,96882.0,False,Lake Antonio,False,False,C130,46798,Active,Mrs. Linda White DDS,25,South Amber,Savings,2024-07-23
+T0776,A130,2026-01-20 04:19:30,56947,Credit,Clay-Merritt,New Jamesmouth,0,True,29852.0,False,North Michele,False,True,C130,46798,Active,Mrs. Linda White DDS,25,South Amber,Savings,2024-07-23
+T0713,A130,2026-03-24 14:10:16,70825,Debit,Nelson LLC,Hintonton,0,True,5478646.0,False,New Jamesmouth,False,True,C130,46798,Active,Mrs. Linda White DDS,25,South Amber,Savings,2024-07-23
+T0192,A130,2026-04-10 08:34:18,50539,Debit,"Ortega, Hale and Long",West Danielburgh,1,True,1448642.0,False,Hintonton,False,True,C130,46798,Active,Mrs. Linda White DDS,25,South Amber,Savings,2024-07-23
+T0058,A130,2026-04-13 19:09:40,99496,Debit,"Campbell, Hull and Gregory",West Sarahtown,0,True,297322.0,False,West Danielburgh,False,True,C130,46798,Active,Mrs. Linda White DDS,25,South Amber,Savings,2024-07-23
+T0605,A131,2026-01-24 04:07:33,61214,Debit,Sloan LLC,Ayalaville,1,True,,False,,False,True,C131,64665,Dormant,Caitlin Smith,60,Jessicaborough,Savings,2024-07-14
+T0345,A131,2026-01-31 23:26:35,76802,Debit,Hart-Allen,Jenniferborough,1,True,674342.0,False,Ayalaville,False,True,C131,64665,Dormant,Caitlin Smith,60,Jessicaborough,Savings,2024-07-14
+T0017,A131,2026-02-24 08:40:26,22005,Debit,Wolfe-Burns,Paulshire,0,False,2020431.0,False,Jenniferborough,False,False,C131,64665,Dormant,Caitlin Smith,60,Jessicaborough,Savings,2024-07-14
+T0470,A132,2026-03-05 11:28:36,28869,Debit,Quinn LLC,North Laura,0,False,,False,,False,False,C132,190818,Blocked,Brittany Gardner,46,Lake Craig,Savings,2023-12-18
+T0646,A133,2026-03-11 19:28:29,38848,Debit,Stevenson-Wilson,East Seth,0,False,,False,,False,False,C133,125651,Dormant,Kevin Johnson,56,East Lukeside,Current,2022-03-26
+T0376,A133,2026-03-29 03:32:04,80689,Debit,Olson Ltd,Rileyport,0,True,1497815.0,False,East Seth,False,True,C133,125651,Dormant,Kevin Johnson,56,East Lukeside,Current,2022-03-26
+T0109,A133,2026-04-18 15:07:34,60810,Debit,"Moreno, Ferguson and Thompson",Port Janethaven,0,True,1769730.0,False,Rileyport,False,True,C133,125651,Dormant,Kevin Johnson,56,East Lukeside,Current,2022-03-26
+T0928,A134,2026-01-28 20:33:41,48586,Credit,Vaughan Inc,West Sandraland,0,False,,False,,False,False,C134,105792,Active,Mark Jones,32,Andrewmouth,Current,2023-09-08
+T0735,A134,2026-02-07 13:30:05,19917,Debit,Ashley Inc,Lake Austinstad,0,False,838584.0,False,West Sandraland,False,False,C134,105792,Active,Mark Jones,32,Andrewmouth,Current,2023-09-08
+T0026,A134,2026-02-12 15:30:21,99733,Credit,"Rojas, Ramos and Davis",Johnsonburgh,0,True,439216.0,False,Lake Austinstad,False,True,C134,105792,Active,Mark Jones,32,Andrewmouth,Current,2023-09-08
+T0777,A134,2026-03-21 12:43:50,9717,Credit,Jones-Smith,North Brookeshire,0,False,3186809.0,False,Johnsonburgh,False,False,C134,105792,Active,Mark Jones,32,Andrewmouth,Current,2023-09-08
+T0710,A134,2026-03-31 07:48:00,68850,Debit,Stephens Inc,Port Jordanstad,0,True,846250.0,False,North Brookeshire,False,True,C134,105792,Active,Mark Jones,32,Andrewmouth,Current,2023-09-08
+T0567,A134,2026-04-03 15:44:55,18733,Credit,Mcdaniel LLC,Mosleyview,0,False,287815.0,False,Port Jordanstad,False,False,C134,105792,Active,Mark Jones,32,Andrewmouth,Current,2023-09-08
+T0675,A134,2026-04-11 03:32:01,66677,Credit,Herring-Thomas,Davisshire,1,True,647226.0,False,Mosleyview,False,True,C134,105792,Active,Mark Jones,32,Andrewmouth,Current,2023-09-08
+T0848,A134,2026-04-15 09:58:31,13007,Credit,Kelly and Sons,West Lukemouth,0,False,368790.0,False,Davisshire,False,False,C134,105792,Active,Mark Jones,32,Andrewmouth,Current,2023-09-08
+T0418,A134,2026-04-21 20:17:12,88629,Debit,Johnson-Henderson,South Steven,0,True,555521.0,False,West Lukemouth,False,True,C134,105792,Active,Mark Jones,32,Andrewmouth,Current,2023-09-08
+T0515,A135,2026-01-27 03:39:29,37975,Credit,Phillips-Sutton,Port Scott,0,False,,False,,False,False,C135,114869,Blocked,Richard Watkins,50,Rebeccamouth,Current,2024-10-14
+T0482,A135,2026-02-12 18:04:53,26568,Debit,Johnson-Thompson,Josephview,0,False,1434324.0,False,Port Scott,False,False,C135,114869,Blocked,Richard Watkins,50,Rebeccamouth,Current,2024-10-14
+T0637,A135,2026-02-17 11:25:33,75199,Credit,Butler-Pugh,Lake Sabrina,0,True,408040.0,False,Josephview,False,True,C135,114869,Blocked,Richard Watkins,50,Rebeccamouth,Current,2024-10-14
+T0722,A135,2026-03-11 23:58:33,22802,Credit,Miller-Donovan,Popetown,0,False,1945980.0,False,Lake Sabrina,False,False,C135,114869,Blocked,Richard Watkins,50,Rebeccamouth,Current,2024-10-14
+T0277,A135,2026-03-16 09:51:05,4815,Debit,Ballard Inc,Staciefort,0,False,381152.0,False,Popetown,False,False,C135,114869,Blocked,Richard Watkins,50,Rebeccamouth,Current,2024-10-14
+T0235,A135,2026-03-20 15:04:38,2919,Debit,Jackson and Sons,Mosstown,0,False,364413.0,False,Staciefort,False,False,C135,114869,Blocked,Richard Watkins,50,Rebeccamouth,Current,2024-10-14
+T0451,A136,2026-01-05 09:55:12,42351,Credit,White Inc,Lake Jamesburgh,0,False,,False,,False,False,C136,49585,Dormant,Maria Murray,47,East Julie,Savings,2025-12-08
+T0405,A136,2026-01-07 20:41:26,77451,Credit,"Hopkins, Burke and Lucas",Gonzalesfurt,1,True,211574.0,False,Lake Jamesburgh,False,True,C136,49585,Dormant,Maria Murray,47,East Julie,Savings,2025-12-08
+T0365,A136,2026-01-22 19:19:49,66407,Debit,Waters and Sons,South Michelleport,0,True,1291103.0,False,Gonzalesfurt,False,True,C136,49585,Dormant,Maria Murray,47,East Julie,Savings,2025-12-08
+T0821,A136,2026-04-19 19:11:09,82336,Credit,Lewis and Sons,Corytown,1,True,7516280.0,False,South Michelleport,False,True,C136,49585,Dormant,Maria Murray,47,East Julie,Savings,2025-12-08
+T0510,A137,2026-01-11 23:47:48,13540,Credit,"Holmes, Hoffman and Lee",Wrightmouth,0,False,,False,,False,False,C137,102327,Active,Becky Martin,43,North Angela,Current,2025-01-08
+T0486,A137,2026-01-13 19:24:18,25239,Credit,"Estrada, Miller and Jordan",Port Christopher,0,False,156990.0,False,Wrightmouth,False,False,C137,102327,Active,Becky Martin,43,North Angela,Current,2025-01-08
+T0921,A137,2026-01-17 07:33:59,17481,Debit,Odonnell PLC,Alvarezton,0,False,302981.0,False,Port Christopher,False,False,C137,102327,Active,Becky Martin,43,North Angela,Current,2025-01-08
+T0584,A137,2026-01-21 06:01:07,10849,Debit,Hopkins Group,East Amy,0,False,340028.0,False,Alvarezton,False,False,C137,102327,Active,Becky Martin,43,North Angela,Current,2025-01-08
+T0608,A137,2026-02-01 21:14:22,34748,Credit,Ford PLC,North Jamesborough,0,False,1005195.0,False,East Amy,False,False,C137,102327,Active,Becky Martin,43,North Angela,Current,2025-01-08
+T0094,A137,2026-03-29 16:32:33,36402,Credit,"Riley, Martinez and Bailey",South Aaron,0,False,4821491.0,False,North Jamesborough,False,False,C137,102327,Active,Becky Martin,43,North Angela,Current,2025-01-08
+T0355,A137,2026-04-14 04:51:42,64334,Credit,Graham Group,Port Elizabeth,1,True,1340349.0,False,South Aaron,False,True,C137,102327,Active,Becky Martin,43,North Angela,Current,2025-01-08
+T0948,A138,2026-01-14 10:23:08,21651,Credit,Reid-Hamilton,Robertmouth,0,False,,False,,False,False,C138,8556,Dormant,Allison Hughes,37,Port Tyler,Current,2022-02-24
+T0800,A138,2026-01-30 11:32:30,68909,Debit,Cole-Burgess,Timothybury,1,True,1386562.0,False,Robertmouth,False,True,C138,8556,Dormant,Allison Hughes,37,Port Tyler,Current,2022-02-24
+T0387,A138,2026-02-03 15:16:12,15540,Debit,"Bryan, Lyons and Grimes",South Lindsayhaven,0,False,359022.0,False,Timothybury,False,False,C138,8556,Dormant,Allison Hughes,37,Port Tyler,Current,2022-02-24
+T0048,A138,2026-02-12 12:52:34,60775,Credit,"Smith, Schaefer and Anderson",Tiffanytown,1,True,768982.0,False,South Lindsayhaven,False,True,C138,8556,Dormant,Allison Hughes,37,Port Tyler,Current,2022-02-24
+T0685,A138,2026-03-23 09:02:57,83118,Debit,Kim PLC,Lake Michael,0,True,3355823.0,False,Tiffanytown,False,True,C138,8556,Dormant,Allison Hughes,37,Port Tyler,Current,2022-02-24
+T0496,A138,2026-03-31 21:34:39,52904,Debit,Barber-Gomez,Calebville,1,True,736302.0,False,Lake Michael,False,True,C138,8556,Dormant,Allison Hughes,37,Port Tyler,Current,2022-02-24
+T0336,A138,2026-04-12 01:33:29,21817,Credit,Morales-Perry,Kaitlynville,0,False,964730.0,False,Calebville,False,False,C138,8556,Dormant,Allison Hughes,37,Port Tyler,Current,2022-02-24
+T0892,A138,2026-04-16 16:00:13,64161,Credit,"Mack, Vang and Moore",West Shane,0,True,397604.0,False,Kaitlynville,False,True,C138,8556,Dormant,Allison Hughes,37,Port Tyler,Current,2022-02-24
+T0905,A139,2026-01-13 08:36:22,73372,Credit,Parker Ltd,Port Amber,1,True,,False,,False,True,C139,125572,Dormant,Grace Smith,58,Josephton,Savings,2024-02-10
+T0023,A139,2026-02-05 22:05:54,50893,Debit,"Brown, Wilson and Lindsey",North Kathrynland,1,True,2035772.0,False,Port Amber,False,True,C139,125572,Dormant,Grace Smith,58,Josephton,Savings,2024-02-10
+T0867,A139,2026-03-03 21:20:57,94899,Credit,"Bauer, Black and Gray",Rachelmouth,0,True,2243703.0,False,North Kathrynland,False,True,C139,125572,Dormant,Grace Smith,58,Josephton,Savings,2024-02-10
+T0890,A140,2026-01-03 21:39:43,66209,Credit,Johnson Group,Russellton,1,True,,False,,False,True,C140,152456,Blocked,Donna Reynolds,45,Danielport,Savings,2024-07-31
+T0551,A140,2026-01-17 14:04:16,71279,Credit,"Soto, Page and Diaz",West Shanemouth,0,True,1182273.0,False,Russellton,False,True,C140,152456,Blocked,Donna Reynolds,45,Danielport,Savings,2024-07-31
+T0081,A140,2026-01-19 22:32:06,4948,Credit,Williamson-Andrews,Charlesburgh,0,False,203270.0,False,West Shanemouth,False,False,C140,152456,Blocked,Donna Reynolds,45,Danielport,Savings,2024-07-31
+T0217,A140,2026-02-22 00:43:36,58141,Debit,Hamilton-Hansen,Connieport,0,True,2859090.0,False,Charlesburgh,False,True,C140,152456,Blocked,Donna Reynolds,45,Danielport,Savings,2024-07-31
+T0090,A140,2026-03-03 01:23:35,91387,Debit,Morse Inc,Zamoraville,1,True,779999.0,False,Connieport,False,True,C140,152456,Blocked,Donna Reynolds,45,Danielport,Savings,2024-07-31
+T0368,A140,2026-03-05 19:07:20,63607,Credit,Jones Inc,New Frankstad,1,True,236625.0,False,Zamoraville,False,True,C140,152456,Blocked,Donna Reynolds,45,Danielport,Savings,2024-07-31
+T0105,A140,2026-04-03 04:42:09,57994,Credit,Cook-Moore,Nicholastown,0,True,2453689.0,False,New Frankstad,False,True,C140,152456,Blocked,Donna Reynolds,45,Danielport,Savings,2024-07-31
+T0201,A141,2026-02-15 19:25:40,67395,Credit,Newman-Vance,East Gabrielle,1,True,,False,,False,True,C141,154180,Dormant,Ms. Destiny Hall,65,Port Dwayne,Current,2021-05-03
+T0869,A141,2026-03-04 05:04:49,15700,Credit,Bryant PLC,Jacobside,0,False,1417149.0,False,East Gabrielle,False,False,C141,154180,Dormant,Ms. Destiny Hall,65,Port Dwayne,Current,2021-05-03
+T0454,A142,2026-01-07 13:54:04,31856,Credit,"Soto, Floyd and Lawrence",Sydneyfurt,0,False,,False,,False,False,C142,155569,Blocked,Andrea Ruiz,53,New Melanietown,Current,2026-01-22
+T0889,A142,2026-01-21 20:58:31,23026,Credit,Nelson PLC,Lewisborough,0,False,1235067.0,False,Sydneyfurt,False,False,C142,155569,Blocked,Andrea Ruiz,53,New Melanietown,Current,2026-01-22
+T0896,A142,2026-02-06 03:15:08,53849,Debit,Martinez-Cooper,West Joshua,0,True,1318597.0,False,Lewisborough,False,True,C142,155569,Blocked,Andrea Ruiz,53,New Melanietown,Current,2026-01-22
+T0100,A142,2026-02-12 23:44:52,31364,Credit,"Ortiz, Hall and Johnson",Lindafurt,0,False,592184.0,False,West Joshua,False,False,C142,155569,Blocked,Andrea Ruiz,53,New Melanietown,Current,2026-01-22
+T0115,A142,2026-03-15 13:03:07,15854,Credit,"Coleman, Santiago and Vasquez",Avilaview,0,False,2639895.0,False,Lindafurt,False,False,C142,155569,Blocked,Andrea Ruiz,53,New Melanietown,Current,2026-01-22
+T0395,A142,2026-03-18 11:13:19,33856,Debit,Blair PLC,Mullinsfort,0,False,252612.0,False,Avilaview,False,False,C142,155569,Blocked,Andrea Ruiz,53,New Melanietown,Current,2026-01-22
+T0249,A142,2026-03-21 07:51:02,57516,Credit,"Farrell, Carter and Gray",East Miguelburgh,1,True,247063.0,False,Mullinsfort,False,True,C142,155569,Blocked,Andrea Ruiz,53,New Melanietown,Current,2026-01-22
+T0794,A142,2026-04-01 08:04:26,48806,Credit,Henderson-Davidson,Davidbury,0,False,951204.0,False,East Miguelburgh,False,False,C142,155569,Blocked,Andrea Ruiz,53,New Melanietown,Current,2026-01-22
+T0764,A143,2026-01-25 04:47:34,21687,Debit,Mason-Ellis,South Rachel,0,False,,False,,False,False,C143,118041,Active,Deborah Brown,27,Davidport,Savings,2021-09-18
+T0325,A143,2026-01-28 09:02:31,79042,Debit,Rivera Ltd,Andrewmouth,1,True,274497.0,False,South Rachel,False,True,C143,118041,Active,Deborah Brown,27,Davidport,Savings,2021-09-18
+T0768,A143,2026-02-19 12:10:56,20100,Debit,Porter PLC,Michaelaport,0,False,1912105.0,False,Andrewmouth,False,False,C143,118041,Active,Deborah Brown,27,Davidport,Savings,2021-09-18
+T0526,A143,2026-02-20 09:22:34,95069,Debit,Delacruz-Atkinson,Foxshire,0,True,76298.0,False,Michaelaport,False,True,C143,118041,Active,Deborah Brown,27,Davidport,Savings,2021-09-18
+T0334,A143,2026-03-25 07:25:33,20158,Debit,Jackson-Martin,Suzanneside,0,False,2844179.0,False,Foxshire,False,False,C143,118041,Active,Deborah Brown,27,Davidport,Savings,2021-09-18
+T0891,A143,2026-04-12 02:20:28,78304,Credit,"Jackson, Andrews and Suarez",Moyerfort,0,True,1536895.0,False,Suzanneside,False,True,C143,118041,Active,Deborah Brown,27,Davidport,Savings,2021-09-18
+T0808,A144,2026-01-07 02:16:38,10427,Debit,Hancock Inc,East Christophermouth,0,False,,False,,False,False,C144,5027,Blocked,Scott Porter,46,West Ashley,Savings,2022-09-13
+T0967,A144,2026-01-27 09:43:00,23944,Credit,"Sullivan, Cunningham and Ruiz",Guzmanfurt,0,False,1754782.0,False,East Christophermouth,False,False,C144,5027,Blocked,Scott Porter,46,West Ashley,Savings,2022-09-13
+T0369,A144,2026-02-22 08:14:02,6478,Debit,Brown-Perkins,Ginaburgh,0,False,2241062.0,False,Guzmanfurt,False,False,C144,5027,Blocked,Scott Porter,46,West Ashley,Savings,2022-09-13
+T0514,A144,2026-03-18 21:28:38,87117,Credit,Davis-Green,East Kimberly,0,True,2121276.0,False,Ginaburgh,False,True,C144,5027,Blocked,Scott Porter,46,West Ashley,Savings,2022-09-13
+T0971,A144,2026-04-24 17:19:09,18290,Credit,"Bradford, Moore and Pratt",Ronaldstad,0,False,3181831.0,False,East Kimberly,False,False,C144,5027,Blocked,Scott Porter,46,West Ashley,Savings,2022-09-13
+T0283,A145,2026-01-28 12:53:40,21601,Credit,"Marsh, Dunn and Mcmahon",Nguyenburgh,0,False,,False,,False,False,C145,194740,Blocked,Andre Walker,54,Lake Veronica,Savings,2025-10-22
+T0218,A145,2026-02-13 20:17:40,23881,Debit,"Little, Schneider and Anderson",North Robert,0,False,1409040.0,False,Nguyenburgh,False,False,C145,194740,Blocked,Andre Walker,54,Lake Veronica,Savings,2025-10-22
+T0602,A145,2026-03-21 23:03:53,82762,Debit,Hawkins PLC,Boothland,0,True,3120373.0,False,North Robert,False,True,C145,194740,Blocked,Andre Walker,54,Lake Veronica,Savings,2025-10-22
+T0471,A145,2026-03-25 08:31:28,75697,Credit,Cortez Ltd,Sherryborough,1,True,293255.0,False,Boothland,False,True,C145,194740,Blocked,Andre Walker,54,Lake Veronica,Savings,2025-10-22
+T0288,A145,2026-03-27 22:14:03,39078,Debit,Montgomery-Ellison,Lake Madisonbury,0,False,222155.0,False,Sherryborough,False,False,C145,194740,Blocked,Andre Walker,54,Lake Veronica,Savings,2025-10-22
+T0908,A145,2026-04-08 10:56:32,49903,Debit,Rivas-Reid,East Morgantown,0,False,996149.0,False,Lake Madisonbury,False,False,C145,194740,Blocked,Andre Walker,54,Lake Veronica,Savings,2025-10-22
+T0198,A146,2026-01-01 15:01:15,47068,Credit,"Vasquez, Clarke and Romero",West Alanmouth,0,False,,False,,False,False,C146,168507,Active,Bobby Gibson,37,Lake Aaronmouth,Savings,2022-12-05
+T0093,A146,2026-01-19 15:08:54,45836,Debit,Boyer-Kim,East Timothy,0,False,1555659.0,False,West Alanmouth,False,False,C146,168507,Active,Bobby Gibson,37,Lake Aaronmouth,Savings,2022-12-05
+T0618,A146,2026-01-29 23:35:19,63058,Debit,King-Glass,South Dawn,0,True,894385.0,False,East Timothy,False,True,C146,168507,Active,Bobby Gibson,37,Lake Aaronmouth,Savings,2022-12-05
+T0170,A146,2026-02-11 16:59:37,90433,Credit,Anderson-Wood,Davismouth,0,True,1099458.0,False,South Dawn,False,True,C146,168507,Active,Bobby Gibson,37,Lake Aaronmouth,Savings,2022-12-05
+T0399,A146,2026-02-19 01:12:47,53583,Debit,Martinez-Parker,East Jorgehaven,1,True,634390.0,False,Davismouth,False,True,C146,168507,Active,Bobby Gibson,37,Lake Aaronmouth,Savings,2022-12-05
+T0759,A146,2026-04-07 10:59:20,90351,Debit,"Heath, Simon and Haley",Parksmouth,0,True,4095993.0,False,East Jorgehaven,False,True,C146,168507,Active,Bobby Gibson,37,Lake Aaronmouth,Savings,2022-12-05
+T0032,A147,2026-01-09 16:03:01,58794,Credit,Fuller-Baker,Patrickbury,0,True,,False,,False,True,C147,178113,Dormant,Jonathan Morrow,35,Rachelburgh,Savings,2023-01-31
+T0524,A147,2026-01-15 02:52:53,91564,Debit,"Cortez, Jimenez and Allen",Christineland,0,True,470992.0,False,Patrickbury,False,True,C147,178113,Dormant,Jonathan Morrow,35,Rachelburgh,Savings,2023-01-31
+T0591,A147,2026-01-16 06:13:44,76535,Debit,"Parker, Allen and Walker",Lake Kathy,0,True,98451.0,False,Christineland,False,True,C147,178113,Dormant,Jonathan Morrow,35,Rachelburgh,Savings,2023-01-31
+T0787,A147,2026-01-24 19:53:28,78972,Credit,"Thomas, Sloan and Farley",East Stephen,0,True,740384.0,False,Lake Kathy,False,True,C147,178113,Dormant,Jonathan Morrow,35,Rachelburgh,Savings,2023-01-31
+T0282,A147,2026-03-12 22:22:16,23213,Credit,"Richardson, Long and Jackson",New Cynthia,0,False,4069728.0,False,East Stephen,False,False,C147,178113,Dormant,Jonathan Morrow,35,Rachelburgh,Savings,2023-01-31
+T0317,A147,2026-04-14 11:16:51,93378,Debit,Butler LLC,Smithburgh,0,True,2811275.0,False,New Cynthia,False,True,C147,178113,Dormant,Jonathan Morrow,35,Rachelburgh,Savings,2023-01-31
+T0858,A148,2026-01-02 02:13:05,90658,Debit,Moore-Horton,Cynthiaside,1,True,,False,,False,True,C148,182164,Active,Nathaniel Walker,37,New Patriciaview,Savings,2026-03-27
+T0293,A148,2026-01-10 12:37:32,14251,Credit,Mills-Mullins,New Anthony,0,False,728667.0,False,Cynthiaside,False,False,C148,182164,Active,Nathaniel Walker,37,New Patriciaview,Savings,2026-03-27
+T0678,A148,2026-01-17 15:52:56,46567,Debit,Mitchell and Sons,Powellbury,0,False,616524.0,False,New Anthony,False,False,C148,182164,Active,Nathaniel Walker,37,New Patriciaview,Savings,2026-03-27
+T0097,A148,2026-01-27 22:10:18,17171,Credit,Stephenson-Martin,New Brianfurt,0,False,886642.0,False,Powellbury,False,False,C148,182164,Active,Nathaniel Walker,37,New Patriciaview,Savings,2026-03-27
+T0535,A148,2026-03-26 19:45:41,59895,Debit,Hall-Perez,Pamelaberg,0,True,5002523.0,False,New Brianfurt,False,True,C148,182164,Active,Nathaniel Walker,37,New Patriciaview,Savings,2026-03-27
+T0781,A148,2026-04-06 20:39:53,50349,Debit,"Mcdonald, Hayes and Jackson",Nancyborough,0,True,953652.0,False,Pamelaberg,False,True,C148,182164,Active,Nathaniel Walker,37,New Patriciaview,Savings,2026-03-27
+T0313,A149,2026-01-06 01:19:52,79946,Credit,"Copeland, Hernandez and Wilkins",Ginaland,0,True,,False,,False,True,C149,123449,Dormant,Kayla Martin,40,Barbaraside,Savings,2021-10-07
+T0549,A149,2026-02-28 20:32:20,74139,Credit,Whitney LLC,Lake Heather,0,True,4648348.0,False,Ginaland,False,True,C149,123449,Dormant,Kayla Martin,40,Barbaraside,Savings,2021-10-07
+T0917,A149,2026-03-13 13:37:40,36992,Debit,Miller-Cook,Househaven,0,False,1098320.0,False,Lake Heather,False,False,C149,123449,Dormant,Kayla Martin,40,Barbaraside,Savings,2021-10-07
+T0180,A149,2026-04-05 22:58:10,97323,Credit,"Bradley, Copeland and Hickman",North Annabury,1,True,2020830.0,False,Househaven,False,True,C149,123449,Dormant,Kayla Martin,40,Barbaraside,Savings,2021-10-07
+T0072,A150,2026-01-11 09:09:32,65452,Credit,Turner Inc,Port Kelsey,0,True,,False,,False,True,C150,175041,Active,Brian Nguyen,46,Johnton,Savings,2022-08-06
+T0276,A150,2026-01-18 00:48:53,22544,Debit,Wyatt-Gordon,South Saraside,0,False,574761.0,False,Port Kelsey,False,False,C150,175041,Active,Brian Nguyen,46,Johnton,Savings,2022-08-06
+T0502,A150,2026-01-19 15:59:43,35175,Credit,Bell-Lowery,Jamesside,0,False,141050.0,False,South Saraside,False,False,C150,175041,Active,Brian Nguyen,46,Johnton,Savings,2022-08-06
+T0617,A150,2026-02-25 11:27:22,77323,Debit,"West, Lee and Hunt",Davidhaven,0,True,3180459.0,False,Jamesside,False,True,C150,175041,Active,Brian Nguyen,46,Johnton,Savings,2022-08-06
+T0695,A150,2026-03-19 20:36:46,37846,Credit,Orozco-Murray,Port Nicole,0,False,1933764.0,False,Davidhaven,False,False,C150,175041,Active,Brian Nguyen,46,Johnton,Savings,2022-08-06
+T0392,A150,2026-04-16 19:18:43,39961,Debit,Fischer PLC,Port Steven,0,False,2414517.0,False,Port Nicole,False,False,C150,175041,Active,Brian Nguyen,46,Johnton,Savings,2022-08-06
+T0182,A150,2026-04-22 20:33:36,74716,Credit,Carson and Sons,Mezastad,0,True,522893.0,False,Port Steven,False,True,C150,175041,Active,Brian Nguyen,46,Johnton,Savings,2022-08-06
+T0230,A151,2026-02-06 00:33:11,41687,Credit,Kelly LLC,Tommyhaven,0,False,,False,,False,False,C151,191200,Dormant,Karen Paul,25,Phillipsburgh,Savings,2023-01-03
+T0727,A151,2026-02-12 00:08:25,69681,Credit,Lawrence-Miller,West Carla,0,True,516914.0,False,Tommyhaven,False,True,C151,191200,Dormant,Karen Paul,25,Phillipsburgh,Savings,2023-01-03
+T0044,A151,2026-03-08 18:28:32,28832,Credit,Anderson Group,Smithland,0,False,2139607.0,False,West Carla,False,False,C151,191200,Dormant,Karen Paul,25,Phillipsburgh,Savings,2023-01-03
+T0934,A151,2026-04-10 08:27:44,26423,Debit,Garrett Ltd,South Kaylaburgh,0,False,2815152.0,False,Smithland,False,False,C151,191200,Dormant,Karen Paul,25,Phillipsburgh,Savings,2023-01-03
+T0829,A151,2026-04-12 15:44:35,62027,Credit,"Green, Scott and Williams",Baxterview,0,True,199011.0,False,South Kaylaburgh,False,True,C151,191200,Dormant,Karen Paul,25,Phillipsburgh,Savings,2023-01-03
+T0911,A152,2026-01-21 19:37:48,98136,Debit,Allen-Abbott,Port Feliciaville,0,True,,False,,False,True,C152,183758,Blocked,Connor Lamb,53,New Carrie,Savings,2022-09-20
+T0077,A152,2026-01-25 13:11:52,44509,Credit,"Johnson, Mueller and Silva",North Benjamin,0,False,322444.0,False,Port Feliciaville,False,False,C152,183758,Blocked,Connor Lamb,53,New Carrie,Savings,2022-09-20
+T0209,A152,2026-04-06 19:43:42,5505,Debit,Long-Holland,New Tammy,0,False,6157910.0,False,North Benjamin,False,False,C152,183758,Blocked,Connor Lamb,53,New Carrie,Savings,2022-09-20
+T0817,A152,2026-04-07 20:27:13,88506,Credit,Aguilar-Taylor,East Nicole,0,True,89011.0,False,New Tammy,False,True,C152,183758,Blocked,Connor Lamb,53,New Carrie,Savings,2022-09-20
+T0775,A152,2026-04-19 07:59:27,4982,Debit,Wiggins-Ramos,Kaiserchester,0,False,991934.0,False,East Nicole,False,False,C152,183758,Blocked,Connor Lamb,53,New Carrie,Savings,2022-09-20
+T0216,A153,2026-02-05 10:19:58,97393,Debit,"Welch, Walls and Copeland",Stacychester,0,True,,False,,False,True,C153,77355,Active,Jonathan Rosario,23,Justinview,Savings,2022-12-07
+T0337,A153,2026-03-08 06:20:15,77125,Credit,Cruz and Sons,North Stacieborough,1,True,2664017.0,False,Stacychester,False,True,C153,77355,Active,Jonathan Rosario,23,Justinview,Savings,2022-12-07
+T0925,A154,2026-01-09 09:31:10,96334,Debit,Hughes-Williams,West Jessicaburgh,0,True,,False,,False,True,C154,189955,Blocked,Rachel Glover,62,North Davidtown,Current,2021-07-30
+T0453,A154,2026-02-16 02:45:33,71229,Debit,Bell and Sons,Scottberg,0,True,3258863.0,False,West Jessicaburgh,False,True,C154,189955,Blocked,Rachel Glover,62,North Davidtown,Current,2021-07-30
+T0935,A154,2026-03-08 09:00:51,3269,Credit,Hardy-Wright,New David,0,False,1750518.0,False,Scottberg,False,False,C154,189955,Blocked,Rachel Glover,62,North Davidtown,Current,2021-07-30
+T0830,A154,2026-03-21 16:46:19,96943,Credit,Spence-Jacobs,Port Ryan,0,True,1151128.0,False,New David,False,True,C154,189955,Blocked,Rachel Glover,62,North Davidtown,Current,2021-07-30
+T0790,A155,2026-01-12 11:33:50,59190,Credit,"Watts, Lawrence and Lopez",Toddview,1,True,,False,,False,True,C155,92616,Active,Christian Miller,48,Coxburgh,Current,2023-10-21
+T0612,A155,2026-02-02 07:34:58,93139,Credit,Johnson-Wallace,Wintersburgh,0,True,1800068.0,False,Toddview,False,True,C155,92616,Active,Christian Miller,48,Coxburgh,Current,2023-10-21
+T0103,A155,2026-02-09 21:06:49,13578,Credit,Colon LLC,Jessicaport,0,False,653511.0,False,Wintersburgh,False,False,C155,92616,Active,Christian Miller,48,Coxburgh,Current,2023-10-21
+T0822,A155,2026-02-14 21:49:20,88758,Debit,Martinez LLC,North Megan,0,True,434551.0,False,Jessicaport,False,True,C155,92616,Active,Christian Miller,48,Coxburgh,Current,2023-10-21
+T0954,A155,2026-02-25 00:49:48,6339,Debit,Martin Group,West Darryl,0,False,874828.0,False,North Megan,False,False,C155,92616,Active,Christian Miller,48,Coxburgh,Current,2023-10-21
+T0728,A155,2026-03-14 08:37:18,79148,Credit,"Copeland, Howard and Camacho",East Nathan,1,True,1496850.0,False,West Darryl,False,True,C155,92616,Active,Christian Miller,48,Coxburgh,Current,2023-10-21
+T0043,A155,2026-03-31 04:55:09,4168,Credit,Velazquez-Rios,Ambermouth,0,False,1455471.0,False,East Nathan,False,False,C155,92616,Active,Christian Miller,48,Coxburgh,Current,2023-10-21
+T0428,A155,2026-03-31 08:43:19,85338,Credit,Rosario Inc,Christinatown,1,True,13690.0,False,Ambermouth,False,True,C155,92616,Active,Christian Miller,48,Coxburgh,Current,2023-10-21
+T0070,A155,2026-04-03 05:20:42,88403,Credit,"Smith, Barton and Nelson",Lake Wendyshire,0,True,247043.0,False,Christinatown,False,True,C155,92616,Active,Christian Miller,48,Coxburgh,Current,2023-10-21
+T0308,A156,2026-01-25 10:31:24,20274,Credit,"Carter, Morgan and Grant",Laurenport,0,False,,False,,False,False,C156,129449,Dormant,Brandon Nguyen,25,West Stephaniemouth,Current,2025-03-13
+T0132,A156,2026-01-26 13:01:54,75540,Debit,"Shaffer, Jackson and Hull",West Wesley,1,True,95430.0,False,Laurenport,False,True,C156,129449,Dormant,Brandon Nguyen,25,West Stephaniemouth,Current,2025-03-13
+T0488,A156,2026-03-02 02:29:53,38831,Debit,Gibson-Wade,Morganfort,0,False,2986079.0,False,West Wesley,False,False,C156,129449,Dormant,Brandon Nguyen,25,West Stephaniemouth,Current,2025-03-13
+T0323,A156,2026-03-05 23:20:46,34897,Debit,Davis LLC,Joneston,0,False,334253.0,False,Morganfort,False,False,C156,129449,Dormant,Brandon Nguyen,25,West Stephaniemouth,Current,2025-03-13
+T0957,A156,2026-03-07 18:22:36,99662,Credit,Morris LLC,East Tinahaven,0,True,154910.0,False,Joneston,False,True,C156,129449,Dormant,Brandon Nguyen,25,West Stephaniemouth,Current,2025-03-13
+T0347,A156,2026-03-19 03:41:11,4659,Debit,Hunt-Mays,South Joy,0,False,983915.0,False,East Tinahaven,False,False,C156,129449,Dormant,Brandon Nguyen,25,West Stephaniemouth,Current,2025-03-13
+T0990,A156,2026-03-23 09:31:13,45047,Debit,Silva-Page,East Grant,0,False,366602.0,False,South Joy,False,False,C156,129449,Dormant,Brandon Nguyen,25,West Stephaniemouth,Current,2025-03-13
+T0962,A156,2026-04-13 10:10:56,54843,Debit,Nguyen PLC,Mooreville,0,True,1816783.0,False,East Grant,False,True,C156,129449,Dormant,Brandon Nguyen,25,West Stephaniemouth,Current,2025-03-13
+T0754,A156,2026-04-23 14:45:10,12999,Debit,Moore Ltd,Angelabury,0,False,880454.0,False,Mooreville,False,False,C156,129449,Dormant,Brandon Nguyen,25,West Stephaniemouth,Current,2025-03-13
+T0897,A158,2026-01-05 00:30:22,63689,Credit,Hartman-Rose,Port Dustin,0,True,,False,,False,True,C158,132172,Dormant,Julie Miller,55,New Kristin,Savings,2025-01-27
+T0843,A158,2026-02-28 14:37:20,69200,Debit,"Pope, Williams and Winters",Michaelfort,0,True,4716418.0,False,Port Dustin,False,True,C158,132172,Dormant,Julie Miller,55,New Kristin,Savings,2025-01-27
+T0594,A158,2026-03-30 04:33:07,92612,Debit,Foster LLC,West Patrick,0,True,2555747.0,False,Michaelfort,False,True,C158,132172,Dormant,Julie Miller,55,New Kristin,Savings,2025-01-27
+T0975,A159,2026-01-06 01:03:23,71537,Debit,"Murray, Dalton and Santos",Powellfurt,0,True,,False,,False,True,C159,33379,Dormant,Scott Foster,32,East Tyler,Current,2024-02-14
+T0620,A159,2026-01-06 10:03:20,13293,Credit,Buchanan and Sons,South Paul,0,False,32397.0,False,Powellfurt,False,False,C159,33379,Dormant,Scott Foster,32,East Tyler,Current,2024-02-14
+T0236,A159,2026-02-04 14:48:48,71060,Credit,"Ryan, Hunt and Kline",Lake Toddtown,0,True,2522728.0,False,South Paul,False,True,C159,33379,Dormant,Scott Foster,32,East Tyler,Current,2024-02-14
+T0322,A159,2026-03-26 13:27:17,96593,Credit,"Peters, Hendricks and Hernandez",South Justin,0,True,4315109.0,False,Lake Toddtown,False,True,C159,33379,Dormant,Scott Foster,32,East Tyler,Current,2024-02-14
+T0516,A160,2026-01-07 21:36:44,48109,Debit,May and Sons,Port Patricia,0,False,,False,,False,False,C160,26508,Dormant,Kevin Farmer,31,Moraleshaven,Current,2022-03-09
+T0825,A160,2026-01-09 05:03:33,44592,Debit,Horne-Moran,Frankborough,0,False,113209.0,False,Port Patricia,False,False,C160,26508,Dormant,Kevin Farmer,31,Moraleshaven,Current,2022-03-09
+T0074,A160,2026-03-07 14:09:38,99214,Debit,Pham Inc,New Isaacborough,0,True,4957565.0,False,Frankborough,False,True,C160,26508,Dormant,Kevin Farmer,31,Moraleshaven,Current,2022-03-09
+T0225,A161,2026-01-22 23:04:22,71952,Credit,Thomas and Sons,Judithhaven,0,True,,False,,False,True,C161,171978,Dormant,Catherine Tucker,62,West Daletown,Current,2021-09-09
+T0876,A161,2026-02-08 12:29:41,95085,Debit,Cain Ltd,Nancyfurt,0,True,1430719.0,False,Judithhaven,False,True,C161,171978,Dormant,Catherine Tucker,62,West Daletown,Current,2021-09-09
+T0640,A161,2026-02-23 14:22:20,39122,Debit,"Booth, Lawrence and Hunt",West Kyleton,0,False,1302759.0,False,Nancyfurt,False,False,C161,171978,Dormant,Catherine Tucker,62,West Daletown,Current,2021-09-09
+T0630,A161,2026-03-24 16:37:03,98882,Credit,Herrera-Taylor,East Andrea,0,True,2513683.0,False,West Kyleton,False,True,C161,171978,Dormant,Catherine Tucker,62,West Daletown,Current,2021-09-09
+T0463,A161,2026-04-14 14:18:46,56631,Credit,"Jones, Huber and Simpson",Port Danieltown,0,True,1806103.0,False,East Andrea,False,True,C161,171978,Dormant,Catherine Tucker,62,West Daletown,Current,2021-09-09
+T0059,A162,2026-01-03 21:04:57,61187,Credit,Silva-Frost,Markland,1,True,,False,,False,True,C162,165969,Active,Justin Brown,52,New Christopherborough,Current,2024-01-14
+T0165,A162,2026-01-10 06:23:32,64056,Debit,"Davis, Owens and Perez",Robinsonview,1,True,551915.0,False,Markland,False,True,C162,165969,Active,Justin Brown,52,New Christopherborough,Current,2024-01-14
+T0820,A162,2026-02-28 13:39:45,46269,Debit,Jones Inc,Michelletown,0,False,4259773.0,False,Robinsonview,False,False,C162,165969,Active,Justin Brown,52,New Christopherborough,Current,2024-01-14
+T0977,A162,2026-03-11 17:19:19,94798,Debit,Smith-Key,Jacksontown,0,True,963574.0,False,Michelletown,False,True,C162,165969,Active,Justin Brown,52,New Christopherborough,Current,2024-01-14
+T0140,A162,2026-04-08 16:56:00,65907,Credit,Bridges-Berry,West Lauren,0,True,2417801.0,False,Jacksontown,False,True,C162,165969,Active,Justin Brown,52,New Christopherborough,Current,2024-01-14
+T0736,A163,2026-01-12 20:06:08,4389,Debit,"Lewis, Mcdonald and Hester",Deanbury,0,False,,False,,False,False,C163,77817,Dormant,Mackenzie Wolfe,43,Brittanyside,Current,2022-05-24
+T0868,A163,2026-02-03 21:10:52,87700,Credit,Copeland Inc,New Heidi,1,True,1904684.0,False,Deanbury,False,True,C163,77817,Dormant,Mackenzie Wolfe,43,Brittanyside,Current,2022-05-24
+T0205,A163,2026-03-18 17:35:25,85105,Debit,"Moss, Ruiz and Benitez",Port Kathleen,0,True,3702273.0,False,New Heidi,False,True,C163,77817,Dormant,Mackenzie Wolfe,43,Brittanyside,Current,2022-05-24
+T0080,A164,2026-01-15 22:49:09,38069,Credit,Young-Carrillo,West Brittany,0,False,,False,,False,False,C164,186479,Blocked,Melissa Williams,59,New Michael,Savings,2023-01-30
+T0391,A165,2026-01-13 21:40:09,78919,Credit,Cook-Macias,Hutchinsonborough,0,True,,False,,False,True,C165,62978,Blocked,Jason Solis,45,Marissaside,Current,2023-09-26
+T0330,A165,2026-02-02 15:29:47,98775,Credit,"Williams, Murphy and Allen",North Davidhaven,0,True,1705778.0,False,Hutchinsonborough,False,True,C165,62978,Blocked,Jason Solis,45,Marissaside,Current,2023-09-26
+T0635,A165,2026-04-22 15:58:55,22364,Credit,Davis-White,Johnsonmouth,0,False,6827348.0,False,North Davidhaven,False,False,C165,62978,Blocked,Jason Solis,45,Marissaside,Current,2023-09-26
+T0169,A166,2026-02-02 14:22:51,75044,Credit,Fuller-Brown,Rogersfort,0,True,,False,,False,True,C166,128102,Blocked,Miss Meghan Tanner,39,Guerrachester,Current,2023-03-25
+T0309,A166,2026-02-05 15:23:11,62925,Credit,Ayala Ltd,Paulaburgh,0,True,262820.0,False,Rogersfort,False,True,C166,128102,Blocked,Miss Meghan Tanner,39,Guerrachester,Current,2023-03-25
+T0300,A166,2026-02-24 09:35:19,95432,Debit,Rodriguez-Barnes,Lake Debra,1,True,1620728.0,False,Paulaburgh,False,True,C166,128102,Blocked,Miss Meghan Tanner,39,Guerrachester,Current,2023-03-25
+T0008,A166,2026-03-05 18:36:20,49288,Credit,Murphy and Sons,Elizabethfort,0,False,810061.0,False,Lake Debra,False,False,C166,128102,Blocked,Miss Meghan Tanner,39,Guerrachester,Current,2023-03-25
+T0035,A166,2026-03-08 03:59:54,88582,Credit,"Gonzales, Rodriguez and Moore",Lake Katherine,0,True,206614.0,False,Elizabethfort,False,True,C166,128102,Blocked,Miss Meghan Tanner,39,Guerrachester,Current,2023-03-25
+T0654,A166,2026-03-30 15:57:45,67372,Credit,Stone Group,North Joanne,0,True,1943871.0,False,Lake Katherine,False,True,C166,128102,Blocked,Miss Meghan Tanner,39,Guerrachester,Current,2023-03-25
+T0792,A167,2026-01-17 23:36:32,90978,Debit,Dunn and Sons,Serranohaven,0,True,,False,,False,True,C167,59714,Blocked,Dr. Stephen Gray,58,Lake Guy,Savings,2022-08-03
+T0842,A167,2026-01-19 15:17:46,38837,Debit,Smith-Jones,New Michelleville,0,False,142874.0,False,Serranohaven,False,False,C167,59714,Blocked,Dr. Stephen Gray,58,Lake Guy,Savings,2022-08-03
+T0999,A167,2026-02-01 22:21:22,56016,Credit,Lee Ltd,Richardchester,1,True,1148616.0,False,New Michelleville,False,True,C167,59714,Blocked,Dr. Stephen Gray,58,Lake Guy,Savings,2022-08-03
+T0141,A167,2026-02-05 20:18:52,98995,Credit,"Ball, Welch and Davis",Port Andrew,0,True,338250.0,False,Richardchester,False,True,C167,59714,Blocked,Dr. Stephen Gray,58,Lake Guy,Savings,2022-08-03
+T0389,A167,2026-02-15 20:07:02,10732,Debit,Guzman Ltd,Montgomeryside,0,False,863290.0,False,Port Andrew,False,False,C167,59714,Blocked,Dr. Stephen Gray,58,Lake Guy,Savings,2022-08-03
+T0333,A167,2026-02-17 06:05:54,21720,Debit,Stevenson and Sons,Heathertown,0,False,122332.0,False,Montgomeryside,False,False,C167,59714,Blocked,Dr. Stephen Gray,58,Lake Guy,Savings,2022-08-03
+T0360,A167,2026-03-16 05:10:22,87034,Credit,"Willis, Cordova and Wilson",Geraldbury,1,True,2329468.0,False,Heathertown,False,True,C167,59714,Blocked,Dr. Stephen Gray,58,Lake Guy,Savings,2022-08-03
+T0657,A167,2026-03-29 08:08:58,84178,Credit,Collins-Moore,East Mariashire,1,True,1133916.0,False,Geraldbury,False,True,C167,59714,Blocked,Dr. Stephen Gray,58,Lake Guy,Savings,2022-08-03
+T0148,A167,2026-04-10 04:12:33,41056,Credit,Robertson-Johnson,Darrellton,0,False,1022615.0,False,East Mariashire,False,False,C167,59714,Blocked,Dr. Stephen Gray,58,Lake Guy,Savings,2022-08-03
+T0164,A168,2026-02-04 23:32:07,30528,Debit,Padilla-Jacobs,Lake Caitlinview,0,False,,False,,False,False,C168,45057,Active,Amy Fisher,46,Robertton,Current,2023-08-22
+T0603,A168,2026-02-14 03:53:30,11376,Debit,Mccall-Weber,Port Rebeccamouth,0,False,793283.0,False,Lake Caitlinview,False,False,C168,45057,Active,Amy Fisher,46,Robertton,Current,2023-08-22
+T0422,A168,2026-02-16 17:39:18,82768,Debit,"Hall, Griffin and Carroll",North Shannon,0,True,222348.0,False,Port Rebeccamouth,False,True,C168,45057,Active,Amy Fisher,46,Robertton,Current,2023-08-22
+T0913,A168,2026-02-16 21:58:10,15796,Debit,"Jacobs, Douglas and Avila",Tammyton,0,False,15532.0,False,North Shannon,False,False,C168,45057,Active,Amy Fisher,46,Robertton,Current,2023-08-22
+T0015,A168,2026-03-18 04:28:35,6193,Credit,"Gonzalez, Sanchez and Aguilar",Port John,0,False,2529025.0,False,Tammyton,False,False,C168,45057,Active,Amy Fisher,46,Robertton,Current,2023-08-22
+T0155,A168,2026-04-09 06:04:50,95805,Debit,Good-Roman,North Patriciaborough,0,True,1906575.0,False,Port John,False,True,C168,45057,Active,Amy Fisher,46,Robertton,Current,2023-08-22
+T0019,A169,2026-01-10 06:58:39,75147,Debit,"Williams, Luna and Stewart",East Markberg,0,True,,False,,False,True,C169,112578,Blocked,Linda Jackson,23,Lake Gary,Savings,2021-08-02
+T0448,A169,2026-01-28 02:44:53,50543,Credit,Ryan-Duffy,West Michael,1,True,1539974.0,False,East Markberg,False,True,C169,112578,Blocked,Linda Jackson,23,Lake Gary,Savings,2021-08-02
+T0552,A169,2026-02-04 15:54:52,90519,Credit,Lucero-Maxwell,Port Ashley,1,True,652199.0,False,West Michael,False,True,C169,112578,Blocked,Linda Jackson,23,Lake Gary,Savings,2021-08-02
+T0061,A169,2026-02-20 19:02:35,95308,Credit,Ortega Inc,Lake Lukeshire,0,True,1393663.0,False,Port Ashley,False,True,C169,112578,Blocked,Linda Jackson,23,Lake Gary,Savings,2021-08-02
+T0055,A169,2026-03-07 22:38:09,42283,Credit,"Brewer, Salinas and Colon",North Kimberlyport,0,False,1308934.0,False,Lake Lukeshire,False,False,C169,112578,Blocked,Linda Jackson,23,Lake Gary,Savings,2021-08-02
+T0578,A170,2026-01-05 20:10:02,66833,Debit,Jimenez-Romero,New Briannafort,0,True,,False,,False,True,C170,139462,Blocked,Jeffrey Young,22,Port Brianside,Current,2023-10-15
+T0297,A170,2026-02-21 10:03:09,40185,Credit,Fernandez-Le,Yushire,0,False,4024387.0,False,New Briannafort,False,False,C170,139462,Blocked,Jeffrey Young,22,Port Brianside,Current,2023-10-15
+T0244,A170,2026-03-16 11:42:26,76694,Debit,"Tran, Carr and Collins",Garymouth,1,True,1993157.0,False,Yushire,False,True,C170,139462,Blocked,Jeffrey Young,22,Port Brianside,Current,2023-10-15
+T0955,A170,2026-04-19 14:25:51,3566,Debit,"Holloway, Le and Savage",Kaylafort,0,False,2947405.0,False,Garymouth,False,False,C170,139462,Blocked,Jeffrey Young,22,Port Brianside,Current,2023-10-15
+T0752,A171,2026-01-12 06:29:12,42301,Credit,Hill-Fischer,Port Charlesshire,0,False,,False,,False,False,C171,165357,Blocked,Matthew Clarke,60,Lopezville,Current,2022-04-30
+T0188,A171,2026-02-18 03:49:21,9325,Debit,Miller Group,West Marystad,0,False,3187209.0,False,Port Charlesshire,False,False,C171,165357,Blocked,Matthew Clarke,60,Lopezville,Current,2022-04-30
+T0992,A171,2026-03-28 02:01:59,20093,Credit,Oliver and Sons,North Arthur,0,False,3276758.0,False,West Marystad,False,False,C171,165357,Blocked,Matthew Clarke,60,Lopezville,Current,2022-04-30
+T0797,A172,2026-01-17 21:40:37,2928,Debit,Blevins and Sons,Annmouth,0,False,,False,,False,False,C172,7318,Dormant,Steven Cole,36,East Richard,Current,2021-12-03
+T0691,A172,2026-01-24 02:33:57,58854,Debit,"Burke, West and Boyd",Lake Ashleyshire,1,True,536000.0,False,Annmouth,False,True,C172,7318,Dormant,Steven Cole,36,East Richard,Current,2021-12-03
+T0943,A172,2026-02-09 16:37:05,29569,Credit,Hernandez-Simpson,Kellyhaven,0,False,1432988.0,False,Lake Ashleyshire,False,False,C172,7318,Dormant,Steven Cole,36,East Richard,Current,2021-12-03
+T0878,A172,2026-03-08 04:36:34,91749,Debit,Anderson-Grant,Mccoyland,0,True,2289569.0,False,Kellyhaven,False,True,C172,7318,Dormant,Steven Cole,36,East Richard,Current,2021-12-03
+T0581,A172,2026-03-16 09:07:56,36198,Credit,Fletcher Inc,Brettfurt,0,False,707482.0,False,Mccoyland,False,False,C172,7318,Dormant,Steven Cole,36,East Richard,Current,2021-12-03
+T0959,A172,2026-03-18 08:31:43,29295,Credit,"Gardner, Allison and Guerra",Hernandezberg,0,False,170627.0,False,Brettfurt,False,False,C172,7318,Dormant,Steven Cole,36,East Richard,Current,2021-12-03
+T0606,A172,2026-04-11 19:33:14,52758,Credit,"Ryan, Huffman and Koch",East Alejandro,0,True,2113291.0,False,Hernandezberg,False,True,C172,7318,Dormant,Steven Cole,36,East Richard,Current,2021-12-03
+T0088,A173,2026-01-04 17:27:56,59675,Debit,"Freeman, Gonzales and Perez",Micheleside,0,True,,False,,False,True,C173,154982,Blocked,Andrea Pena,45,Port Alec,Current,2025-08-11
+T0123,A173,2026-02-08 23:27:02,27409,Credit,Reynolds Group,Port Scottmouth,0,False,3045546.0,False,Micheleside,False,False,C173,154982,Blocked,Andrea Pena,45,Port Alec,Current,2025-08-11
+T0065,A173,2026-02-19 22:08:39,56870,Debit,Stokes-Wheeler,South Shane,0,True,945697.0,False,Port Scottmouth,False,True,C173,154982,Blocked,Andrea Pena,45,Port Alec,Current,2025-08-11
+T0203,A173,2026-02-27 08:12:46,24884,Debit,Walsh-Bullock,Marcusberg,0,False,641047.0,False,South Shane,False,False,C173,154982,Blocked,Andrea Pena,45,Port Alec,Current,2025-08-11
+T0394,A173,2026-03-06 08:19:13,86901,Credit,"Valencia, Cole and Ruiz",New Taylor,0,True,605187.0,False,Marcusberg,False,True,C173,154982,Blocked,Andrea Pena,45,Port Alec,Current,2025-08-11
+T0860,A173,2026-04-02 18:52:14,85934,Credit,Coleman LLC,Claudialand,0,True,2370781.0,False,New Taylor,False,True,C173,154982,Blocked,Andrea Pena,45,Port Alec,Current,2025-08-11
+T0564,A173,2026-04-08 08:45:39,68618,Credit,Yoder-Austin,North Brentbury,0,True,482005.0,False,Claudialand,False,True,C173,154982,Blocked,Andrea Pena,45,Port Alec,Current,2025-08-11
+T0005,A173,2026-04-16 22:08:36,15567,Credit,Whitaker-Odom,Berryview,0,False,739377.0,False,North Brentbury,False,False,C173,154982,Blocked,Andrea Pena,45,Port Alec,Current,2025-08-11
+T0634,A174,2026-01-06 21:10:15,89075,Debit,"Decker, Jordan and Frye",North Donaldstad,1,True,,False,,False,True,C174,169159,Active,Donna Lewis,57,West Lauramouth,Savings,2024-05-16
+T0523,A174,2026-02-09 23:54:51,7888,Credit,Caldwell Inc,Berryfurt,0,False,2947476.0,False,North Donaldstad,False,False,C174,169159,Active,Donna Lewis,57,West Lauramouth,Savings,2024-05-16
+T0664,A174,2026-04-08 00:49:43,19057,Credit,Peterson and Sons,North Johnnymouth,0,False,4928092.0,False,Berryfurt,False,False,C174,169159,Active,Donna Lewis,57,West Lauramouth,Savings,2024-05-16
+T0851,A174,2026-04-22 02:18:30,5815,Debit,Brown-Waters,North Nicoleville,0,False,1214927.0,False,North Johnnymouth,False,False,C174,169159,Active,Donna Lewis,57,West Lauramouth,Savings,2024-05-16
+T0655,A175,2026-02-05 17:55:02,41589,Credit,Campbell PLC,East Robertberg,0,False,,False,,False,False,C175,140889,Blocked,Brittany Perez,56,Jennabury,Savings,2021-08-06
+T0724,A175,2026-03-25 06:18:10,63968,Credit,Cruz-Ortiz,Loveshire,0,True,4105388.0,False,East Robertberg,False,True,C175,140889,Blocked,Brittany Perez,56,Jennabury,Savings,2021-08-06
+T0904,A176,2026-01-01 18:15:35,94622,Debit,Sharp Inc,South Josephmouth,0,True,,False,,False,True,C176,11991,Dormant,David Smith,61,Johnport,Current,2023-10-07
+T0014,A176,2026-01-05 19:08:10,63369,Debit,Nguyen and Sons,South Jessicaport,0,True,348755.0,False,South Josephmouth,False,True,C176,11991,Dormant,David Smith,61,Johnport,Current,2023-10-07
+T0793,A176,2026-02-01 12:28:29,80924,Debit,Smith Inc,Jamesfort,0,True,2308819.0,False,South Jessicaport,False,True,C176,11991,Dormant,David Smith,61,Johnport,Current,2023-10-07
+T0541,A176,2026-03-02 20:41:19,77114,Credit,Horton-Armstrong,Port Victoria,0,True,2535170.0,False,Jamesfort,False,True,C176,11991,Dormant,David Smith,61,Johnport,Current,2023-10-07
+T0760,A176,2026-03-18 05:01:40,71057,Debit,Miller Ltd,North Danielbury,0,True,1326021.0,False,Port Victoria,False,True,C176,11991,Dormant,David Smith,61,Johnport,Current,2023-10-07
+T0756,A176,2026-04-09 13:09:51,74449,Credit,"Martin, Todd and Palmer",West Erika,0,True,1930091.0,False,North Danielbury,False,True,C176,11991,Dormant,David Smith,61,Johnport,Current,2023-10-07
+T0918,A176,2026-04-24 07:20:54,2658,Debit,Gray-Trujillo,East Kaylaview,0,False,1275063.0,False,West Erika,False,False,C176,11991,Dormant,David Smith,61,Johnport,Current,2023-10-07
+T0575,A177,2026-01-08 06:00:51,47985,Debit,Hunter-Jensen,Hallport,0,False,,False,,False,False,C177,83232,Dormant,Margaret Sexton,50,North Miguel,Savings,2023-06-09
+T0245,A177,2026-02-05 01:11:51,52872,Debit,Mahoney-Clark,Jenniferhaven,0,True,2401860.0,False,Hallport,False,True,C177,83232,Dormant,Margaret Sexton,50,North Miguel,Savings,2023-06-09
+T0643,A177,2026-02-17 06:31:24,46937,Debit,Ward-Mathews,New Daniel,0,False,1055973.0,False,Jenniferhaven,False,False,C177,83232,Dormant,Margaret Sexton,50,North Miguel,Savings,2023-06-09
+T0898,A177,2026-04-16 20:21:11,90405,Credit,Williams Inc,East Emma,0,True,5060987.0,False,New Daniel,False,True,C177,83232,Dormant,Margaret Sexton,50,North Miguel,Savings,2023-06-09
+T0936,A177,2026-04-18 07:19:05,40637,Credit,Bond-Wright,New Josephville,0,False,125874.0,False,East Emma,False,False,C177,83232,Dormant,Margaret Sexton,50,North Miguel,Savings,2023-06-09
+T0187,A177,2026-04-22 11:18:13,58005,Debit,"Levy, Hill and Wagner",Elliottbury,0,True,359948.0,False,New Josephville,False,True,C177,83232,Dormant,Margaret Sexton,50,North Miguel,Savings,2023-06-09
+T0907,A178,2026-01-06 17:26:42,1360,Credit,Becker Ltd,Lake Christopher,0,False,,False,,False,False,C178,12713,Blocked,Sally Curtis,45,Hooverfort,Savings,2025-10-29
+T0228,A178,2026-01-12 03:41:25,31142,Debit,Thompson and Sons,Vickihaven,0,False,468883.0,False,Lake Christopher,False,False,C178,12713,Blocked,Sally Curtis,45,Hooverfort,Savings,2025-10-29
+T0311,A178,2026-02-08 02:07:23,49427,Debit,Kemp Ltd,Leonardburgh,0,False,2327158.0,False,Vickihaven,False,False,C178,12713,Blocked,Sally Curtis,45,Hooverfort,Savings,2025-10-29
+T0440,A178,2026-02-13 16:08:59,37578,Debit,West-Pratt,North Larrymouth,0,False,482496.0,False,Leonardburgh,False,False,C178,12713,Blocked,Sally Curtis,45,Hooverfort,Savings,2025-10-29
+T0933,A178,2026-03-01 01:09:50,2575,Credit,"Lewis, Delgado and Brown",Rojashaven,0,False,1328451.0,False,North Larrymouth,False,False,C178,12713,Blocked,Sally Curtis,45,Hooverfort,Savings,2025-10-29
+T0211,A178,2026-03-02 02:13:37,53653,Credit,Coleman-Hogan,Hartmanside,0,True,90227.0,False,Rojashaven,False,True,C178,12713,Blocked,Sally Curtis,45,Hooverfort,Savings,2025-10-29
+T0006,A178,2026-03-27 05:23:02,14592,Credit,"Hines, Carlson and Olsen",Vegabury,0,False,2171365.0,False,Hartmanside,False,False,C178,12713,Blocked,Sally Curtis,45,Hooverfort,Savings,2025-10-29
+T0686,A178,2026-04-14 07:10:08,30114,Credit,"Liu, Harris and Gross",East Kathleen,0,False,1561626.0,False,Vegabury,False,False,C178,12713,Blocked,Sally Curtis,45,Hooverfort,Savings,2025-10-29
+T0615,A178,2026-04-20 16:58:30,39222,Credit,Miller-Jacobs,Port Stevenfort,0,False,553702.0,False,East Kathleen,False,False,C178,12713,Blocked,Sally Curtis,45,Hooverfort,Savings,2025-10-29
+T0067,A179,2026-01-15 03:24:13,96455,Credit,Nguyen-Pratt,New Sarahland,0,True,,False,,False,True,C179,39759,Active,Christina Hall,31,Danielport,Savings,2024-09-30
+T0220,A179,2026-01-15 12:36:12,93823,Debit,Woods Inc,East Dawn,0,True,33119.0,False,New Sarahland,False,True,C179,39759,Active,Christina Hall,31,Danielport,Savings,2024-09-30
+T0206,A179,2026-01-16 00:36:00,91446,Credit,Davis LLC,South Brentville,0,True,43188.0,False,East Dawn,False,True,C179,39759,Active,Christina Hall,31,Danielport,Savings,2024-09-30
+T0847,A179,2026-02-21 06:59:33,70153,Debit,"Hopkins, Rodriguez and Jones",Briannastad,0,True,3133413.0,False,South Brentville,False,True,C179,39759,Active,Christina Hall,31,Danielport,Savings,2024-09-30
+T0856,A179,2026-03-11 10:42:48,81374,Credit,Dunn Inc,Lake Adam,1,True,1568595.0,False,Briannastad,False,True,C179,39759,Active,Christina Hall,31,Danielport,Savings,2024-09-30
+T0587,A179,2026-04-07 01:45:42,19919,Debit,Patterson-Price,North Paul,0,False,2300574.0,False,Lake Adam,False,False,C179,39759,Active,Christina Hall,31,Danielport,Savings,2024-09-30
+T0863,A180,2026-01-11 10:53:55,67497,Credit,"Zimmerman, Torres and Meyer",North Loriside,1,True,,False,,False,True,C180,56276,Active,Kimberly Duncan,62,Michelleport,Current,2021-05-08
+T0039,A180,2026-01-29 23:07:18,55329,Debit,"Gonzalez, Rose and Rasmussen",Lake Nicole,1,True,1599203.0,False,North Loriside,False,True,C180,56276,Active,Kimberly Duncan,62,Michelleport,Current,2021-05-08
+T0306,A180,2026-02-08 21:33:07,36906,Debit,"Pollard, Jacobson and Moore",South Rebekahtown,0,False,858349.0,False,Lake Nicole,False,False,C180,56276,Active,Kimberly Duncan,62,Michelleport,Current,2021-05-08
+T0924,A180,2026-03-18 16:13:57,56605,Debit,"Li, Maldonado and Henderson",Millertown,0,True,3264050.0,False,South Rebekahtown,False,True,C180,56276,Active,Kimberly Duncan,62,Michelleport,Current,2021-05-08
+T0084,A180,2026-03-19 07:18:02,84656,Debit,Johnson Group,North Jeff,1,True,54245.0,False,Millertown,False,True,C180,56276,Active,Kimberly Duncan,62,Michelleport,Current,2021-05-08
+T0614,A180,2026-04-20 22:12:11,73153,Credit,Richardson-Wall,North Valeriefort,1,True,2818449.0,False,North Jeff,False,True,C180,56276,Active,Kimberly Duncan,62,Michelleport,Current,2021-05-08
+T0261,A181,2026-02-18 18:59:06,20385,Credit,Shelton Inc,Lake Molly,0,False,,False,,False,False,C181,190458,Blocked,Thomas Taylor,43,Beltranfurt,Savings,2026-03-03
+T0828,A181,2026-04-12 05:53:21,14903,Debit,Jenkins-Stuart,Brianstad,0,False,4532055.0,False,Lake Molly,False,False,C181,190458,Blocked,Thomas Taylor,43,Beltranfurt,Savings,2026-03-03
+T0232,A182,2026-01-15 15:53:08,45290,Debit,"Anderson, Frost and Adams",Port Alexander,0,False,,False,,False,False,C182,71878,Blocked,Wyatt Grant,59,New Ryanton,Current,2025-07-04
+T0511,A182,2026-01-25 12:22:47,34989,Debit,"Stuart, Cunningham and Jackson",New Sarah,0,False,851379.0,False,Port Alexander,False,False,C182,71878,Blocked,Wyatt Grant,59,New Ryanton,Current,2025-07-04
+T0352,A182,2026-02-18 03:24:12,64616,Credit,Wood Ltd,New Joseph,0,True,2041285.0,False,New Sarah,False,True,C182,71878,Blocked,Wyatt Grant,59,New Ryanton,Current,2025-07-04
+T0534,A182,2026-02-26 05:33:32,94083,Debit,Manning Inc,New Nicholas,0,True,698960.0,False,New Joseph,False,True,C182,71878,Blocked,Wyatt Grant,59,New Ryanton,Current,2025-07-04
+T0266,A182,2026-03-05 08:25:40,50971,Debit,Johnson-Carey,Lake Dianaburgh,1,True,615128.0,False,New Nicholas,False,True,C182,71878,Blocked,Wyatt Grant,59,New Ryanton,Current,2025-07-04
+T0400,A182,2026-04-08 05:34:55,51883,Debit,Hampton Inc,Lake William,0,True,2927355.0,False,Lake Dianaburgh,False,True,C182,71878,Blocked,Wyatt Grant,59,New Ryanton,Current,2025-07-04
+T0557,A183,2026-01-16 16:33:46,55941,Debit,Walter and Sons,Maryhaven,0,True,,False,,False,True,C183,5310,Blocked,Michael Woods,62,West Alejandro,Current,2025-11-12
+T0413,A183,2026-02-23 09:39:01,34939,Debit,Campos Group,Lake Trevortown,0,False,3258315.0,False,Maryhaven,False,False,C183,5310,Blocked,Michael Woods,62,West Alejandro,Current,2025-11-12
+T0994,A183,2026-02-28 04:29:25,46594,Credit,"Erickson, Stone and Davis",North Robertstad,0,False,413424.0,False,Lake Trevortown,False,False,C183,5310,Blocked,Michael Woods,62,West Alejandro,Current,2025-11-12
+T0963,A183,2026-03-07 05:15:31,2241,Credit,Santana-Booth,Derekshire,0,False,607566.0,False,North Robertstad,False,False,C183,5310,Blocked,Michael Woods,62,West Alejandro,Current,2025-11-12
+T0838,A183,2026-04-02 15:14:20,94948,Credit,"Mathis, Whitaker and Johnson",Jonathanmouth,0,True,2282329.0,False,Derekshire,False,True,C183,5310,Blocked,Michael Woods,62,West Alejandro,Current,2025-11-12
+T0490,A183,2026-04-09 21:09:22,14884,Debit,Brooks Inc,Parkertown,0,False,626102.0,False,Jonathanmouth,False,False,C183,5310,Blocked,Michael Woods,62,West Alejandro,Current,2025-11-12
+T0747,A184,2026-01-12 19:17:04,56177,Debit,Kelley-White,East Benjamin,0,True,,False,,False,True,C184,71691,Blocked,Cynthia Baker,57,West Amberbury,Current,2022-06-08
+T0318,A184,2026-01-31 03:33:00,90009,Debit,Warner and Sons,Donaldmouth,1,True,1584956.0,False,East Benjamin,False,True,C184,71691,Blocked,Cynthia Baker,57,West Amberbury,Current,2022-06-08
+T0676,A184,2026-02-03 10:46:02,51818,Debit,Delacruz-Soto,Danielfurt,0,True,285182.0,False,Donaldmouth,False,True,C184,71691,Blocked,Cynthia Baker,57,West Amberbury,Current,2022-06-08
+T0579,A184,2026-02-09 11:09:14,92285,Credit,Villarreal Inc,South Jordanfort,0,True,519792.0,False,Danielfurt,False,True,C184,71691,Blocked,Cynthia Baker,57,West Amberbury,Current,2022-06-08
+T0785,A184,2026-04-09 12:46:40,47890,Credit,Valenzuela-Stewart,Erikahaven,0,False,5103446.0,False,South Jordanfort,False,False,C184,71691,Blocked,Cynthia Baker,57,West Amberbury,Current,2022-06-08
+T0213,A184,2026-04-23 11:21:36,22489,Credit,"Hughes, Todd and Strong",Lamborough,0,False,1204496.0,False,Erikahaven,False,False,C184,71691,Blocked,Cynthia Baker,57,West Amberbury,Current,2022-06-08
+T0645,A185,2026-01-02 12:36:51,36634,Credit,Juarez Ltd,Sarahhaven,0,False,,False,,False,False,C185,187960,Blocked,Christopher Jennings,51,New April,Current,2026-03-11
+T0260,A185,2026-01-15 13:37:52,18566,Debit,"Mitchell, Thompson and Johnson",East Ianborough,0,False,1126861.0,False,Sarahhaven,False,False,C185,187960,Blocked,Christopher Jennings,51,New April,Current,2026-03-11
+T0053,A185,2026-01-24 02:31:02,24588,Debit,Tapia Ltd,New Stephanie,0,False,737590.0,False,East Ianborough,False,False,C185,187960,Blocked,Christopher Jennings,51,New April,Current,2026-03-11
+T0802,A185,2026-02-26 12:54:55,61285,Debit,Garrett-Lewis,Port Davidfurt,1,True,2888633.0,False,New Stephanie,False,True,C185,187960,Blocked,Christopher Jennings,51,New April,Current,2026-03-11
+T0726,A185,2026-04-10 17:00:31,71878,Credit,Wright Inc,Sarahport,1,True,3729936.0,False,Port Davidfurt,False,True,C185,187960,Blocked,Christopher Jennings,51,New April,Current,2026-03-11
+T0694,A185,2026-04-21 14:23:13,34803,Debit,"Hill, Parker and Hayes",Alyssamouth,0,False,940962.0,False,Sarahport,False,False,C185,187960,Blocked,Christopher Jennings,51,New April,Current,2026-03-11
+T0129,A186,2026-01-22 04:29:41,48985,Credit,Blanchard Group,New Penny,0,False,,False,,False,False,C186,86673,Dormant,Denise Miller,55,South Andreaside,Savings,2023-03-05
+T0533,A186,2026-02-17 08:30:01,85502,Debit,Robinson Ltd,New Jacobfurt,0,True,2260820.0,False,New Penny,False,True,C186,86673,Dormant,Denise Miller,55,South Andreaside,Savings,2023-03-05
+T0903,A186,2026-02-23 20:59:06,53060,Debit,"Holland, King and Mayer",Tiffanyside,0,True,563345.0,False,New Jacobfurt,False,True,C186,86673,Dormant,Denise Miller,55,South Andreaside,Savings,2023-03-05
+T0128,A187,2026-01-06 00:16:14,98745,Credit,Walsh-Adams,Sotohaven,0,True,,False,,False,True,C187,65519,Active,Erik Herman,40,Saundersshire,Current,2024-09-03
+T0475,A187,2026-01-06 23:58:38,43815,Debit,Lee-Dominguez,North Petertown,0,False,85344.0,False,Sotohaven,False,False,C187,65519,Active,Erik Herman,40,Saundersshire,Current,2024-09-03
+T0122,A187,2026-01-25 12:48:34,37560,Debit,Lyons-Adams,Wrightberg,0,False,1601396.0,False,North Petertown,False,False,C187,65519,Active,Erik Herman,40,Saundersshire,Current,2024-09-03
+T0184,A187,2026-02-09 22:18:41,99887,Debit,Costa-Tucker,Lake Deborah,1,True,1330207.0,False,Wrightberg,False,True,C187,65519,Active,Erik Herman,40,Saundersshire,Current,2024-09-03
+T0503,A187,2026-02-14 03:05:47,88278,Credit,Johnson Ltd,Alexischester,0,True,362826.0,False,Lake Deborah,False,True,C187,65519,Active,Erik Herman,40,Saundersshire,Current,2024-09-03
+T0763,A187,2026-02-16 17:45:23,17627,Credit,Russell Group,Donaldmouth,0,False,225576.0,False,Alexischester,False,False,C187,65519,Active,Erik Herman,40,Saundersshire,Current,2024-09-03
+T0707,A187,2026-03-14 17:04:55,82626,Credit,"Reyes, Hernandez and Martinez",East Jacob,0,True,2243972.0,False,Donaldmouth,False,True,C187,65519,Active,Erik Herman,40,Saundersshire,Current,2024-09-03
+T0373,A187,2026-03-21 08:07:25,92265,Debit,"Stephenson, Ryan and Burns",Port Richard,1,True,572550.0,False,East Jacob,False,True,C187,65519,Active,Erik Herman,40,Saundersshire,Current,2024-09-03
+T0307,A187,2026-03-24 11:02:21,92334,Credit,"Montes, Charles and Robertson",East Katherine,1,True,269696.0,False,Port Richard,False,True,C187,65519,Active,Erik Herman,40,Saundersshire,Current,2024-09-03
+T0519,A188,2026-01-15 18:08:14,85321,Debit,Rowe PLC,Mckinneystad,0,True,,False,,False,True,C188,135901,Active,Teresa Roman,53,Crystalmouth,Current,2025-10-25
+T0419,A188,2026-01-21 14:45:52,44734,Credit,"Richards, Burke and Cochran",South Richardburgh,0,False,506258.0,False,Mckinneystad,False,False,C188,135901,Active,Teresa Roman,53,Crystalmouth,Current,2025-10-25
+T0872,A188,2026-02-05 09:10:41,24261,Debit,Smith-Johnson,North Megan,0,False,1275889.0,False,South Richardburgh,False,False,C188,135901,Active,Teresa Roman,53,Crystalmouth,Current,2025-10-25
+T0240,A188,2026-02-07 16:18:45,17127,Debit,Holland PLC,Melaniebury,0,False,198484.0,False,North Megan,False,False,C188,135901,Active,Teresa Roman,53,Crystalmouth,Current,2025-10-25
+T0263,A188,2026-02-13 19:18:27,37713,Debit,Allen LLC,Davidsonland,0,False,529182.0,False,Melaniebury,False,False,C188,135901,Active,Teresa Roman,53,Crystalmouth,Current,2025-10-25
+T0574,A188,2026-03-21 22:07:46,99249,Debit,"Dean, Grant and Weaver",Port Cody,1,True,3120559.0,False,Davidsonland,False,True,C188,135901,Active,Teresa Roman,53,Crystalmouth,Current,2025-10-25
+T0522,A188,2026-03-30 06:24:29,83800,Debit,Marquez-White,Justinmouth,1,True,721003.0,False,Port Cody,False,True,C188,135901,Active,Teresa Roman,53,Crystalmouth,Current,2025-10-25
+T0799,A188,2026-03-31 07:04:27,83502,Debit,Walker Group,East Emily,0,True,88798.0,False,Justinmouth,False,True,C188,135901,Active,Teresa Roman,53,Crystalmouth,Current,2025-10-25
+T0506,A188,2026-04-03 20:38:27,79075,Credit,Fisher LLC,Bryanton,1,True,308040.0,False,East Emily,False,True,C188,135901,Active,Teresa Roman,53,Crystalmouth,Current,2025-10-25
+T0944,A189,2026-01-07 08:17:57,81214,Debit,Ramos-Walsh,South Andrewborough,1,True,,False,,False,True,C189,83410,Dormant,Brooke Stone,58,North Charlesside,Current,2022-11-14
+T0738,A189,2026-01-09 13:16:15,72151,Credit,"Garcia, Wise and Ramos",Erintown,0,True,190698.0,False,South Andrewborough,False,True,C189,83410,Dormant,Brooke Stone,58,North Charlesside,Current,2022-11-14
+T0653,A189,2026-03-25 19:19:34,21518,Debit,Kelley Inc,Jeremyland,0,False,6501799.0,False,Erintown,False,False,C189,83410,Dormant,Brooke Stone,58,North Charlesside,Current,2022-11-14
+T0487,A190,2026-01-11 08:09:54,13090,Credit,Rogers-Garza,Kimberlymouth,0,False,,False,,False,False,C190,78586,Active,Mary Shelton,49,West William,Savings,2025-03-04
+T0439,A190,2026-01-26 01:20:04,53828,Debit,Powers Group,Port Jared,1,True,1271410.0,False,Kimberlymouth,False,True,C190,78586,Active,Mary Shelton,49,West William,Savings,2025-03-04
+T0814,A190,2026-02-10 07:07:59,80189,Credit,"Parker, Wall and Jacobs",South Karen,0,True,1316875.0,False,Port Jared,False,True,C190,78586,Active,Mary Shelton,49,West William,Savings,2025-03-04
+T0882,A190,2026-02-16 01:05:16,39369,Credit,"Castillo, Jennings and Lewis",East Tammie,0,False,496637.0,False,South Karen,False,False,C190,78586,Active,Mary Shelton,49,West William,Savings,2025-03-04
+T0473,A190,2026-03-27 19:07:37,88707,Debit,"Cooper, Barry and Black",Lopezfurt,0,True,3434541.0,False,East Tammie,False,True,C190,78586,Active,Mary Shelton,49,West William,Savings,2025-03-04
+T0409,A190,2026-04-05 21:40:06,83119,Credit,"Shelton, Kelley and Hester",Mcbrideshire,0,True,786749.0,False,Lopezfurt,False,True,C190,78586,Active,Mary Shelton,49,West William,Savings,2025-03-04
+T0124,A191,2026-01-02 06:45:40,34299,Debit,"Martinez, Cervantes and Stewart",Lake Michelleport,0,False,,False,,False,False,C191,32170,Dormant,Brett Meyers,23,East Justinberg,Current,2021-09-06
+T0719,A191,2026-01-13 19:13:26,21547,Credit,Gonzales-Olson,Shawnton,0,False,995266.0,False,Lake Michelleport,False,False,C191,32170,Dormant,Brett Meyers,23,East Justinberg,Current,2021-09-06
+T0045,A191,2026-01-20 13:29:20,20497,Credit,"Fletcher, Lee and Anderson",Landryview,0,False,584154.0,False,Shawnton,False,False,C191,32170,Dormant,Brett Meyers,23,East Justinberg,Current,2021-09-06
+T0582,A191,2026-02-20 22:50:32,25908,Debit,"Martinez, Shepherd and Carter",North Destinyberg,0,False,2712072.0,False,Landryview,False,False,C191,32170,Dormant,Brett Meyers,23,East Justinberg,Current,2021-09-06
+T0949,A191,2026-02-26 02:46:21,62159,Credit,Chavez Inc,East Melissaside,1,True,446149.0,False,North Destinyberg,False,True,C191,32170,Dormant,Brett Meyers,23,East Justinberg,Current,2021-09-06
+T0649,A191,2026-03-19 13:28:09,49421,Credit,"Perkins, Alexander and Reilly",New Kennethport,0,False,1852908.0,False,East Melissaside,False,False,C191,32170,Dormant,Brett Meyers,23,East Justinberg,Current,2021-09-06
+T0673,A191,2026-04-12 03:21:26,2510,Credit,Chen-Saunders,New Christinaside,0,False,2037197.0,False,New Kennethport,False,False,C191,32170,Dormant,Brett Meyers,23,East Justinberg,Current,2021-09-06
+T0689,A191,2026-04-22 21:08:39,45296,Credit,"Myers, Walters and Vasquez",East Craigside,0,False,928033.0,False,New Christinaside,False,False,C191,32170,Dormant,Brett Meyers,23,East Justinberg,Current,2021-09-06
+T0227,A192,2026-02-03 00:31:23,90090,Debit,"Johnson, Gray and Garcia",North James,0,True,,False,,False,True,C192,42521,Dormant,Amy Bell,49,Silvamouth,Current,2021-06-18
+T0662,A193,2026-01-10 23:30:13,80358,Credit,"Moore, Nelson and Villa",West Kyleland,1,True,,False,,False,True,C193,63877,Active,Tiffany Garcia,47,Brianfurt,Savings,2023-09-23
+T0826,A193,2026-01-12 09:48:42,76601,Credit,Smith Inc,West Joseph,0,True,123509.0,False,West Kyleland,False,True,C193,63877,Active,Tiffany Garcia,47,Brianfurt,Savings,2023-09-23
+T0902,A193,2026-03-11 21:59:52,16045,Credit,Douglas-Dunlap,Michaelborough,0,False,5055070.0,False,West Joseph,False,False,C193,63877,Active,Tiffany Garcia,47,Brianfurt,Savings,2023-09-23
+T0636,A193,2026-03-16 21:11:24,92948,Debit,Mcdonald Group,Amyside,0,True,429092.0,False,Michaelborough,False,True,C193,63877,Active,Tiffany Garcia,47,Brianfurt,Savings,2023-09-23
+T0234,A193,2026-03-16 21:31:05,56687,Debit,Graham-Meyer,South Kimberly,0,True,1181.0,True,Amyside,True,True,C193,63877,Active,Tiffany Garcia,47,Brianfurt,Savings,2023-09-23
+T0544,A193,2026-04-02 19:13:31,41762,Credit,Wood Ltd,Port Matthew,0,False,1460546.0,False,South Kimberly,False,False,C193,63877,Active,Tiffany Garcia,47,Brianfurt,Savings,2023-09-23
+T0191,A193,2026-04-04 19:24:34,5974,Credit,Sandoval-Kent,Port Heather,0,False,173463.0,False,Port Matthew,False,False,C193,63877,Active,Tiffany Garcia,47,Brianfurt,Savings,2023-09-23
+T0861,A193,2026-04-04 19:25:22,7992,Credit,"Robinson, Poole and Gibbs",Lake Joshualand,0,False,48.0,True,Port Heather,True,True,C193,63877,Active,Tiffany Garcia,47,Brianfurt,Savings,2023-09-23
+T0348,A194,2026-01-07 23:32:11,53193,Credit,Hull Inc,Lake Joelfurt,0,True,,False,,False,True,C194,97484,Active,Rebecca Le,59,East Randyport,Current,2024-12-27
+T0441,A194,2026-02-26 00:35:36,36170,Credit,Landry Ltd,West Ryan,0,False,4237405.0,False,Lake Joelfurt,False,False,C194,97484,Active,Rebecca Le,59,East Randyport,Current,2024-12-27
+T0573,A194,2026-02-28 00:02:03,86207,Debit,Hernandez LLC,East Samanthachester,0,True,170787.0,False,West Ryan,False,True,C194,97484,Active,Rebecca Le,59,East Randyport,Current,2024-12-27
+T0672,A194,2026-03-01 13:30:29,11861,Credit,Collins-Cook,Carlbury,0,False,134906.0,False,East Samanthachester,False,False,C194,97484,Active,Rebecca Le,59,East Randyport,Current,2024-12-27
+T0168,A195,2026-04-18 09:33:33,33732,Debit,Smith and Sons,Port Karen,0,False,,False,,False,False,C195,64570,Blocked,Rachel Jones,24,Brandonmouth,Current,2025-12-17
+T0844,A196,2026-01-07 00:05:20,5418,Credit,"Haney, Garner and Hart",Port Eric,0,False,,False,,False,False,C196,60626,Blocked,Teresa Rodriguez,28,New Victor,Savings,2024-05-19
+T0107,A196,2026-01-30 07:52:33,87288,Credit,Fox-Campbell,East Samuelmouth,0,True,2015233.0,False,Port Eric,False,True,C196,60626,Blocked,Teresa Rodriguez,28,New Victor,Savings,2024-05-19
+T0717,A196,2026-02-13 06:24:45,93146,Debit,Mclean LLC,Port Rhonda,0,True,1204332.0,False,East Samuelmouth,False,True,C196,60626,Blocked,Teresa Rodriguez,28,New Victor,Savings,2024-05-19
+T0985,A196,2026-02-27 19:03:45,3596,Credit,Koch Inc,Theresaside,0,False,1255140.0,False,Port Rhonda,False,False,C196,60626,Blocked,Teresa Rodriguez,28,New Victor,Savings,2024-05-19
+T0512,A196,2026-03-01 02:24:42,97465,Debit,Nguyen-Bridges,West Traceyport,0,True,112857.0,False,Theresaside,False,True,C196,60626,Blocked,Teresa Rodriguez,28,New Victor,Savings,2024-05-19
+T0396,A197,2026-02-15 05:26:20,36917,Credit,Solis-Smith,West Davidland,0,False,,False,,False,False,C197,83467,Blocked,Katrina Peterson,47,Ariasberg,Current,2022-01-13
+T0850,A197,2026-04-12 07:23:47,89074,Debit,Wyatt-Moody,Andersonchester,1,True,4845447.0,False,West Davidland,False,True,C197,83467,Blocked,Katrina Peterson,47,Ariasberg,Current,2022-01-13
+T0002,A198,2026-01-04 18:25:39,38425,Credit,English Group,Saundersside,0,False,,False,,False,False,C198,5657,Blocked,Mark Flores,57,Ryanview,Current,2021-11-09
+T0692,A198,2026-02-25 17:17:23,2435,Credit,Smith Inc,Cathymouth,0,False,4488704.0,False,Saundersside,False,False,C198,5657,Blocked,Mark Flores,57,Ryanview,Current,2021-11-09
+T0402,A198,2026-02-26 19:02:07,63767,Credit,"Smith, Robinson and Cole",Port Michele,0,True,92684.0,False,Cathymouth,False,True,C198,5657,Blocked,Mark Flores,57,Ryanview,Current,2021-11-09
+T0633,A198,2026-03-26 17:07:55,86075,Debit,Curtis-Harris,North Shellyshire,0,True,2412348.0,False,Port Michele,False,True,C198,5657,Blocked,Mark Flores,57,Ryanview,Current,2021-11-09
+T0749,A198,2026-04-14 02:44:02,39032,Credit,Short-Griffin,Jonesmouth,0,False,1589767.0,False,North Shellyshire,False,False,C198,5657,Blocked,Mark Flores,57,Ryanview,Current,2021-11-09
+T0171,A199,2026-01-17 10:18:11,79361,Credit,Petty-Smith,Port Daniel,1,True,,False,,False,True,C199,162547,Dormant,Holly Hughes,44,Sarahmouth,Current,2022-03-11
+T0709,A199,2026-02-23 10:47:56,65225,Debit,Sparks Inc,Ruizhaven,0,True,3198585.0,False,Port Daniel,False,True,C199,162547,Dormant,Holly Hughes,44,Sarahmouth,Current,2022-03-11
+T0648,A199,2026-03-28 14:58:44,9366,Credit,Myers Ltd,West Kimberlyside,0,False,2866248.0,False,Ruizhaven,False,False,C199,162547,Dormant,Holly Hughes,44,Sarahmouth,Current,2022-03-11
+T0033,A200,2026-01-11 09:39:56,27768,Debit,Davis-Mcdonald,Port Joshuaview,0,False,,False,,False,False,C200,100162,Blocked,Pamela Torres,32,Jensenbury,Current,2021-07-24
+T0725,A200,2026-02-10 13:56:56,12373,Debit,Lara Inc,Port Erika,0,False,2607420.0,False,Port Joshuaview,False,False,C200,100162,Blocked,Pamela Torres,32,Jensenbury,Current,2021-07-24
+T0998,A200,2026-02-16 05:15:10,40075,Credit,Rios-Strong,Lake Shannon,0,False,487094.0,False,Port Erika,False,False,C200,100162,Blocked,Pamela Torres,32,Jensenbury,Current,2021-07-24
+T0068,A200,2026-02-25 02:59:06,58673,Debit,"Reyes, Hernandez and Kim",Dunntown,0,True,769436.0,False,Lake Shannon,False,True,C200,100162,Blocked,Pamela Torres,32,Jensenbury,Current,2021-07-24
